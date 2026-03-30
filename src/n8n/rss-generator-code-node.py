@@ -161,6 +161,23 @@ def run_n8n_code(items):
     return result
 
 
+def run_n8n_code_safe(items):
+    result = run_n8n_code(items)
+    if not isinstance(result, list):
+        return []
+
+    safe_result = []
+    for item in result:
+        if not isinstance(item, dict):
+            continue
+        json_value = item.get("json")
+        if json_value is None:
+            continue
+        safe_result.append({"json": json_value})
+    return safe_result
+
+
 # In n8n Python Code Node als letzte Zeile verwenden:
-# return run_n8n_code(_items)
-preview_output = run_n8n_code([])
+# result = run_n8n_code_safe(_items)
+# return result
+preview_output = run_n8n_code_safe([])
