@@ -119,8 +119,14 @@ def build_output(tenants, pub_date):
 
 def extract_tenants_from_items(items):
     tenants = []
-    for item in items:
+    for item in items or []:
+        if item is None:
+            continue
+        if not isinstance(item, dict):
+            continue
         payload = item.get("json", item)
+        if payload is None:
+            continue
         if isinstance(payload, list):
             for entry in payload:
                 if isinstance(entry, dict):
@@ -148,7 +154,11 @@ def run_n8n_code(items):
     output_data = build_output(tenants, pub_date)
 
     # n8n erwartet eine Liste von Items mit json-Property
-    return [{"json": entry} for entry in output_data]
+    result = []
+    for entry in output_data:
+        if isinstance(entry, dict):
+            result.append({"json": entry})
+    return result
 
 
 # In n8n Python Code Node als letzte Zeile verwenden:
