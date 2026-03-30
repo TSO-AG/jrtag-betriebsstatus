@@ -75,4 +75,3 @@ return {
   fileName: createSlug(tenantName),
   rssFeed: rssFeed
 };
-
