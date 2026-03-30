@@ -83,10 +83,11 @@ items.forEach(item => delete item._sort);
 
 return {
   tenantName,
-  feed: {
+  fileName: createSlug(tenantName),
+  feed: [{
     version: 'https://jsonfeed.org/version/1',
     title: `RSS Feed ${tenantName}`,
     description: `Alle Stories für ${tenantName}`,
     items
-  }
+  }]
 };
