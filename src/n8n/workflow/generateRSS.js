@@ -3,6 +3,7 @@ const tenantName = tenant.tenantName;
 const lifts = Array.isArray(tenant.lifts) ? tenant.lifts : [];
 const slopes = Array.isArray(tenant.slopes) ? tenant.slopes : [];
 const trails = Array.isArray(tenant.trails) ? tenant.trails : [];
+const gastros = Array.isArray(tenant.gastros) ? tenant.gastros : [];
 
 // Helper function to extract name (prefer German, fallback to English)
 function getName(nameObj) {
@@ -56,7 +57,8 @@ function buildRssItems(entries, tag, sourceType) {
 const rssItems = [
   buildRssItems(lifts, 'Anlage', 'lifts'),
   buildRssItems(slopes, 'Piste', 'slopes'),
-  buildRssItems(trails, 'Trail', 'trails')
+  buildRssItems(trails, 'Trail', 'trails'),
+  buildRssItems(gastros, 'Gastro', 'gastros')
 ]
   .filter(Boolean)
   .join('\n\n');

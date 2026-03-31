@@ -3,6 +3,7 @@ const tenantName = tenant.tenantName;
 const lifts = Array.isArray(tenant.lifts) ? tenant.lifts : [];
 const slopes = Array.isArray(tenant.slopes) ? tenant.slopes : [];
 const trails = Array.isArray(tenant.trails) ? tenant.trails : [];
+const gastros = Array.isArray(tenant.gastros) ? tenant.gastros : [];
 
 const currentTimestamp = new Date().toISOString();
 
@@ -51,22 +52,25 @@ function createFeedItem(entry, tag, sourceType) {
   const slug = createSlug(title);
   const id = String(entry.id || '');
 
-  return `{"id": ${id},
-          "title": ${id},
-          url: "https://demo.tourismusweb.site/de/index/${slug}-${id}.html",
-          "date_published": "${currentTimestamp}",
-          "_state": "${mapState(entry.status)}",
-          "_stateRaw": "${mapStateRaw(entry.status)}",
-          "_tags": "${tag}",
-          "sourceTenant": "${tenantName}",
-          "sourceType": "${sourceType}"}
-        `;
+  return {
+    id,
+    title,
+    url: `https://demo.tourismusweb.site/de/index/${slug}-${id}.html`,
+    date_published: currentTimestamp,
+    _state: mapState(entry.status),
+    _stateRaw: mapStateRaw(entry.status),
+    _tags: tag,
+    _sort: entry.sort ?? null,
+    sourceTenant: tenantName,
+    sourceType
+  };
 }
 
 const items = [
   ...lifts.map(entry => createFeedItem(entry, 'Anlage', 'lifts')),
   ...slopes.map(entry => createFeedItem(entry, 'Piste', 'slopes')),
-  ...trails.map(entry => createFeedItem(entry, 'Trail', 'trails'))
+  ...trails.map(entry => createFeedItem(entry, 'Trail', 'trails')),
+  ...gastros.map(entry => createFeedItem(entry, 'Gastro', 'gastros'))
 ];
 
 // Sort by explicit sort value first, then by title.
@@ -82,12 +86,10 @@ items.forEach(item => delete item._sort);
 return {
   tenantName,
   fileName: createSlug(tenantName),
-  feed: `
-    version: "https://jsonfeed.org/version/1",
-    title: "RSS Feed ${tenantName}",
-    description: "Alle Stories für ${tenantName}",
-    items: [
-        ${items}
-    ]
-    `
+  feed: [{
+    version: 'https://jsonfeed.org/version/1',
+    title: `RSS Feed ${tenantName}`,
+    description: `Alle Stories für ${tenantName}`,
+    items: items
+  }]
 };
