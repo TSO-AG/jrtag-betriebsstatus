@@ -7,7 +7,6 @@ Es soll mehere Ausgaben geben für "Formate" die unter ## Ausgabe / Funktion auf
 Diese Formate sollen unter /api/xy für JSON und RSS oder als HTML unter /operating-status/xy oder als einbindbares Javascript unter /js/xy für andere Webseiten vorhanden sein.
 
 ## Daten Quelle
-
 https://export.siscontrol.ch/sismedia/json/B1463C13-F6D8-4270-8C0B-0CFF9E135E62
 
 ## Ausgaben / Funktionen
@@ -23,11 +22,8 @@ https://export.siscontrol.ch/sismedia/json/B1463C13-F6D8-4270-8C0B-0CFF9E135E62
 
 * Github Pages mit Github Action
 * Alle 5min aktualisiert
-* 
-
 
 ## Lösungen prüfen mit 
-
 * n8n
 * make
-* vibecode
+* vibecode (github copilot)
