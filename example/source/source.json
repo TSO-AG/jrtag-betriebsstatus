@@ -1,0 +1,5662 @@
+{
+  "version": "1.5",
+  "tenants": [
+    {
+      "tenantName": "Kleine Scheidegg",
+      "numberOfLiftsSummer": 27,
+      "numberOfOpenLiftsSummer": 25,
+      "numberOfLiftsWinter": 32,
+      "numberOfOpenLiftsWinter": 27,
+      "numberOfSlopes": 60,
+      "numberOfOpenSlopes": 49,
+      "numberOfSnowparks": 0,
+      "numberOfOpenSnowparks": 0,
+      "numberOfTobogganings": 18,
+      "numberOfOpenTobogganings": 11,
+      "numberOfCrosscountry": 0,
+      "numberOfOpenCrosscountry": 0,
+      "numberOfHikesSummer": 25,
+      "numberOfOpenHikesSummer": 2,
+      "numberOfHikesWinter": 15,
+      "numberOfOpenHikesWinter": 13,
+      "numberOfSnowshoes": 1,
+      "numberOfOpenSnowshoes": 1,
+      "numberOfBikes": 0,
+      "numberOfOpenBikes": 0,
+      "numberOfPois": 9,
+      "numberOfOpenPois": 4,
+      "lifts": [
+        {
+          "id": 94,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Allmend – Wengernalp", "en": "" },
+          "status": 2,
+          "season": 0,
+          "sort": 7,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 95,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Alpiglen – Kleine Scheidegg" },
+          "status": 2,
+          "season": 0,
+          "sort": 3,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 96,
+          "type": 6,
+          "name": { "de": "Arven" },
+          "status": 2,
+          "season": 0,
+          "sort": 20,
+          "info": "**Saisonzeiten**\n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\nTäglich 09:00 - 16:45 Uhr \n\n**Anlagetyp**\n4er Sesselbahn\n\n**Beförderungskapazität**\n1800 Personen/Stunde\n\n**Fahrzeit**\n4 Minuten\n\n**Höhendifferenz**\n223 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:45",
+          "website": {}
+        },
+        {
+          "id": 97,
+          "type": 11,
+          "name": { "de": "Brandegg – Alpiglen" },
+          "status": 2,
+          "season": 0,
+          "sort": 2,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 98,
+          "type": 3,
+          "name": { "de": "Bumps" },
+          "status": 0,
+          "season": 2,
+          "sort": 28,
+          "info": "**Saisonzeiten**\n25.12.2025 bis 22.3.2026\n\n**Betriebszeiten**\ntäglich 09:30 - 16:30 Uhr \n\n**Anlagetyp**\nBügellift\n\n**Beförderungskapazität**\n800 Personen/Stunde\n\n**Fahrzeit**\n3 Minuten\n\n**Höhendifferenz**\n154 Meter",
+          "firstRide": "09:30",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 99,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Eigergletscher – Jungfraujoch" },
+          "status": 2,
+          "season": 0,
+          "sort": 11,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 100,
+          "type": 7,
+          "name": { "de": "Eigernordwand" },
+          "status": 2,
+          "season": 0,
+          "sort": 27,
+          "info": "**Saisonzeiten**\n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\nTäglich 08.30 - 16.30 Uhr \n\n**Anlagetyp**\n6er Sesselbahn mit Hauben\n\n**Beförderungskapazität**\n2000 Personen/Stunde\n\n**Fahrzeit**\n6 Minuten\n\n**Höhendifferenz**\n495 Meter",
+          "firstRide": "08:30",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 102,
+          "type": 3,
+          "label": "",
+          "name": { "de": "Figeller" },
+          "status": 1,
+          "season": 2,
+          "sort": 30,
+          "website": {}
+        },
+        {
+          "id": 103,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Grindelwald – Grund" },
+          "status": 2,
+          "season": 0,
+          "sort": 0,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 104,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Grindelwald – Kleine Scheidegg" },
+          "status": 2,
+          "season": 0,
+          "sort": 4,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 105,
+          "type": 2,
+          "label": "",
+          "name": { "de": "Grindelwald Grund – Holenstein" },
+          "status": 2,
+          "season": 0,
+          "sort": 13,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 106,
+          "type": 2,
+          "name": { "de": "Grindelwald Grund – Männlichen" },
+          "status": 2,
+          "season": 0,
+          "sort": 15,
+          "info": "Gondelbahn Grindelwald Männlichen\n \nSaisonzeiten:\n07.12.2024 bis 06.04.2025\n \n7. Dezember 2024 bis 24. Januar 2025\nab Grindelwald Terminal: 8.00 – 16.00 Uhr\nLetzte Talfahrt ab Männlichen: 16.30 Uhr\n \n25. Januar bis 6. April 2025\nab Grindelwald Terminal: 8.00 – 16.30 Uhr\nLetzte Talfahrt ab Männlichen",
+          "website": {}
+        },
+        {
+          "id": 107,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Grund – Brandegg" },
+          "status": 2,
+          "season": 0,
+          "sort": 1,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 108,
+          "type": 6,
+          "name": { "de": "Gummi" },
+          "status": 2,
+          "season": 0,
+          "sort": 21,
+          "info": "**Saisonzeiten**\n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\ntäglich 09:00 - 16:30 Uhr \n\n**Anlagetyp**\n4er Sesselbahn\n\n**Beförderungskapazität**\n1800 Personen/Stunde\n\n**Fahrzeit**\n3 Minuten\n\n**Höhendifferenz**\n219 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 109,
+          "type": 2,
+          "label": "",
+          "name": { "de": "Holenstein – Männlichen" },
+          "status": 2,
+          "season": 0,
+          "sort": 14,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 110,
+          "type": 7,
+          "name": { "de": "Honegg" },
+          "status": 2,
+          "season": 0,
+          "sort": 26,
+          "info": "**Saisonzeiten**\n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\ntäglich 09:00 - 16:30 Uhr \n\n**Anlagetyp**\n6er mit Hauben\n\n**Beförderungskapazität**\n2000 Personen/Stunde\n\n**Fahrzeit**\n6 Minuten\n\n**Höhendifferenz**\n464 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 111,
+          "type": 6,
+          "name": { "de": "Innerwengen" },
+          "status": 1,
+          "season": 0,
+          "sort": 23,
+          "info": "**Saisonzeiten**\n25.12.2025 - 29.3.2026\n\n**Betriebszeiten**\nTäglich 09:00 - 17:15 hr \n\n**Anlagetyp**\n4er Sesselbahn\n\n**Beförderungskapazität**\n1600 Personen/Stunde\n\n**Fahrzeit**\n3 Minuten",
+          "firstRide": "09:00",
+          "lastRide": "16:45",
+          "website": {}
+        },
+        {
+          "id": 112,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Kleine Scheidegg – Eigergletscher" },
+          "status": 2,
+          "season": 0,
+          "sort": 10,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 113,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Kleine Scheidegg – Jungfraujoch" },
+          "status": 2,
+          "season": 0,
+          "sort": 12,
+          "info": "*Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 114,
+          "type": 6,
+          "name": { "de": "Lauberhorn" },
+          "status": 2,
+          "season": 0,
+          "sort": 22,
+          "info": "**Saisonzeiten**\n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\ntäglich 09:00 - 16:30 Uhr \n\n**Anlagetyp**\n4er Sesselbahn\n\n**Beförderungskapazität**\n1800 Personen/Stunde\n\n**Fahrzeit**\n5 Minuten\n\n**Höhendifferenz**\n323 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 115,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Lauterbrunnen – Kleine Scheidegg" },
+          "status": 2,
+          "season": 0,
+          "sort": 9,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 116,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Lauterbrunnen – Wengen" },
+          "status": 2,
+          "season": 0,
+          "sort": 5,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 117,
+          "type": 6,
+          "name": { "de": "Läger" },
+          "status": 1,
+          "season": 0,
+          "sort": 19,
+          "info": "Saisonzeiten:\n13.12.2025 bis 06.04.2026\n \nBetriebszeiten\nTäglich 09:00 – 16:00 Uhr / ab 31.01.2026 bis 16:30 Uhr\n\n\n**Anlagetyp**\n4er mit Hauben\n\n**Beförderungskapazität**\n1800 Personen/Stunde\n\n**Fahrzeit**\n7 Minuten\n\n**Höhendifferenz**\n446 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 118,
+          "type": 3,
+          "name": { "de": "Männlichen" },
+          "status": 2,
+          "season": 2,
+          "sort": 31,
+          "info": "Saisonzeiten:\n13.12.2025 bis 06.04.2026\n \nBetriebszeiten\nTäglich 09:00 – 16:00 Uhr / ab 31.01.2026 bis 16:30 Uhr\n\n\n**Anlagetyp**\nSkilift\n\n**Beförderungskapazität**\n800 Personen/Stunde\n\n**Fahrzeit**\n1 Minuten\n\n**Höhendifferenz**\n20 Meter",
+          "firstRide": "08:30",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 119,
+          "type": 6,
+          "name": { "de": "Männlichen" },
+          "status": 2,
+          "season": 0,
+          "sort": 18,
+          "info": "Saisonzeiten:\n13.12.2025 bis 06.04.2026\n \nBetriebszeiten\nTäglich 08:30 – 16:00 Uhr / ab 31.01.2026 bis 16:30 Uhr\n\n\n**Anlagetyp**\n4er mit Hauben\n\n**Beförderungskapazität**\n1800 Personen/Stunde\n\n**Fahrzeit**\n8 Minuten\n\n**Höhendifferenz**\n435 Meter",
+          "firstRide": "08:30",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 120,
+          "type": 3,
+          "name": { "de": "Tschuggen" },
+          "status": 2,
+          "season": 2,
+          "sort": 32,
+          "info": "Saisonzeiten:\n13.12.2025 bis 06.04.2026\n \nBetriebszeiten\nTäglich 09:00 – 16:00 Uhr / ab 31.01.2026 bis 16:30 Uhr\n\n\n**Anlagetyp**\nBügellift\n\n**Beförderungskapazität**\n1000 Personen/Stunde\n\n**Fahrzeit**\n7 Minuten\n\n**Höhendifferenz**\n345 Meter",
+          "firstRide": "08:30",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 121,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Wengen – Allmend" },
+          "status": 2,
+          "season": 0,
+          "sort": 6,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 122,
+          "type": 1,
+          "name": { "de": "Wengen – Männlichen" },
+          "status": 2,
+          "season": 0,
+          "sort": 17,
+          "info": "Saisonzeiten:\n13. Dezember 2025 bis 06. April 2026\n\nBetriebszeiten:\nBergfahrt: Täglich 08:15-16:15 Uhr / ab 31.01.2026 bis 16:45 Uhr\nTalfahrt: Täglich 08:15-16:30 Uhr / ab 31.01.2026 bis 17:00 Uhr\n\nBeförderungskapazität: \n800 Pers./h in jeder Richtung\n\nFahrzeit:\n6 Minuten\n\nHöhendifferenz:\n947 Meter",
+          "firstRide": "08:15",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 123,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Wengernalp – Kleine Scheidegg" },
+          "status": 2,
+          "season": 0,
+          "sort": 8,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 124,
+          "type": 3,
+          "label": "",
+          "name": { "de": "Wengiboden" },
+          "status": 1,
+          "season": 2,
+          "sort": 29,
+          "website": {}
+        },
+        {
+          "id": 125,
+          "type": 7,
+          "name": { "de": "Wixi" },
+          "status": 2,
+          "season": 0,
+          "sort": 25,
+          "info": "**Saisonzeiten**\n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\ntäglich 09:00 - 16:30 Uhr \n\n**Anlagetyp**\n6er Sesselbahn mit Hauben\n\n**Beförderungskapazität**\n2400 Personen/Stunde\n\n**Fahrzeit**\n6 Minuten\n\n**Höhendifferenz**\n500 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 165,
+          "type": 2,
+          "label": "",
+          "name": { "de": "Eiger Express" },
+          "status": 2,
+          "season": 0,
+          "sort": 16,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        }
+      ],
+      "slopes": [
+        {
+          "id": 90,
+          "type": 3,
+          "label": "1",
+          "name": { "de": "Gratbort", "en": "" },
+          "status": 2,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 620,
+          "info": "",
+          "website": {}
+        },
+        {
+          "id": 91,
+          "type": 3,
+          "label": "1",
+          "name": { "de": "Grathula" },
+          "status": 1,
+          "season": 2,
+          "sort": 1,
+          "lengthMeter": 650,
+          "website": {}
+        },
+        {
+          "id": 92,
+          "type": 2,
+          "label": "11",
+          "name": { "de": "Bärhaag" },
+          "status": 2,
+          "season": 2,
+          "sort": 14,
+          "lengthMeter": 4310,
+          "website": {}
+        },
+        {
+          "id": 93,
+          "type": 2,
+          "label": "11",
+          "name": { "de": "Loogler" },
+          "status": 2,
+          "season": 2,
+          "sort": 15,
+          "lengthMeter": 1030,
+          "website": {}
+        },
+        {
+          "id": 94,
+          "type": 1,
+          "label": "12",
+          "name": { "de": "Rohr" },
+          "status": 2,
+          "season": 2,
+          "sort": 16,
+          "lengthMeter": 1820,
+          "website": {}
+        },
+        {
+          "id": 95,
+          "type": 2,
+          "label": "13",
+          "name": { "de": "Honegg - Seeli" },
+          "status": 2,
+          "season": 2,
+          "sort": 17,
+          "lengthMeter": 2280,
+          "website": {}
+        },
+        {
+          "id": 96,
+          "type": 2,
+          "label": "15",
+          "name": { "de": "Inberg" },
+          "status": 2,
+          "season": 2,
+          "sort": 18,
+          "lengthMeter": 2160,
+          "website": {}
+        },
+        {
+          "id": 97,
+          "type": 13,
+          "label": "16",
+          "name": { "de": "Gummi Nord" },
+          "status": 1,
+          "season": 2,
+          "sort": 19,
+          "lengthMeter": 500,
+          "info": "nicht präpariert\nkeine Schlusskontrolle",
+          "website": {}
+        },
+        {
+          "id": 98,
+          "type": 2,
+          "label": "18",
+          "name": { "de": "Männlichen -> Scheidegg" },
+          "status": 2,
+          "season": 2,
+          "sort": 20,
+          "lengthMeter": 450,
+          "website": {}
+        },
+        {
+          "id": 99,
+          "type": 1,
+          "label": "2",
+          "name": { "de": "Wasserwendi Slow-Slope" },
+          "status": 1,
+          "season": 2,
+          "sort": 2,
+          "lengthMeter": 3190,
+          "website": {}
+        },
+        {
+          "id": 100,
+          "type": 2,
+          "label": "21",
+          "name": { "de": "Arven - Skilift Tschuggen" },
+          "status": 2,
+          "season": 2,
+          "sort": 24,
+          "lengthMeter": 2500,
+          "website": {}
+        },
+        {
+          "id": 101,
+          "type": 2,
+          "label": "21",
+          "name": { "de": "Kleine Scheidegg - Arven" },
+          "status": 2,
+          "season": 2,
+          "sort": 21,
+          "lengthMeter": 1710,
+          "website": {}
+        },
+        {
+          "id": 102,
+          "type": 2,
+          "label": "21",
+          "name": { "de": "Kleine Scheidegg - Grindelwald Grund" },
+          "status": 2,
+          "season": 2,
+          "sort": 22,
+          "lengthMeter": 3410,
+          "website": {}
+        },
+        {
+          "id": 103,
+          "type": 2,
+          "label": "21",
+          "name": { "de": "Scheidegg -> Männlichen" },
+          "status": 2,
+          "season": 2,
+          "sort": 23,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 104,
+          "type": 2,
+          "label": "21",
+          "name": { "de": "Tschuggen - Aspen Talabfahrt" },
+          "status": 2,
+          "season": 2,
+          "sort": 25,
+          "lengthMeter": 3730,
+          "website": {}
+        },
+        {
+          "id": 105,
+          "type": 1,
+          "label": "22",
+          "name": { "de": "Arven - Brandegg" },
+          "status": 2,
+          "season": 2,
+          "sort": 27,
+          "lengthMeter": 5090,
+          "website": {}
+        },
+        {
+          "id": 106,
+          "type": 1,
+          "label": "22",
+          "name": { "de": "Brandegg - Grindelwald Grund" },
+          "status": 2,
+          "season": 2,
+          "sort": 28,
+          "lengthMeter": 2730,
+          "website": {}
+        },
+        {
+          "id": 107,
+          "type": 1,
+          "label": "22",
+          "name": { "de": "Kleine Scheidegg - Arven" },
+          "status": 2,
+          "season": 2,
+          "sort": 26,
+          "lengthMeter": 1710,
+          "website": {}
+        },
+        {
+          "id": 108,
+          "type": 1,
+          "label": "23",
+          "name": { "de": "Aspen - Grindelwald Grund" },
+          "status": 1,
+          "season": 2,
+          "sort": 30,
+          "lengthMeter": 2260,
+          "website": {}
+        },
+        {
+          "id": 109,
+          "type": 2,
+          "label": "23",
+          "name": { "de": "Brandegg - Aspen" },
+          "status": 1,
+          "season": 2,
+          "sort": 29,
+          "lengthMeter": 2390,
+          "website": {}
+        },
+        {
+          "id": 110,
+          "type": 1,
+          "label": "24",
+          "name": { "de": "Schattwald" },
+          "status": 2,
+          "season": 2,
+          "sort": 31,
+          "lengthMeter": 2160,
+          "website": {}
+        },
+        {
+          "id": 111,
+          "type": 1,
+          "label": "25",
+          "name": { "de": "Phenix" },
+          "status": 2,
+          "season": 2,
+          "sort": 32,
+          "lengthMeter": 1810,
+          "website": {}
+        },
+        {
+          "id": 112,
+          "type": 2,
+          "label": "26",
+          "name": { "de": "Punchball" },
+          "status": 2,
+          "season": 2,
+          "sort": 33,
+          "lengthMeter": 2050,
+          "website": {}
+        },
+        {
+          "id": 113,
+          "type": 3,
+          "label": "27",
+          "name": { "de": "Oh - God" },
+          "status": 1,
+          "season": 2,
+          "sort": 34,
+          "lengthMeter": 900,
+          "website": {}
+        },
+        {
+          "id": 114,
+          "type": 2,
+          "label": "3",
+          "name": { "de": "Holenstein - Grindelwald Grund" },
+          "status": 2,
+          "season": 2,
+          "sort": 5,
+          "lengthMeter": 3070,
+          "website": {}
+        },
+        {
+          "id": 115,
+          "type": 2,
+          "label": "3",
+          "name": { "de": "Männlichen" },
+          "status": 2,
+          "season": 2,
+          "sort": 3,
+          "lengthMeter": 3070,
+          "website": {}
+        },
+        {
+          "id": 116,
+          "type": 2,
+          "label": "3",
+          "name": { "de": "Männlichen Holenstein (Eggboden)" },
+          "status": 2,
+          "season": 2,
+          "sort": 6,
+          "lengthMeter": 550,
+          "website": {}
+        },
+        {
+          "id": 117,
+          "type": 2,
+          "label": "3",
+          "name": { "de": "Männlichenlift Talst. - Holenstein" },
+          "status": 2,
+          "season": 2,
+          "sort": 4,
+          "lengthMeter": 1600,
+          "website": {}
+        },
+        {
+          "id": 118,
+          "type": 3,
+          "label": "31",
+          "name": { "de": "Schwarzen" },
+          "status": 2,
+          "season": 2,
+          "sort": 36,
+          "lengthMeter": 1600,
+          "website": {}
+        },
+        {
+          "id": 119,
+          "type": 3,
+          "label": "32",
+          "name": { "de": "Black - Rock" },
+          "status": 2,
+          "season": 2,
+          "sort": 37,
+          "lengthMeter": 2160,
+          "website": {}
+        },
+        {
+          "id": 120,
+          "type": 2,
+          "label": "34",
+          "name": { "de": "Mittelegg" },
+          "status": 2,
+          "season": 2,
+          "sort": 38,
+          "lengthMeter": 2050,
+          "website": {}
+        },
+        {
+          "id": 121,
+          "type": 2,
+          "label": "35",
+          "name": { "de": "Moos" },
+          "status": 2,
+          "season": 2,
+          "sort": 39,
+          "lengthMeter": 1020,
+          "website": {}
+        },
+        {
+          "id": 122,
+          "type": 1,
+          "label": "36",
+          "name": { "de": "Allmend - Wengen Dorf" },
+          "status": 2,
+          "season": 2,
+          "sort": 44,
+          "lengthMeter": 2280,
+          "website": {}
+        },
+        {
+          "id": 123,
+          "type": 1,
+          "label": "36",
+          "name": { "de": "Kleine Scheidegg - Wengernalp" },
+          "status": 2,
+          "season": 2,
+          "sort": 40,
+          "lengthMeter": 2160,
+          "website": {}
+        },
+        {
+          "id": 124,
+          "type": 1,
+          "label": "36",
+          "name": { "de": "Wengernalp - Allmend" },
+          "status": 2,
+          "season": 2,
+          "sort": 41,
+          "lengthMeter": 3750,
+          "website": {}
+        },
+        {
+          "id": 125,
+          "type": 1,
+          "label": "37",
+          "name": { "de": "Wengernalp - Wixi" },
+          "status": 2,
+          "season": 2,
+          "sort": 46,
+          "lengthMeter": 1020,
+          "website": {}
+        },
+        {
+          "id": 126,
+          "type": 2,
+          "label": "4",
+          "name": { "de": "Eggboden" },
+          "status": 2,
+          "season": 2,
+          "sort": 7,
+          "lengthMeter": 3290,
+          "website": {}
+        },
+        {
+          "id": 127,
+          "type": 3,
+          "label": "41",
+          "name": { "de": "Stöckipiste" },
+          "status": 2,
+          "season": 2,
+          "sort": 47,
+          "lengthMeter": 1700,
+          "website": {}
+        },
+        {
+          "id": 128,
+          "type": 3,
+          "label": "41a",
+          "name": { "de": "Einfahrtspiste" },
+          "status": 2,
+          "season": 2,
+          "sort": 48,
+          "lengthMeter": 550,
+          "website": {}
+        },
+        {
+          "id": 129,
+          "type": 2,
+          "label": "42",
+          "name": { "de": "Lauberhorn" },
+          "status": 2,
+          "season": 2,
+          "sort": 49,
+          "lengthMeter": 2040,
+          "website": {}
+        },
+        {
+          "id": 130,
+          "type": 2,
+          "label": "43",
+          "name": { "de": "Standard Innerwengen" },
+          "status": 1,
+          "season": 2,
+          "sort": 50,
+          "lengthMeter": 1380,
+          "website": {}
+        },
+        {
+          "id": 131,
+          "type": 2,
+          "label": "44",
+          "name": { "de": "Engi" },
+          "status": 2,
+          "season": 2,
+          "sort": 51,
+          "lengthMeter": 2160,
+          "website": {}
+        },
+        {
+          "id": 132,
+          "type": 3,
+          "label": "45",
+          "name": { "de": "Hanneggbrücke - Innerwengen" },
+          "status": 1,
+          "season": 2,
+          "sort": 53,
+          "lengthMeter": 1370,
+          "website": {}
+        },
+        {
+          "id": 133,
+          "type": 3,
+          "label": "45",
+          "name": { "de": "Lauberhorn-Start - Hanneggbrücke" },
+          "status": 2,
+          "season": 2,
+          "sort": 52,
+          "lengthMeter": 3290,
+          "website": {}
+        },
+        {
+          "id": 134,
+          "type": 2,
+          "label": "46",
+          "name": { "de": "Huussengg" },
+          "status": 1,
+          "season": 2,
+          "sort": 54,
+          "lengthMeter": 790,
+          "website": {}
+        },
+        {
+          "id": 135,
+          "type": 3,
+          "label": "47",
+          "name": { "de": "Lauberhorn Weltcup Slalom" },
+          "status": 1,
+          "season": 2,
+          "sort": 55,
+          "lengthMeter": 1020,
+          "website": {}
+        },
+        {
+          "id": 136,
+          "type": 2,
+          "label": "5",
+          "name": { "de": "Distelboden" },
+          "status": 2,
+          "season": 2,
+          "sort": 9,
+          "lengthMeter": 1040,
+          "website": {}
+        },
+        {
+          "id": 137,
+          "type": 1,
+          "label": "6",
+          "name": { "de": "Läger" },
+          "status": 2,
+          "season": 2,
+          "sort": 10,
+          "lengthMeter": 3050,
+          "website": {}
+        },
+        {
+          "id": 138,
+          "type": 2,
+          "label": "7",
+          "name": { "de": "Sattelegg" },
+          "status": 2,
+          "season": 2,
+          "sort": 11,
+          "lengthMeter": 2510,
+          "website": {}
+        },
+        {
+          "id": 139,
+          "type": 2,
+          "label": "8",
+          "name": { "de": "Gummi Süd" },
+          "status": 2,
+          "season": 2,
+          "sort": 12,
+          "lengthMeter": 2280,
+          "website": {}
+        },
+        {
+          "id": 140,
+          "type": 8,
+          "name": { "de": "Skiliftpisten A Kleine Scheidegg" },
+          "status": 2,
+          "season": 2,
+          "sort": 56,
+          "lengthMeter": 14000,
+          "website": {}
+        },
+        {
+          "id": 141,
+          "type": 8,
+          "label": "",
+          "name": { "de": "Skiliftpisten B Kleine Scheidegg" },
+          "status": 2,
+          "season": 2,
+          "sort": 57,
+          "lengthMeter": 30000,
+          "website": {}
+        },
+        {
+          "id": 142,
+          "type": 8,
+          "label": "",
+          "name": { "de": "Skiliftpisten Männlichen" },
+          "status": 2,
+          "season": 2,
+          "sort": 58,
+          "lengthMeter": 26100,
+          "website": {}
+        },
+        {
+          "id": 143,
+          "type": 8,
+          "label": "",
+          "name": { "de": "Skischulgelände Wengen" },
+          "status": 2,
+          "season": 2,
+          "sort": 59,
+          "lengthMeter": 500,
+          "website": {}
+        },
+        {
+          "id": 167,
+          "type": 9,
+          "label": "60",
+          "name": { "de": "Männlichen Gipfel" },
+          "status": 2,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 1800,
+          "website": {}
+        },
+        {
+          "id": 168,
+          "type": 9,
+          "label": "61 ",
+          "name": { "de": "Easy Männlichen - Holenstein" },
+          "status": 2,
+          "season": 2,
+          "sort": 1,
+          "lengthMeter": 4500,
+          "website": {}
+        },
+        {
+          "id": 169,
+          "type": 9,
+          "label": "62",
+          "name": { "de": "Ritas Speedway" },
+          "status": 2,
+          "season": 2,
+          "sort": 2,
+          "lengthMeter": 4000,
+          "website": {}
+        },
+        {
+          "id": 170,
+          "type": 9,
+          "label": "64",
+          "name": { "de": "Alpiglen - Brandegg (Eiger Run Night)" },
+          "status": 1,
+          "season": 2,
+          "sort": 5,
+          "lengthMeter": 2000,
+          "website": {}
+        },
+        {
+          "id": 171,
+          "type": 9,
+          "label": "64",
+          "name": { "de": "Brandegg - Grindelwald Grund (Eiger Run)" },
+          "status": 1,
+          "season": 2,
+          "sort": 8,
+          "lengthMeter": 2500,
+          "website": {}
+        },
+        {
+          "id": 172,
+          "type": 9,
+          "label": "64",
+          "name": { "de": "Kleine Scheidegg - Alpiglen (Eiger Run)" },
+          "status": 2,
+          "season": 2,
+          "sort": 4,
+          "lengthMeter": 5500,
+          "website": {}
+        },
+        {
+          "id": 173,
+          "type": 9,
+          "label": "65",
+          "name": { "de": "Fallboden (Pelzmantel)" },
+          "status": 1,
+          "season": 2,
+          "sort": 9,
+          "lengthMeter": 0,
+          "info": "",
+          "website": {}
+        },
+        {
+          "id": 174,
+          "type": 9,
+          "label": "66",
+          "name": { "de": "Allmend - Wengen Dorf (Fox Run)" },
+          "status": 1,
+          "season": 2,
+          "sort": 12,
+          "lengthMeter": 5500,
+          "website": {}
+        },
+        {
+          "id": 175,
+          "type": 9,
+          "label": "66",
+          "name": { "de": "Kleine Scheidegg - Wengernalp (Fox Run)" },
+          "status": 2,
+          "season": 2,
+          "sort": 10,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 176,
+          "type": 9,
+          "label": "66",
+          "name": { "de": "Wengernalp - Allmend (Fox Run)" },
+          "status": 2,
+          "season": 2,
+          "sort": 11,
+          "lengthMeter": 4000,
+          "website": {}
+        },
+        {
+          "id": 177,
+          "type": 9,
+          "label": "67",
+          "name": { "de": "Holenstein - Grindelwald Grund" },
+          "status": 1,
+          "season": 2,
+          "sort": 13,
+          "lengthMeter": 5000,
+          "website": {}
+        },
+        {
+          "id": 178,
+          "type": 9,
+          "label": "",
+          "name": { "de": "Scheidegg - Männlichen" },
+          "status": 2,
+          "season": 2,
+          "sort": 16,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 179,
+          "type": 9,
+          "label": "",
+          "name": { "de": "Scheidegg - Salzegg" },
+          "status": 2,
+          "season": 2,
+          "sort": 17,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 205,
+          "type": 9,
+          "label": "68",
+          "name": {
+            "de": "Eigergletscher - Kleine Scheidegg (Jungfrau Eiger Run)"
+          },
+          "status": 2,
+          "season": 2,
+          "sort": 14,
+          "lengthMeter": 2500,
+          "info": "",
+          "website": {}
+        },
+        {
+          "id": 206,
+          "type": 9,
+          "label": "64",
+          "name": {
+            "de": "Alpiglen - Brandegg (Eiger Run - schwer/difficult)"
+          },
+          "status": 1,
+          "season": 2,
+          "sort": 7,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 297,
+          "type": 2,
+          "label": "8b",
+          "name": { "de": "Gummi Süd" },
+          "status": 1,
+          "season": 2,
+          "sort": 13,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 299,
+          "type": 9,
+          "label": "68b",
+          "name": {
+            "de": "Eigergletscher - Kleine Scheidegg (Jungfrau Eiger Run)"
+          },
+          "status": 1,
+          "season": 2,
+          "sort": 15,
+          "lengthMeter": 0,
+          "info": "",
+          "website": {}
+        },
+        {
+          "id": 300,
+          "type": 13,
+          "label": "4b",
+          "name": { "de": "Eggboden" },
+          "status": 2,
+          "season": 2,
+          "sort": 8,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 301,
+          "type": 9,
+          "label": "62b",
+          "name": { "de": "Ritas Speedway" },
+          "status": 2,
+          "season": 2,
+          "sort": 3,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 302,
+          "type": 1,
+          "label": "36b",
+          "name": { "de": "Wengernalp - Allmend" },
+          "status": 2,
+          "season": 2,
+          "sort": 43,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 303,
+          "type": 1,
+          "label": "36a",
+          "name": { "de": "Wengernalp - Allmend" },
+          "status": 2,
+          "season": 2,
+          "sort": 42,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 728,
+          "type": 1,
+          "label": "31",
+          "name": { "de": "Schwarzen" },
+          "status": 2,
+          "season": 2,
+          "sort": 35,
+          "lengthMeter": 1400,
+          "website": {}
+        },
+        {
+          "id": 929,
+          "type": 9,
+          "label": "64",
+          "name": { "de": "Alpiglen - Brandegg (Eiger Run)" },
+          "status": 2,
+          "season": 2,
+          "sort": 6,
+          "lengthMeter": 2000,
+          "website": {}
+        },
+        {
+          "id": 1211,
+          "type": 1,
+          "label": "36",
+          "name": {
+            "de": "Kleine Scheidegg - Wixi",
+            "en": "Kleine Scheidegg - Wixi"
+          },
+          "status": 2,
+          "season": 2,
+          "sort": 45,
+          "lengthMeter": 0,
+          "website": {}
+        }
+      ],
+      "trails": [
+        {
+          "id": 7,
+          "type": 3,
+          "label": "",
+          "name": { "de": "Klettersteig Rotstock", "en": "" },
+          "status": 1,
+          "season": 1,
+          "sort": 27,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 8,
+          "type": 2,
+          "label": "25",
+          "name": {
+            "de": "Grindelwald - Gletscherschlucht - Boneren - Alpiglen"
+          },
+          "status": 1,
+          "season": 1,
+          "sort": 0,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 9,
+          "type": 2,
+          "label": "29",
+          "name": {
+            "de": "Wengernalp - Biglenalp - Locherflue - Kl. Scheidegg (Marathon -Trail)"
+          },
+          "status": 1,
+          "season": 1,
+          "sort": 1,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 11,
+          "type": 2,
+          "label": "31",
+          "name": { "de": "Holenstein - Bustiglen - Kleine Scheidegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 5,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 12,
+          "type": 2,
+          "label": "32",
+          "name": { "de": "Holenstein - Brandegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 6,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 13,
+          "type": 2,
+          "label": "33",
+          "name": { "de": "Männlichen - Kleine Scheidegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 7,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 14,
+          "type": 2,
+          "label": "34",
+          "name": { "de": "Alpiglen – Kleine Scheidegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 8,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 15,
+          "type": 2,
+          "label": "35",
+          "name": { "de": "Alpiglen - Bustiglen - Männlichen" },
+          "status": 1,
+          "season": 1,
+          "sort": 11,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 16,
+          "type": 2,
+          "label": "36",
+          "name": { "de": "Eiger Trail (Alpiglen - Eigergletscher)" },
+          "status": 1,
+          "season": 1,
+          "sort": 12,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 18,
+          "type": 2,
+          "label": "37",
+          "name": {
+            "de": "Jungfrau Eiger Walk (Eigergletscher - Kleine Scheidegg)"
+          },
+          "status": 1,
+          "season": 1,
+          "sort": 14,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 19,
+          "type": 2,
+          "label": "38",
+          "name": { "de": "Wengernalp - Biglenalp - Eigergletscher" },
+          "status": 1,
+          "season": 1,
+          "sort": 15,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 20,
+          "type": 2,
+          "label": "39",
+          "name": { "de": "Wengernalp - Biglenalp - Kleine Scheidegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 16,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 21,
+          "type": 2,
+          "label": "40",
+          "name": { "de": "Lauberhorn Trail (Kleine Scheidegg - Wengen)" },
+          "status": 1,
+          "season": 1,
+          "sort": 17,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 22,
+          "type": 2,
+          "label": "41",
+          "name": { "de": "Wengen - Wengernalp - Kleine Scheidegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 18,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 23,
+          "type": 2,
+          "label": "42",
+          "name": { "de": "Wengen - Staldenfluh - Mettlenalp - Wengernalp" },
+          "status": 1,
+          "season": 1,
+          "sort": 19,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 24,
+          "type": 2,
+          "label": "43",
+          "name": { "de": "Wengen - Mettlenalp - Biglenalp - Wengernalp" },
+          "status": 1,
+          "season": 1,
+          "sort": 20,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 25,
+          "type": 2,
+          "label": "44",
+          "name": { "de": "Wengen - Leiterhorn - Spätenalp - Burglauenen" },
+          "status": 1,
+          "season": 1,
+          "sort": 21,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 26,
+          "type": 2,
+          "label": "45",
+          "name": { "de": "Wengen - Männlichen" },
+          "status": 1,
+          "season": 1,
+          "sort": 22,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 27,
+          "type": 2,
+          "label": "46",
+          "name": { "de": "Wengen - In Gassen - Männlichen" },
+          "status": 1,
+          "season": 1,
+          "sort": 23,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 28,
+          "type": 2,
+          "label": "47",
+          "name": { "de": "Royal Walk (Männlichen - Männlichengipfel)" },
+          "status": 1,
+          "season": 1,
+          "sort": 24,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 29,
+          "type": 2,
+          "label": "48",
+          "name": { "de": "Lauterbrunnen - Wengen" },
+          "status": 2,
+          "season": 1,
+          "sort": 25,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 30,
+          "type": 2,
+          "label": "49",
+          "name": { "de": "Lauterbrunnen - Wengwald - Wengen" },
+          "status": 2,
+          "season": 1,
+          "sort": 26,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 31,
+          "type": 2,
+          "label": "60",
+          "name": { "de": "Royal Walk Männlichen Gipfel" },
+          "status": 2,
+          "season": 2,
+          "sort": 28,
+          "lengthMeter": 800,
+          "website": {}
+        },
+        {
+          "id": 32,
+          "type": 2,
+          "label": "61",
+          "name": { "de": "Easy Männlichen - Holenstein" },
+          "status": 2,
+          "season": 2,
+          "sort": 29,
+          "lengthMeter": 3000,
+          "website": {},
+          "info": "Dauer: 1:45 h"
+        },
+        {
+          "id": 33,
+          "type": 2,
+          "label": "63",
+          "name": { "de": "Kleine Scheidegg - Männlichen" },
+          "status": 2,
+          "season": 2,
+          "sort": 30,
+          "lengthMeter": 6500,
+          "website": {}
+        },
+        {
+          "id": 34,
+          "type": 2,
+          "label": "63",
+          "name": { "de": "Männlichen - Kleine Scheidegg" },
+          "status": 2,
+          "season": 2,
+          "sort": 31,
+          "lengthMeter": 6500,
+          "website": {}
+        },
+        {
+          "id": 35,
+          "type": 2,
+          "label": "64",
+          "name": { "de": "Alpiglen - Brandegg (Eiger Run)" },
+          "status": 2,
+          "season": 2,
+          "sort": 33,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 36,
+          "type": 2,
+          "label": "64",
+          "name": { "de": "Brandegg - Grindelwald Grund (Eiger Run)" },
+          "status": 2,
+          "season": 2,
+          "sort": 34,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 37,
+          "type": 2,
+          "label": "64",
+          "name": { "de": "Kleine Scheidegg - Alpiglen (Eiger Run)" },
+          "status": 2,
+          "season": 2,
+          "sort": 32,
+          "lengthMeter": 5500,
+          "website": {}
+        },
+        {
+          "id": 38,
+          "type": 2,
+          "label": "65",
+          "name": { "de": "Fallboden (Pelzmantel)" },
+          "status": 2,
+          "season": 2,
+          "sort": 36,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 39,
+          "type": 2,
+          "label": "66",
+          "name": { "de": "Allmend - Wengen Dorf (Fox Run)" },
+          "status": 2,
+          "season": 2,
+          "sort": 39,
+          "lengthMeter": 5500,
+          "website": {}
+        },
+        {
+          "id": 40,
+          "type": 2,
+          "label": "66",
+          "name": { "de": "Kleine Scheidegg - Wengernalp (Fox Run)" },
+          "status": 2,
+          "season": 2,
+          "sort": 37,
+          "lengthMeter": 2000,
+          "website": {}
+        },
+        {
+          "id": 41,
+          "type": 2,
+          "label": "66",
+          "name": { "de": "Wengernalp - Allmend (Fox Run)" },
+          "status": 2,
+          "season": 2,
+          "sort": 38,
+          "lengthMeter": 5500,
+          "website": {}
+        },
+        {
+          "id": 119,
+          "type": 2,
+          "label": "68",
+          "name": { "de": "Jungfrau Eiger Run" },
+          "status": 2,
+          "season": 2,
+          "sort": 41,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 120,
+          "type": 2,
+          "label": "64",
+          "name": {
+            "de": "Alpiglen - Brandegg (Eiger Run - schwer/difficult)"
+          },
+          "status": 2,
+          "season": 2,
+          "sort": 35,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 130,
+          "type": 2,
+          "label": "67",
+          "name": { "de": "Holenstein - Grindelwald Grund" },
+          "status": 1,
+          "season": 2,
+          "sort": 40,
+          "lengthMeter": 5000,
+          "website": {}
+        },
+        {
+          "id": 138,
+          "type": 2,
+          "label": "68b",
+          "name": {
+            "de": "Eigergletscher - Kleine Scheidegg (Jungfrau Eiger Run)"
+          },
+          "status": 1,
+          "season": 2,
+          "sort": 42,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 357,
+          "type": 2,
+          "label": "30",
+          "name": { "de": "Männlichen - Holenstein" },
+          "status": 1,
+          "season": 1,
+          "sort": 3,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 358,
+          "type": 2,
+          "label": "30",
+          "name": { "de": "Holenstein - Grindelwald" },
+          "status": 1,
+          "season": 1,
+          "sort": 4,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1269,
+          "type": 2,
+          "label": "34",
+          "name": { "de": "Brandegg – Alpiglen" },
+          "status": 1,
+          "season": 1,
+          "sort": 9,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1270,
+          "type": 2,
+          "label": "34",
+          "name": { "de": "Grindelwald – Brandegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 10,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1327,
+          "type": 1,
+          "name": { "de": "Schneeschuhtrail Holenstein-Brandegg" },
+          "status": 2,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 0,
+          "website": {}
+        }
+      ],
+      "pois": [
+        {
+          "id": 9,
+          "type": 76,
+          "name": { "de": "Lauberhorn Rennstrecke (Zeitmessung Haneggschuss)" },
+          "status": 1,
+          "season": 2,
+          "sort": 6,
+          "website": {}
+        },
+        {
+          "id": 10,
+          "type": 41,
+          "name": { "de": "Beginner Park Kl.Scheidegg" },
+          "status": 2,
+          "season": 2,
+          "sort": 2,
+          "website": {}
+        },
+        {
+          "id": 11,
+          "type": 41,
+          "name": { "de": "Kinderparadies Männlichen" },
+          "status": 2,
+          "season": 2,
+          "sort": 1,
+          "website": {}
+        },
+        {
+          "id": 12,
+          "type": 76,
+          "name": { "de": "Lauberhorn-live" },
+          "status": 2,
+          "season": 2,
+          "sort": 5,
+          "website": {}
+        },
+        {
+          "id": 13,
+          "type": 31,
+          "name": { "de": "Paragliding-Startplatz" },
+          "status": 0,
+          "season": 0,
+          "sort": 3,
+          "website": {}
+        },
+        {
+          "id": 14,
+          "type": 73,
+          "name": { "de": "Rent NetWork-Mietstelle Männlichen" },
+          "status": 2,
+          "season": 0,
+          "sort": 4,
+          "info": "",
+          "website": {}
+        },
+        {
+          "id": 15,
+          "type": 76,
+          "name": { "de": "Trainingspiste Männlichen" },
+          "status": 1,
+          "season": 2,
+          "sort": 8,
+          "website": {}
+        },
+        {
+          "id": 16,
+          "type": 76,
+          "name": { "de": "Trainingsstrecke mit Zeitmessung" },
+          "status": 1,
+          "season": 2,
+          "sort": 7,
+          "website": {}
+        },
+        {
+          "id": 890,
+          "type": 3,
+          "name": { "de": "ATC (Avalanche Training Center)" },
+          "status": 1,
+          "season": 2,
+          "sort": 0,
+          "website": {}
+        }
+      ],
+      "gastros": [
+        {
+          "id": 13,
+          "type": 2,
+          "name": { "de": "Allmend", "en": "" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0,
+          "info": ""
+        },
+        {
+          "id": 14,
+          "type": 2,
+          "name": { "de": "Alpiglen" },
+          "website": {},
+          "status": 1,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 15,
+          "type": 2,
+          "name": { "de": "Buschdiglen-Bar" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 16,
+          "type": 2,
+          "name": { "de": "Bahnhofbuffett Kleine Scheidegg" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 17,
+          "type": 2,
+          "name": { "de": "Banket Restaurant Eiger - Jungfraujoch" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 18,
+          "type": 2,
+          "name": { "de": "Bellevue Kleine Scheidegg" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 19,
+          "type": 2,
+          "name": { "de": "Brandegg" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 20,
+          "type": 2,
+          "name": { "de": "Eigergletscher" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 21,
+          "type": 2,
+          "name": { "de": "Eigernordwand" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 22,
+          "type": 2,
+          "name": { "de": "Grindelwaldblick" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 23,
+          "type": 2,
+          "name": { "de": "Holzerbar" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 24,
+          "type": 2,
+          "name": { "de": "Hotel Bodenwald" },
+          "website": {},
+          "status": 0,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 25,
+          "type": 2,
+          "name": { "de": "Jungfraujoch  - Top of Europe" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 26,
+          "type": 2,
+          "name": { "de": "Kaffeebar - Jungfraujoch" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 27,
+          "type": 2,
+          "name": { "de": "Männlichen" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 28,
+          "type": 2,
+          "name": { "de": "Männlichen-Bar" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 29,
+          "type": 2,
+          "name": { "de": "Mönchsjochhütte" },
+          "website": {},
+          "status": 1,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 30,
+          "type": 2,
+          "name": { "de": "Proseccobar Sphinx - Jungfraujoch" },
+          "website": {},
+          "status": 0,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 31,
+          "type": 2,
+          "name": { "de": "Quicki-Bar" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 32,
+          "type": 2,
+          "name": { "de": "Restaurant Aletsch - Jungfraujoch" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 33,
+          "type": 2,
+          "name": { "de": "Restaurant Bollywood - Jungfraujoch" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 34,
+          "type": 2,
+          "name": { "de": "Schigrill & Bar Gysibielen" },
+          "website": {},
+          "status": 0,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 35,
+          "type": 2,
+          "name": { "de": "Schneebar Läger" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 36,
+          "type": 2,
+          "name": { "de": "The Wall Bar" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 37,
+          "type": 2,
+          "name": { "de": "Spycherbar Männlichen" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 38,
+          "type": 2,
+          "name": { "de": "Startbar Lauberhorn" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 39,
+          "type": 2,
+          "name": { "de": "Food & Bar Hütte Kleine Scheidegg" },
+          "website": {},
+          "status": 0,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 40,
+          "type": 2,
+          "name": { "de": "Vorsaas Stube" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 41,
+          "type": 2,
+          "name": { "de": "Wengeneralp" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 42,
+          "type": 2,
+          "name": { "de": "Wöschbar" },
+          "website": {},
+          "status": 1,
+          "season": 0,
+          "sort": 0
+        }
+      ],
+      "meteo": [
+        {
+          "location": "Wengen",
+          "altitude": "1274 m",
+          "weather": 13,
+          "temperature": -2,
+          "windSpeed": 0,
+          "latestSnowfall": "2026-03-31",
+          "snowDepth": 25,
+          "freshSnow": 0,
+          "lastChange": "2026-03-31T06:02:18.6066667Z",
+          "avalanche": { "level": 4, "de": "gross", "en": "high" },
+          "condition": {
+            "slope": { "value": 801, "de": "gut", "en": "good" },
+            "snow": { "value": 901, "de": "pulver", "en": "powder" }
+          },
+          "meteoProvider": null
+        },
+        {
+          "location": "Kleine Scheidegg / Männlichen",
+          "altitude": "2061 m",
+          "weather": 2,
+          "temperature": -6,
+          "windSpeed": 0,
+          "latestSnowfall": "2026-03-29",
+          "snowDepth": 110,
+          "freshSnow": 20,
+          "lastChange": "2026-03-31T06:02:18.6066667Z",
+          "avalanche": { "level": 4, "de": "gross", "en": "high" },
+          "condition": {
+            "slope": { "value": 801, "de": "gut", "en": "good" },
+            "snow": { "value": 901, "de": "pulver", "en": "powder" }
+          },
+          "meteoProvider": null
+        }
+      ],
+      "texts": [
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Ereignistext auf Karten",
+            "en": "Event text on maps",
+            "fr": "Texte de l'événement sur les cartes",
+            "it": "Testo dell'evento sulle mappe"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        },
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Infotext unter jungfrau.ch 1",
+            "en": "Information text on jungfrau.ch 1",
+            "fr": "Texte d’information sur jungfrau.ch 1",
+            "it": "Testo informativo su jungfrau.ch 1"
+          },
+          "text": {
+            "de": "Vom Karfreitag 03.04.2026 bis Ostersonntag 05.04.2026 Sesselbahn Innerwengen und die Lauberhornrennstrecke wieder offen!",
+            "en": "",
+            "fr": "",
+            "it": ""
+          }
+        },
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Infotext unter jungfrau.ch 4",
+            "en": "Information text on jungfrau.ch 4",
+            "fr": "Texte d’information sur jungfrau.ch 4",
+            "it": "Testo informativo su jungfrau.ch 4"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        },
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Infotext unter jungfrau.ch 2",
+            "en": "Information text on jungfrau.ch 2",
+            "fr": "Texte d’information sur jungfrau.ch 2",
+            "it": "Testo informativo su jungfrau.ch 2"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        },
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Infotext unter jungfrau.ch 3",
+            "en": "Information text on jungfrau.ch 3",
+            "fr": "Texte d’information sur jungfrau.ch 3",
+            "it": "Testo informativo su jungfrau.ch 3"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        },
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Infotext unter jungfrau.ch 5",
+            "en": "Information text on jungfrau.ch 5",
+            "fr": "Texte d’information sur jungfrau.ch 5",
+            "it": "Testo informativo su jungfrau.ch 5"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        }
+      ]
+    },
+    {
+      "tenantName": "First",
+      "numberOfLiftsSummer": 4,
+      "numberOfOpenLiftsSummer": 3,
+      "numberOfLiftsWinter": 10,
+      "numberOfOpenLiftsWinter": 4,
+      "numberOfSlopes": 27,
+      "numberOfOpenSlopes": 11,
+      "numberOfSnowparks": 1,
+      "numberOfOpenSnowparks": 0,
+      "numberOfTobogganings": 11,
+      "numberOfOpenTobogganings": 2,
+      "numberOfCrosscountry": 2,
+      "numberOfOpenCrosscountry": 0,
+      "numberOfHikesSummer": 45,
+      "numberOfOpenHikesSummer": 6,
+      "numberOfHikesWinter": 15,
+      "numberOfOpenHikesWinter": 5,
+      "numberOfSnowshoes": 8,
+      "numberOfOpenSnowshoes": 6,
+      "numberOfBikes": 0,
+      "numberOfOpenBikes": 0,
+      "numberOfPois": 24,
+      "numberOfOpenPois": 4,
+      "lifts": [
+        {
+          "id": 126,
+          "type": 14,
+          "name": { "de": "bodmiARENA" },
+          "status": 1,
+          "season": 2,
+          "sort": 0,
+          "info": "14. Dezember 2024 bis 23. März 2025",
+          "website": {}
+        },
+        {
+          "id": 127,
+          "type": 3,
+          "name": { "de": "bodmiLIFT" },
+          "status": 1,
+          "season": 2,
+          "sort": 1,
+          "info": "**Saisonzeiten**\n14 .Dezember 2024 bis 23. März 2025\n\n**Betriebszeiten**\ntäglich 09:00 - 16:30 Uhr\n\n**Anlagetyp**\nDoppel - Skilift\n\n**Beförderungskapazität**\n2 x 700 Personen/Stunde\n\n**Fahrzeit**\n2 Minuten\n\n**Höhendifferenz**\n48 Meter\n\n[**Webcam**](http://qr.jungfrau.ch/bodmi)",
+          "website": {}
+        },
+        {
+          "id": 128,
+          "type": 2,
+          "name": { "de": "Grindelwald – Bort" },
+          "status": 2,
+          "season": 0,
+          "sort": 2,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 130,
+          "type": 3,
+          "name": { "de": "Bärgelegg" },
+          "status": 0,
+          "season": 2,
+          "sort": 12,
+          "info": "**Saisonzeiten**\n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\ntäglich 09:00 - 16:00 Uhr \n\n**Anlagetyp**\nBügellift\n\n**Beförderungskapazität**\n800 Personen/Stunde\n\n**Fahrzeit**\n5 Minuten\n\n**Höhendifferenz**\n205 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:00",
+          "website": {}
+        },
+        {
+          "id": 131,
+          "type": 6,
+          "name": { "de": "Grindel" },
+          "status": 0,
+          "season": 2,
+          "sort": 10,
+          "info": "**Saisonzeiten**\n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\ntäglich 09:00 - 16:30Uhr \n\n**Anlagetyp**\n4er Sesselbahn\n\n**Beförderungskapazität**\n1950 Personen/Stunde\n\n**Fahrzeit**\n4 Minuten\n\n**Höhendifferenz**\n290 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": {}
+        },
+        {
+          "id": 132,
+          "type": 2,
+          "label": "",
+          "name": { "de": "Bort – Schreckfeld" },
+          "status": 2,
+          "season": 0,
+          "sort": 3,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 134,
+          "type": 2,
+          "label": "",
+          "name": { "de": "Schreckfeld – First", "en": "Schreckfeld – First" },
+          "status": 2,
+          "season": 0,
+          "sort": 5,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/live/betriebsdaten/)",
+          "website": {}
+        },
+        {
+          "id": 135,
+          "type": 3,
+          "name": { "de": "Hohwald" },
+          "status": 0,
+          "season": 2,
+          "sort": 13,
+          "info": "**Saisonzeiten**\n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\ntäglich 09:00 - 16:15 Uhr \n\n**Anlagetyp**\nBügellift\n\n**Beförderungskapazität**\n800 Personen/Stunde\n\n**Fahrzeit**\n6 Minuten\n\n**Höhendifferenz**\n243 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:15",
+          "website": {}
+        },
+        {
+          "id": 136,
+          "type": 6,
+          "name": { "de": "Oberjoch" },
+          "status": 2,
+          "season": 2,
+          "sort": 9,
+          "info": "**Saisonzeiten** \n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\ntäglich 09:00 - 16:15 Uhr\n\n**Anlagetyp**\n4er Sesselbahn\n\n**Beförderungskapazität**\n2000 Personen/Stunde\n\n**Fahrzeit**\n7 Minuten\n\n**Höhendifferenz**\n336 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:15",
+          "travelTimeMinutes": 7,
+          "throughputPersHour": 2000,
+          "website": {}
+        },
+        {
+          "id": 137,
+          "type": 6,
+          "name": {
+            "de": "Schilt",
+            "en": "4er Sesselbahn Schreckfeld-Chrinnenboden/Schilt"
+          },
+          "status": 0,
+          "season": 2,
+          "sort": 11,
+          "info": "**Saisonzeiten**\n[Pistendaten](https://www.jungfrau.ch/de-ch/live/pistendaten/)\n\n**Betriebszeiten**\ntäglich 09:00 - 16:00 Uhr \n\n**Anlagetyp**\n4er Sesselbahn mit Hauben\n\n**Beförderungskapazität**\n1800 Personen/Stunde\n\n**Fahrzeit**\n6 Minuten\n\n**Höhendifferenz**\n311 Meter",
+          "firstRide": "09:00",
+          "lastRide": "16:00",
+          "website": {}
+        },
+        {
+          "id": 163,
+          "type": 1,
+          "label": "",
+          "name": { "de": "Grindelwald – Pfingstegg" },
+          "status": 0,
+          "season": 1,
+          "sort": 14,
+          "website": {}
+        }
+      ],
+      "slopes": [
+        {
+          "id": 144,
+          "type": 1,
+          "label": "1",
+          "name": { "de": "Oberjoch blau" },
+          "status": 2,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 2580,
+          "website": {}
+        },
+        {
+          "id": 145,
+          "type": 2,
+          "label": "1",
+          "name": { "de": "Oberjoch rot" },
+          "status": 2,
+          "season": 2,
+          "sort": 1,
+          "lengthMeter": 2110,
+          "website": {}
+        },
+        {
+          "id": 146,
+          "type": 1,
+          "label": "10",
+          "name": { "de": "Gemsberg" },
+          "status": 0,
+          "season": 2,
+          "sort": 3,
+          "lengthMeter": 2920,
+          "website": {}
+        },
+        {
+          "id": 147,
+          "type": 1,
+          "label": "11",
+          "name": { "de": "Hambiel" },
+          "status": 0,
+          "season": 2,
+          "sort": 5,
+          "lengthMeter": 1750,
+          "website": {}
+        },
+        {
+          "id": 148,
+          "type": 2,
+          "label": "12",
+          "name": { "de": "Innerbärgel" },
+          "status": 0,
+          "season": 2,
+          "sort": 6,
+          "lengthMeter": 1150,
+          "website": {}
+        },
+        {
+          "id": 149,
+          "type": 1,
+          "label": "13",
+          "name": { "de": "Bärgelegg" },
+          "status": 0,
+          "season": 2,
+          "sort": 7,
+          "lengthMeter": 3130,
+          "website": {}
+        },
+        {
+          "id": 150,
+          "type": 3,
+          "label": "14",
+          "name": { "de": "Gemsberg West" },
+          "status": 0,
+          "season": 2,
+          "sort": 9,
+          "lengthMeter": 1050,
+          "website": {}
+        },
+        {
+          "id": 151,
+          "type": 3,
+          "label": "16",
+          "name": { "de": "Faxhubel West" },
+          "status": 2,
+          "season": 2,
+          "sort": 10,
+          "lengthMeter": 1050,
+          "website": {}
+        },
+        {
+          "id": 152,
+          "type": 2,
+          "label": "20",
+          "name": { "de": "Bort - Chapf" },
+          "status": 0,
+          "season": 2,
+          "sort": 11,
+          "lengthMeter": 2920,
+          "website": {}
+        },
+        {
+          "id": 153,
+          "type": 1,
+          "label": "21",
+          "name": { "de": "Bort - Mühlebach" },
+          "status": 0,
+          "season": 2,
+          "sort": 12,
+          "lengthMeter": 3520,
+          "website": {}
+        },
+        {
+          "id": 154,
+          "type": 1,
+          "label": "22/21",
+          "name": { "de": "Stählisboden - Kirche" },
+          "status": 0,
+          "season": 2,
+          "sort": 16,
+          "lengthMeter": 500,
+          "website": {}
+        },
+        {
+          "id": 155,
+          "type": 2,
+          "label": "22",
+          "name": { "de": "Grindel" },
+          "status": 2,
+          "season": 2,
+          "sort": 13,
+          "lengthMeter": 4070,
+          "website": {}
+        },
+        {
+          "id": 156,
+          "type": 2,
+          "label": "23",
+          "name": { "de": "Stepfi" },
+          "status": 0,
+          "season": 2,
+          "sort": 17,
+          "lengthMeter": 6070,
+          "website": {}
+        },
+        {
+          "id": 157,
+          "type": 1,
+          "label": "3",
+          "name": { "de": "Berme" },
+          "status": 2,
+          "season": 2,
+          "sort": 18,
+          "lengthMeter": 3280,
+          "website": {}
+        },
+        {
+          "id": 158,
+          "type": 1,
+          "label": "3",
+          "name": { "de": "Üsserbärgel" },
+          "status": 0,
+          "season": 2,
+          "sort": 19,
+          "lengthMeter": 1050,
+          "website": {}
+        },
+        {
+          "id": 159,
+          "type": 1,
+          "label": "4",
+          "name": { "de": "Tirrli" },
+          "status": 2,
+          "season": 2,
+          "sort": 21,
+          "lengthMeter": 350,
+          "website": {}
+        },
+        {
+          "id": 160,
+          "type": 3,
+          "label": "5",
+          "name": { "de": "Bort direkt" },
+          "status": 2,
+          "season": 2,
+          "sort": 22,
+          "lengthMeter": 2580,
+          "website": {}
+        },
+        {
+          "id": 161,
+          "type": 3,
+          "label": "6",
+          "name": { "de": "Schreckfeld - Egg" },
+          "status": 2,
+          "season": 2,
+          "sort": 23,
+          "lengthMeter": 1070,
+          "website": {}
+        },
+        {
+          "id": 162,
+          "type": 2,
+          "label": "7",
+          "name": { "de": "Faxhubel Ost" },
+          "status": 2,
+          "season": 2,
+          "sort": 24,
+          "lengthMeter": 1530,
+          "website": {}
+        },
+        {
+          "id": 163,
+          "type": 1,
+          "label": "8",
+          "name": { "de": "Distelboden", "en": "Distelboden" },
+          "status": 0,
+          "season": 2,
+          "sort": 25,
+          "lengthMeter": 1770,
+          "website": {}
+        },
+        {
+          "id": 164,
+          "type": 2,
+          "label": "9",
+          "name": { "de": "Furggi" },
+          "status": 0,
+          "season": 2,
+          "sort": 26,
+          "lengthMeter": 2010,
+          "website": {}
+        },
+        {
+          "id": 165,
+          "type": 1,
+          "label": "",
+          "name": { "de": "Bodmi" },
+          "status": 0,
+          "season": 2,
+          "sort": 8,
+          "lengthMeter": 820,
+          "website": {}
+        },
+        {
+          "id": 166,
+          "type": 8,
+          "label": "",
+          "name": { "de": "Skischulgelände Bodmi" },
+          "status": 0,
+          "season": 2,
+          "sort": 27,
+          "lengthMeter": 500,
+          "website": {}
+        },
+        {
+          "id": 180,
+          "type": 5,
+          "label": "",
+          "name": { "de": "Grund Gletscherschlucht (Classic)" },
+          "status": 1,
+          "season": 2,
+          "sort": 27,
+          "lengthMeter": 9000,
+          "website": {}
+        },
+        {
+          "id": 182,
+          "type": 6,
+          "label": "",
+          "name": { "de": "Grund Gletscherschlucht (Skating)" },
+          "status": 1,
+          "season": 2,
+          "sort": 28,
+          "lengthMeter": 10000,
+          "website": {}
+        },
+        {
+          "id": 184,
+          "type": 9,
+          "label": "50",
+          "name": { "de": "Bussalp - Holzmatten (Bussalp Run)" },
+          "status": 1,
+          "season": 2,
+          "sort": 3,
+          "lengthMeter": 1500,
+          "website": {}
+        },
+        {
+          "id": 185,
+          "type": 9,
+          "label": "50",
+          "name": { "de": "First - Bachalpsee" },
+          "status": 1,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 7000,
+          "website": {}
+        },
+        {
+          "id": 186,
+          "type": 9,
+          "label": "50",
+          "name": { "de": "Bachalpsee - Faulhorn" },
+          "status": 1,
+          "season": 2,
+          "sort": 1,
+          "lengthMeter": 6500,
+          "website": {}
+        },
+        {
+          "id": 187,
+          "type": 9,
+          "label": "50",
+          "name": { "de": "Faulhorn - Bussalp" },
+          "status": 1,
+          "season": 2,
+          "sort": 2,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 188,
+          "type": 9,
+          "label": "51",
+          "name": { "de": "First - Waldspitz - Bort" },
+          "status": 1,
+          "season": 2,
+          "sort": 4,
+          "lengthMeter": 10000,
+          "info": "Zum See Geschlossen",
+          "website": {}
+        },
+        {
+          "id": 189,
+          "type": 9,
+          "label": "53",
+          "name": { "de": "First - Schreckfeld" },
+          "status": 2,
+          "season": 2,
+          "sort": 5,
+          "lengthMeter": 3000,
+          "info": "",
+          "custom": "",
+          "website": {}
+        },
+        {
+          "id": 190,
+          "type": 9,
+          "label": "55",
+          "name": { "de": "Schreckfeld - Bort" },
+          "status": 2,
+          "season": 2,
+          "sort": 6,
+          "lengthMeter": 2000,
+          "website": {}
+        },
+        {
+          "id": 191,
+          "type": 9,
+          "label": "56",
+          "name": { "de": "Bussalp - Rasthysi - Lochsteinen (Family Run)" },
+          "status": 1,
+          "season": 2,
+          "sort": 7,
+          "lengthMeter": 6500,
+          "website": {}
+        },
+        {
+          "id": 193,
+          "type": 9,
+          "label": "57",
+          "name": { "de": "Bussalp - Grindelwald (City Run)" },
+          "status": 1,
+          "season": 2,
+          "sort": 10,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 194,
+          "type": 9,
+          "label": "57",
+          "name": { "de": "Bussalp - Weidli ( City Run )" },
+          "status": 1,
+          "season": 2,
+          "sort": 9,
+          "lengthMeter": 4000,
+          "website": {}
+        },
+        {
+          "id": 196,
+          "type": 9,
+          "label": "59",
+          "name": { "de": "Bort M`bach Grindelwald" },
+          "status": 1,
+          "season": 2,
+          "sort": 12,
+          "lengthMeter": 3500,
+          "website": {}
+        },
+        {
+          "id": 334,
+          "type": 1,
+          "label": "21",
+          "name": { "de": "Mühlebach" },
+          "status": 0,
+          "season": 2,
+          "sort": 15,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 944,
+          "type": 2,
+          "label": "2",
+          "name": { "de": "Oberjoch Steilhang" },
+          "status": 2,
+          "season": 2,
+          "sort": 2,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 945,
+          "type": 1,
+          "label": "10",
+          "name": { "de": "Hohwald - Bärgelegg" },
+          "status": 0,
+          "season": 2,
+          "sort": 4,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1168,
+          "type": 1,
+          "label": "3a",
+          "name": { "de": "Berme" },
+          "status": 2,
+          "season": 2,
+          "sort": 20,
+          "lengthMeter": 0,
+          "website": {}
+        }
+      ],
+      "trails": [
+        {
+          "id": 42,
+          "type": 1,
+          "label": "S1",
+          "name": { "de": "Schneeschuhtrail - Alpweg" },
+          "status": 2,
+          "season": 2,
+          "sort": 59,
+          "lengthMeter": 3000,
+          "website": {}
+        },
+        {
+          "id": 43,
+          "type": 1,
+          "label": "S2",
+          "name": { "de": "Schneeschuhtrail - Aspen" },
+          "status": 2,
+          "season": 2,
+          "sort": 60,
+          "lengthMeter": 1300,
+          "website": {}
+        },
+        {
+          "id": 44,
+          "type": 1,
+          "label": "S3",
+          "name": { "de": "Schneeschuhtrail - Eiger" },
+          "status": 2,
+          "season": 2,
+          "sort": 61,
+          "lengthMeter": 5000,
+          "website": {}
+        },
+        {
+          "id": 45,
+          "type": 1,
+          "label": "S4",
+          "name": { "de": "Schneeschuhtrail - Mühlebach" },
+          "status": 1,
+          "season": 2,
+          "sort": 62,
+          "lengthMeter": 3000,
+          "website": {}
+        },
+        {
+          "id": 46,
+          "type": 1,
+          "label": "S5",
+          "name": { "de": "Schneeschuhtrail - Panorama" },
+          "status": 1,
+          "season": 2,
+          "sort": 63,
+          "lengthMeter": 7000,
+          "website": {}
+        },
+        {
+          "id": 47,
+          "type": 1,
+          "label": "S6",
+          "name": { "de": "Schneeschuhtrail - Wetterhorn blau" },
+          "status": 2,
+          "season": 2,
+          "sort": 64,
+          "lengthMeter": 1800,
+          "website": {}
+        },
+        {
+          "id": 48,
+          "type": 1,
+          "label": "S7",
+          "name": { "de": "Schneeschuhtrail - Wetterhorn rot" },
+          "status": 2,
+          "season": 2,
+          "sort": 65,
+          "lengthMeter": 1800,
+          "website": {}
+        },
+        {
+          "id": 49,
+          "type": 2,
+          "label": "1",
+          "name": { "de": "First - Bachalpsee" },
+          "status": 1,
+          "season": 1,
+          "sort": 0,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 50,
+          "type": 2,
+          "label": "10",
+          "name": { "de": "Waldspitz - Feld - Bussalp" },
+          "status": 1,
+          "season": 1,
+          "sort": 10,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 51,
+          "type": 2,
+          "label": "11",
+          "name": { "de": "Schreckfeld - Grosse Scheidegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 11,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 52,
+          "type": 2,
+          "label": "12",
+          "name": { "de": "Schreckfeld - Bort" },
+          "status": 1,
+          "season": 1,
+          "sort": 12,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 53,
+          "type": 2,
+          "label": "13",
+          "name": { "de": "Bort - Bussalp" },
+          "status": 2,
+          "season": 1,
+          "sort": 13,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 54,
+          "type": 2,
+          "label": "14",
+          "name": { "de": "Bort - Aellfluh - Grindelwald" },
+          "status": 2,
+          "season": 1,
+          "sort": 14,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 55,
+          "type": 2,
+          "label": "15",
+          "name": { "de": "Bort - Grindelwald" },
+          "status": 2,
+          "season": 1,
+          "sort": 15,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 56,
+          "type": 2,
+          "label": "16",
+          "name": { "de": "Bort - Unter Lauchbühl - Hotel Wetterhorn" },
+          "status": 1,
+          "season": 1,
+          "sort": 17,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 57,
+          "type": 2,
+          "label": "17",
+          "name": {
+            "de": "First - Schilt - Oberläger - Grosse Scheidegg (Murmeltierweg)"
+          },
+          "status": 1,
+          "season": 1,
+          "sort": 18,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 58,
+          "type": 2,
+          "label": "18",
+          "name": { "de": "First - Schwarzhorn - First" },
+          "status": 1,
+          "season": 1,
+          "sort": 19,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 59,
+          "type": 2,
+          "label": "19",
+          "name": { "de": "Waldspitz - Bort" },
+          "status": 1,
+          "season": 1,
+          "sort": 20,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 60,
+          "type": 2,
+          "label": "2",
+          "name": { "de": "Bachalpsee - Faulhorn - Bussalp" },
+          "status": 1,
+          "season": 1,
+          "sort": 1,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 61,
+          "type": 2,
+          "label": "21",
+          "name": { "de": "Grindelwald - Unter Lauchbühl - Grosse Scheidegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 22,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 62,
+          "type": 2,
+          "label": "22",
+          "name": { "de": "Grindelwald - Abbachfall - Bussalp" },
+          "status": 2,
+          "season": 1,
+          "sort": 24,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 63,
+          "type": 2,
+          "label": "3",
+          "name": { "de": "First - Bachalpsee - Hireleni - Feld - Bussalp" },
+          "status": 1,
+          "season": 1,
+          "sort": 3,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 64,
+          "type": 2,
+          "label": "4",
+          "name": { "de": "First - Bachalpsee - Waldspitz (Blumenweg)" },
+          "status": 1,
+          "season": 1,
+          "sort": 4,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 65,
+          "type": 2,
+          "label": "5",
+          "name": {
+            "de": "First - Bachalpsee - Hiendertellti - Grosse Scheidegg"
+          },
+          "status": 1,
+          "season": 1,
+          "sort": 6,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 66,
+          "type": 2,
+          "label": "50",
+          "name": { "de": "Faulhorn - Bussalp" },
+          "status": 1,
+          "season": 2,
+          "sort": 34,
+          "lengthMeter": 7000,
+          "website": {}
+        },
+        {
+          "id": 67,
+          "type": 2,
+          "label": "50",
+          "name": { "de": "First - Bachalpsee" },
+          "status": 1,
+          "season": 2,
+          "sort": 32,
+          "lengthMeter": 0,
+          "website": {},
+          "info": "Details zur Winterwanderung [First - Bachalpsee](https://www.jungfrau.ch/de-ch/sommersport/wandern/wanderweg/first-bachalpsee-nr-50-34187659/)"
+        },
+        {
+          "id": 68,
+          "type": 2,
+          "label": "50",
+          "name": { "de": "Bachalpsee - Faulhorn" },
+          "status": 1,
+          "season": 2,
+          "sort": 33,
+          "lengthMeter": 6500,
+          "website": {}
+        },
+        {
+          "id": 69,
+          "type": 2,
+          "label": "50",
+          "name": { "de": "First - Faulhorn - Bussalp" },
+          "status": 1,
+          "season": 2,
+          "sort": 35,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 70,
+          "type": 2,
+          "label": "51",
+          "name": { "de": "Bort - Waldspitz" },
+          "status": 2,
+          "season": 2,
+          "sort": 37,
+          "lengthMeter": 10000,
+          "website": {}
+        },
+        {
+          "id": 71,
+          "type": 2,
+          "label": "51",
+          "name": { "de": "First - Waldspitz" },
+          "status": 1,
+          "season": 2,
+          "sort": 38,
+          "lengthMeter": 0,
+          "website": {},
+          "info": ""
+        },
+        {
+          "id": 72,
+          "type": 2,
+          "label": "51/56",
+          "name": { "de": "Bort - Bussalp" },
+          "status": 1,
+          "season": 2,
+          "sort": 40,
+          "lengthMeter": 5400,
+          "website": {}
+        },
+        {
+          "id": 73,
+          "type": 2,
+          "label": "53",
+          "name": { "de": "First - Schreckfeld" },
+          "status": 2,
+          "season": 2,
+          "sort": 42,
+          "lengthMeter": 3000,
+          "website": {},
+          "info": "",
+          "custom": ""
+        },
+        {
+          "id": 74,
+          "type": 2,
+          "label": "55",
+          "name": { "de": "Schreckfeld - Bort" },
+          "status": 2,
+          "season": 2,
+          "sort": 43,
+          "lengthMeter": 2000,
+          "website": {}
+        },
+        {
+          "id": 75,
+          "type": 2,
+          "label": "56",
+          "name": { "de": "Bort - Rasthysi" },
+          "status": 2,
+          "season": 2,
+          "sort": 44,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 76,
+          "type": 2,
+          "label": "57",
+          "name": { "de": "Bussalp - Grindelwald" },
+          "status": 1,
+          "season": 2,
+          "sort": 45,
+          "lengthMeter": 8500,
+          "website": {}
+        },
+        {
+          "id": 77,
+          "type": 2,
+          "label": "57",
+          "name": { "de": "Bussalp - Lochsteinen" },
+          "status": 1,
+          "season": 2,
+          "sort": 46,
+          "lengthMeter": 6500,
+          "website": {}
+        },
+        {
+          "id": 78,
+          "type": 2,
+          "label": "57",
+          "name": { "de": "Bussalp - Weidli" },
+          "status": 1,
+          "season": 2,
+          "sort": 47,
+          "lengthMeter": 4000,
+          "website": {}
+        },
+        {
+          "id": 79,
+          "type": 2,
+          "label": "59",
+          "name": { "de": "Bort M`bach Grindelwald" },
+          "status": 2,
+          "season": 2,
+          "sort": 48,
+          "lengthMeter": 3500,
+          "website": {}
+        },
+        {
+          "id": 80,
+          "type": 2,
+          "label": "6",
+          "name": { "de": "First - Grosse Scheidegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 7,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 81,
+          "type": 2,
+          "label": "8",
+          "name": { "de": "First - Schreckfeld" },
+          "status": 1,
+          "season": 1,
+          "sort": 8,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 82,
+          "type": 2,
+          "label": "9",
+          "name": { "de": "First - Bachläger - Waldspitz (Gelber Brunnen)" },
+          "status": 1,
+          "season": 1,
+          "sort": 9,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 84,
+          "type": 2,
+          "label": "107",
+          "name": { "de": "Pfingstegg - Halsegg - Hotel Wetterhorn" },
+          "status": 1,
+          "season": 1,
+          "sort": 57,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 85,
+          "type": 2,
+          "label": "108",
+          "name": { "de": "Pfingstegg - Bäregg - Pfingstegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 58,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 112,
+          "type": 2,
+          "label": "100",
+          "name": { "de": "Pfingstegg - Milchbach - Oberer Gletscher" },
+          "status": 1,
+          "season": 1,
+          "sort": 51,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 113,
+          "type": 2,
+          "label": "102",
+          "name": { "de": "Bäregg - Schreckhornhütte SAC" },
+          "status": 1,
+          "season": 1,
+          "sort": 52,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 114,
+          "type": 2,
+          "label": "101",
+          "name": { "de": "Pfingstegg - Bäregg" },
+          "status": 1,
+          "season": 1,
+          "sort": 50,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 115,
+          "type": 2,
+          "label": "20",
+          "name": { "de": "Bort - Mühlebach (entlang Trottistrecke)" },
+          "status": 1,
+          "season": 1,
+          "sort": 54,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 116,
+          "type": 2,
+          "label": "4",
+          "name": { "de": "Waldspitz - Bort" },
+          "status": 1,
+          "season": 1,
+          "sort": 53,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 117,
+          "type": 2,
+          "label": "105",
+          "name": { "de": "Pfingstegg - Marmorbruch - Gletscherschlucht" },
+          "status": 1,
+          "season": 1,
+          "sort": 55,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 118,
+          "type": 2,
+          "label": "106",
+          "name": { "de": "Unterer Lauchbühl - Glecksteinhütte" },
+          "status": 1,
+          "season": 1,
+          "sort": 56,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 779,
+          "type": 2,
+          "name": { "de": "Rundwanderweg Bussalp" },
+          "status": 1,
+          "season": 2,
+          "sort": 67,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 789,
+          "type": 2,
+          "label": "4a",
+          "name": { "de": "First - Bachalpsee - Waldspitz" },
+          "status": 1,
+          "season": 1,
+          "sort": 5,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 790,
+          "type": 3,
+          "name": { "de": "Klettersteig Schwarzhorn" },
+          "status": 1,
+          "season": 1,
+          "sort": 69,
+          "lengthMeter": 0,
+          "website": {},
+          "info": ""
+        },
+        {
+          "id": 1117,
+          "type": 1,
+          "label": "S8",
+          "name": { "de": "Schneeschuhtrail – Lauchbühl" },
+          "status": 2,
+          "season": 2,
+          "sort": 66,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1280,
+          "type": 2,
+          "label": "23",
+          "name": { "de": "Oberer Gletscher – Milchbach – Pfingstegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 25,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1281,
+          "type": 2,
+          "label": "24",
+          "name": { "de": "Pfingstegg – Bäregg" },
+          "status": 1,
+          "season": 1,
+          "sort": 26,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1282,
+          "type": 2,
+          "label": "26",
+          "name": { "de": "Grindelwald – Halten – Pfingstegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 27,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1283,
+          "type": 2,
+          "label": "26a",
+          "name": { "de": "Grindelwald – Sulz – Pfingstegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 28,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1284,
+          "type": 2,
+          "label": "27",
+          "name": { "de": "Gletscherschlucht – Marmorbruch – Pfingstegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 29,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1285,
+          "type": 2,
+          "label": "28",
+          "name": { "de": "Bäregg – Schreckhornhütte" },
+          "status": 1,
+          "season": 1,
+          "sort": 30,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1286,
+          "type": 2,
+          "label": "29",
+          "name": { "de": "Grindelwald Grund - Trychleregg" },
+          "status": 1,
+          "season": 1,
+          "sort": 31,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1287,
+          "type": 2,
+          "label": "20a",
+          "name": { "de": "Bort – Grindelwald Klusi" },
+          "status": 2,
+          "season": 1,
+          "sort": 21,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1288,
+          "type": 2,
+          "label": "77",
+          "name": { "de": "Unterer Lauchbühl – Glecksteinhütte" },
+          "status": 1,
+          "season": 1,
+          "sort": 49,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1289,
+          "type": 2,
+          "label": "50",
+          "name": { "de": "Rundwanderweg Bussalp" },
+          "status": 1,
+          "season": 1,
+          "sort": 36,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1290,
+          "type": 2,
+          "label": "51",
+          "name": { "de": "Bussalp – Burglauenen" },
+          "status": 1,
+          "season": 1,
+          "sort": 39,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1291,
+          "type": 2,
+          "label": "52",
+          "name": { "de": "Männdlenen - Burglauenen" },
+          "status": 1,
+          "season": 1,
+          "sort": 41,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1292,
+          "type": 2,
+          "label": "2a",
+          "name": { "de": "Faulhorn – Bussalp" },
+          "status": 1,
+          "season": 1,
+          "sort": 2,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1293,
+          "type": 2,
+          "label": "21a",
+          "name": { "de": "Grindelwald – Vogelpark" },
+          "status": 1,
+          "season": 1,
+          "sort": 23,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1294,
+          "type": 2,
+          "label": "15a",
+          "name": { "de": "Bort – Grindelwald Klusi" },
+          "status": 2,
+          "season": 1,
+          "sort": 16,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1295,
+          "type": 3,
+          "name": { "de": "Klettersteig Ostegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 68,
+          "lengthMeter": 0,
+          "website": {}
+        }
+      ],
+      "pois": [
+        {
+          "id": 17,
+          "type": 48,
+          "name": { "de": "First Flyer" },
+          "status": 1,
+          "season": 2,
+          "sort": 0,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/grindelwaldfirst/first-flieger/\n)\n\nVorbehältlich Wind- und Wetterverhältnisse.\n\n**Information**\nJe nach Gästeaufkommen kann es zu [Wartezeiten](https://adventure.jungfrau.ch) kommen.",
+          "website": {}
+        },
+        {
+          "id": 18,
+          "type": 48,
+          "name": { "de": "First Flyer (Sommerbild)" },
+          "status": 1,
+          "season": 1,
+          "sort": 1,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/grindelwaldfirst/first-flieger/\n)\n\nVorbehältlich Wind- und Wetterverhältnisse.\n\n**Information**\nJe nach Gästeaufkommen kann es zu [Wartezeiten](https://adventure.jungfrau.ch) kommen.",
+          "website": {}
+        },
+        {
+          "id": 19,
+          "type": 48,
+          "name": { "de": "First Glider" },
+          "status": 1,
+          "season": 0,
+          "sort": 2,
+          "info": "**Betriebszeiten**\n[Öffnungs- und Betriebszeiten](https://www.jungfrau.ch/de-ch/grindelwaldfirst/first-glider/\n)\n\nVorbehältlich Wind- und Wetterverhältnisse.\n\n**Information**\nJe nach Gästeaufkommen kann es zu [Wartezeiten](https://adventure.jungfrau.ch) kommen.",
+          "website": {}
+        },
+        {
+          "id": 20,
+          "type": 49,
+          "name": { "de": "Halfpipe Oberjoch" },
+          "status": 1,
+          "season": 2,
+          "sort": 6,
+          "website": {}
+        },
+        {
+          "id": 21,
+          "type": 46,
+          "name": { "de": "Mountain Cart" },
+          "status": 1,
+          "season": 1,
+          "sort": 3,
+          "website": {}
+        },
+        {
+          "id": 22,
+          "type": 31,
+          "name": { "de": "Paragliding-Startplatz First" },
+          "status": 2,
+          "season": 2,
+          "sort": 7,
+          "website": {}
+        },
+        {
+          "id": 23,
+          "type": 10,
+          "name": { "de": "Trainings Piste Bärgelegg" },
+          "status": 0,
+          "season": 2,
+          "sort": 14,
+          "website": {}
+        },
+        {
+          "id": 24,
+          "type": 10,
+          "name": { "de": "Park Oberjoch" },
+          "status": 1,
+          "season": 2,
+          "sort": 8,
+          "website": {}
+        },
+        {
+          "id": 25,
+          "type": 10,
+          "name": { "de": "Rennstrecke Oberjoch" },
+          "status": 1,
+          "season": 2,
+          "sort": 9,
+          "website": {}
+        },
+        {
+          "id": 27,
+          "type": 73,
+          "name": { "de": "Schlittenvermietung" },
+          "status": 2,
+          "season": 2,
+          "sort": 10,
+          "website": {}
+        },
+        {
+          "id": 28,
+          "type": 68,
+          "name": { "de": "Skicross-Strecke" },
+          "status": 0,
+          "season": 2,
+          "sort": 12,
+          "website": {}
+        },
+        {
+          "id": 29,
+          "type": 76,
+          "name": { "de": "Skitour Oberläger" },
+          "status": 0,
+          "season": 2,
+          "sort": 13,
+          "website": {}
+        },
+        {
+          "id": 30,
+          "type": 10,
+          "name": { "de": "Fun Slope" },
+          "status": 1,
+          "season": 2,
+          "sort": 5,
+          "website": {}
+        },
+        {
+          "id": 31,
+          "type": 16,
+          "name": { "de": "Trottibike (Sommer)" },
+          "status": 1,
+          "season": 1,
+          "sort": 4,
+          "website": {}
+        },
+        {
+          "id": 32,
+          "type": 3,
+          "name": { "de": "Schreckfeld ATC" },
+          "status": 2,
+          "season": 2,
+          "sort": 11,
+          "website": {}
+        },
+        {
+          "id": 33,
+          "type": 1,
+          "name": { "de": "Abendfahrten Bussalp" },
+          "status": 1,
+          "season": 2,
+          "sort": 24,
+          "website": {}
+        },
+        {
+          "id": 34,
+          "type": 1,
+          "name": { "de": "Bus Waldspitz" },
+          "status": 1,
+          "season": 1,
+          "sort": 22,
+          "info": "Bergbuslinie Waldspitz",
+          "website": {}
+        },
+        {
+          "id": 35,
+          "type": 1,
+          "name": { "de": "Grindelwald - Bussalp" },
+          "status": 1,
+          "season": 1,
+          "sort": 19,
+          "info": "Bergbuslinie Bussalp",
+          "website": {}
+        },
+        {
+          "id": 36,
+          "type": 1,
+          "name": { "de": "Dorf Grindelwald" },
+          "status": 2,
+          "season": 0,
+          "sort": 17,
+          "website": {}
+        },
+        {
+          "id": 37,
+          "type": 1,
+          "name": { "de": "Grindelwald - Grosse Scheidegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 18,
+          "info": "Bergbuslinie Grosse Scheidegg",
+          "website": {}
+        },
+        {
+          "id": 38,
+          "type": 1,
+          "name": { "de": "Grindelwald - Lochsteinen" },
+          "status": 1,
+          "season": 2,
+          "sort": 20,
+          "website": {}
+        },
+        {
+          "id": 39,
+          "type": 1,
+          "name": { "de": "Lochsteinen - Bussalp" },
+          "status": 1,
+          "season": 2,
+          "sort": 21,
+          "website": {}
+        },
+        {
+          "id": 40,
+          "type": 1,
+          "name": { "de": "Park & Ride Grindelwald" },
+          "status": 1,
+          "season": 2,
+          "sort": 23,
+          "website": {}
+        },
+        {
+          "id": 251,
+          "type": 48,
+          "name": { "de": "Fly-Line Pfingstegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 16,
+          "website": {}
+        },
+        {
+          "id": 252,
+          "type": 52,
+          "name": { "de": "Rodelbahn auf Pfingstegg" },
+          "status": 1,
+          "season": 1,
+          "sort": 15,
+          "website": {}
+        }
+      ],
+      "gastros": [
+        {
+          "id": 43,
+          "type": 1,
+          "name": { "de": "Skibar Widderfeldhütte" },
+          "website": {},
+          "status": 1,
+          "season": 2,
+          "sort": 0
+        },
+        {
+          "id": 44,
+          "type": 1,
+          "name": { "de": "Alpweg Bar" },
+          "website": {},
+          "status": 2,
+          "season": 2,
+          "sort": 0
+        },
+        {
+          "id": 45,
+          "type": 1,
+          "name": { "de": "Bus Stop Après Ride Bar" },
+          "website": {},
+          "status": 0,
+          "season": 2,
+          "sort": 0
+        },
+        {
+          "id": 46,
+          "type": 1,
+          "name": { "de": "Rancher Bar" },
+          "website": {},
+          "status": 1,
+          "season": 2,
+          "sort": 0
+        },
+        {
+          "id": 47,
+          "type": 2,
+          "name": { "de": "Berghaus Männdlenen" },
+          "website": {},
+          "status": 1,
+          "season": 0,
+          "sort": 0,
+          "info": "[Berghaus Männdlenen](https://berghaus-maenndlenen.ch/)"
+        },
+        {
+          "id": 48,
+          "type": 2,
+          "name": { "de": "Bort" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 49,
+          "type": 2,
+          "name": { "de": "Brügg-Beizli" },
+          "website": {},
+          "status": 2,
+          "season": 2,
+          "sort": 0
+        },
+        {
+          "id": 50,
+          "type": 2,
+          "name": { "de": "Bussalp" },
+          "website": {},
+          "status": 1,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 51,
+          "type": 2,
+          "name": { "de": "Bärgelegghütte" },
+          "website": {},
+          "status": 0,
+          "season": 2,
+          "sort": 0
+        },
+        {
+          "id": 52,
+          "type": 2,
+          "name": { "de": "Faulhorn" },
+          "website": {},
+          "status": 1,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 53,
+          "type": 2,
+          "name": { "de": "Toprestaurant" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 54,
+          "type": 2,
+          "name": { "de": "Genepi" },
+          "website": {},
+          "status": 1,
+          "season": 2,
+          "sort": 0
+        },
+        {
+          "id": 55,
+          "type": 2,
+          "name": { "de": "Grosse Scheidegg" },
+          "website": {},
+          "status": 1,
+          "season": 1,
+          "sort": 0
+        },
+        {
+          "id": 56,
+          "type": 2,
+          "name": { "de": "Rasthysi" },
+          "website": {},
+          "status": 1,
+          "season": 2,
+          "sort": 0
+        },
+        {
+          "id": 57,
+          "type": 2,
+          "name": { "de": "Rasthysi (Sommer)" },
+          "website": {},
+          "status": 2,
+          "season": 1,
+          "sort": 0
+        },
+        {
+          "id": 58,
+          "type": 2,
+          "name": { "de": "Schreckfeld" },
+          "website": {},
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 59,
+          "type": 2,
+          "name": { "de": "Schynige Platte" },
+          "website": {},
+          "status": 1,
+          "season": 1,
+          "sort": 0
+        },
+        {
+          "id": 60,
+          "type": 2,
+          "name": { "de": "Steintorbar" },
+          "website": {},
+          "status": 1,
+          "season": 2,
+          "sort": 0
+        },
+        {
+          "id": 61,
+          "type": 2,
+          "name": { "de": "Vogelpark" },
+          "website": {},
+          "status": 1,
+          "season": 1,
+          "sort": 0
+        },
+        {
+          "id": 62,
+          "type": 2,
+          "name": { "de": "Waldspitz" },
+          "website": {},
+          "status": 1,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 63,
+          "type": 2,
+          "name": { "de": "Weidli Bar" },
+          "website": {},
+          "status": 1,
+          "season": 2,
+          "sort": 0
+        },
+        {
+          "id": 66,
+          "type": 2,
+          "name": { "de": "Bäregg" },
+          "website": {},
+          "status": 1,
+          "season": 1,
+          "sort": 0
+        },
+        {
+          "id": 67,
+          "type": 2,
+          "name": { "de": "Glecksteinhütte SAC" },
+          "website": {},
+          "status": 1,
+          "season": 1,
+          "sort": 0
+        },
+        {
+          "id": 71,
+          "type": 2,
+          "name": { "de": "Pfingstegg" },
+          "website": {},
+          "status": 1,
+          "season": 1,
+          "sort": 0
+        },
+        {
+          "id": 72,
+          "type": 2,
+          "name": { "de": "Schreckhornhütte SAC" },
+          "website": {},
+          "status": 1,
+          "season": 1,
+          "sort": 0
+        }
+      ],
+      "meteo": [
+        {
+          "location": "Grindelwald",
+          "altitude": "1050 m",
+          "weather": 3,
+          "temperature": -2,
+          "windSpeed": 0,
+          "latestSnowfall": "2026-03-29",
+          "snowDepth": 20,
+          "freshSnow": 5,
+          "lastChange": "2026-03-29T05:31:25.9666667Z",
+          "avalanche": { "level": 3, "de": "erheblich", "en": "considerable" },
+          "condition": {
+            "slope": { "value": 801, "de": "gut", "en": "good" },
+            "snow": { "value": 901, "de": "pulver", "en": "powder" }
+          },
+          "meteoProvider": null
+        },
+        {
+          "location": "First",
+          "altitude": "2200 m",
+          "weather": 3,
+          "temperature": -8,
+          "windSpeed": 20,
+          "latestSnowfall": "2026-03-29",
+          "snowDepth": 200,
+          "freshSnow": 10,
+          "lastChange": "2026-03-29T05:31:25.9666667Z",
+          "avalanche": { "level": 3, "de": "erheblich", "en": "considerable" },
+          "condition": {
+            "slope": { "value": 801, "de": "gut", "en": "good" },
+            "snow": { "value": 901, "de": "pulver", "en": "powder" }
+          },
+          "meteoProvider": null
+        }
+      ],
+      "texts": [
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Infotext unter jungfrau.ch 5",
+            "en": "Information text on jungfrau.ch 5",
+            "fr": "Texte d’information sur jungfrau.ch 5",
+            "it": "Testo informativo su jungfrau.ch 5"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        },
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Infotext unter jungfrau.ch 3",
+            "en": "Information text on jungfrau.ch 3",
+            "fr": "Texte d’information sur jungfrau.ch 3",
+            "it": "Testo informativo su jungfrau.ch 3"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        },
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Infotext unter jungfrau.ch 2",
+            "en": "Information text on jungfrau.ch 2",
+            "fr": "Texte d’information sur jungfrau.ch 2",
+            "it": "Testo informativo su jungfrau.ch 2"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        },
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Infotext unter jungfrau.ch 1",
+            "en": "Information text on jungfrau.ch 1",
+            "fr": "Texte d’information sur jungfrau.ch 1",
+            "it": "Testo informativo su jungfrau.ch 1"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        },
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Ereignistext auf Karten",
+            "en": "Event text on maps",
+            "fr": "Texte de l'événement sur les cartes",
+            "it": "Testo dell'evento sulle mappe"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        },
+        {
+          "category": {
+            "id": 1,
+            "de": "Spezial",
+            "en": "Special",
+            "fr": "Spécial",
+            "it": "Speciale"
+          },
+          "title": {
+            "de": "Infotext unter jungfrau.ch 4",
+            "en": "Information text on jungfrau.ch 4",
+            "fr": "Texte d’information sur jungfrau.ch 4",
+            "it": "Testo informativo su jungfrau.ch 4"
+          },
+          "text": { "de": "", "en": "", "fr": "", "it": "" }
+        }
+      ]
+    },
+    {
+      "tenantName": "Jungfrau Region",
+      "numberOfLiftsSummer": 22,
+      "numberOfOpenLiftsSummer": 14,
+      "numberOfLiftsWinter": 18,
+      "numberOfOpenLiftsWinter": 12,
+      "numberOfSlopes": 0,
+      "numberOfOpenSlopes": 0,
+      "numberOfSnowparks": 0,
+      "numberOfOpenSnowparks": 0,
+      "numberOfTobogganings": 3,
+      "numberOfOpenTobogganings": 0,
+      "numberOfCrosscountry": 0,
+      "numberOfOpenCrosscountry": 0,
+      "numberOfHikesSummer": 23,
+      "numberOfOpenHikesSummer": 15,
+      "numberOfHikesWinter": 0,
+      "numberOfOpenHikesWinter": 0,
+      "numberOfSnowshoes": 1,
+      "numberOfOpenSnowshoes": 0,
+      "numberOfBikes": 0,
+      "numberOfOpenBikes": 0,
+      "numberOfPois": 2,
+      "numberOfOpenPois": 2,
+      "lifts": [
+        {
+          "id": 140,
+          "type": 15,
+          "label": "",
+          "name": { "de": "Adventure auf dem Gletscher" },
+          "status": 1,
+          "season": 0,
+          "sort": 14,
+          "website": {}
+        },
+        {
+          "id": 142,
+          "type": 15,
+          "label": "",
+          "name": { "de": "Climb the Eiger" },
+          "status": 1,
+          "season": 0,
+          "sort": 17,
+          "website": {}
+        },
+        {
+          "id": 143,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Crystall-Restaurant" },
+          "status": 2,
+          "season": 0,
+          "sort": 11,
+          "website": {}
+        },
+        {
+          "id": 144,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Eispalast" },
+          "status": 2,
+          "season": 0,
+          "sort": 15,
+          "website": {}
+        },
+        {
+          "id": 145,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Gletscher-Plateau" },
+          "status": 2,
+          "season": 0,
+          "sort": 16,
+          "website": {}
+        },
+        {
+          "id": 146,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Gletscherrestaurant" },
+          "status": 2,
+          "season": 0,
+          "sort": 12,
+          "website": {}
+        },
+        {
+          "id": 147,
+          "type": 10,
+          "name": { "de": "Husky-Fahrten" },
+          "status": 1,
+          "season": 0,
+          "sort": 21,
+          "website": {}
+        },
+        {
+          "id": 148,
+          "type": 9,
+          "label": "",
+          "name": { "de": "Interlaken – Harder Kulm" },
+          "status": 0,
+          "season": 1,
+          "sort": 9,
+          "info": "",
+          "website": {}
+        },
+        {
+          "id": 149,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Interlaken Ost – Grindelwald" },
+          "status": 2,
+          "season": 1,
+          "sort": 0,
+          "website": {}
+        },
+        {
+          "id": 150,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Interlaken Ost – Lauterbrunnen" },
+          "status": 2,
+          "season": 1,
+          "sort": 2,
+          "website": {}
+        },
+        {
+          "id": 151,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Interlaken Ost – Zweilütschinen" },
+          "status": 2,
+          "season": 0,
+          "sort": 4,
+          "website": {}
+        },
+        {
+          "id": 153,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Selbstbedienung" },
+          "status": 0,
+          "season": 0,
+          "sort": 13,
+          "website": {}
+        },
+        {
+          "id": 154,
+          "type": 10,
+          "label": "",
+          "name": { "de": "SnowDisc-Run" },
+          "status": 1,
+          "season": 0,
+          "sort": 18,
+          "website": {}
+        },
+        {
+          "id": 155,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Sphinx-Terrassen" },
+          "status": 2,
+          "season": 0,
+          "sort": 19,
+          "website": {}
+        },
+        {
+          "id": 156,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Tirolienne" },
+          "status": 1,
+          "season": 0,
+          "sort": 20,
+          "website": {}
+        },
+        {
+          "id": 157,
+          "type": 11,
+          "label": "",
+          "name": { "de": "Wilderswil – Schynige Platte" },
+          "status": 0,
+          "season": 1,
+          "sort": 10,
+          "website": {}
+        },
+        {
+          "id": 159,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Zweilütschinen – Grindelwald" },
+          "status": 2,
+          "season": 0,
+          "sort": 1,
+          "website": {}
+        },
+        {
+          "id": 160,
+          "type": 10,
+          "label": "",
+          "name": { "de": "Zweilütschinen – Lauterbrunnen" },
+          "status": 2,
+          "season": 0,
+          "sort": 3,
+          "website": {}
+        },
+        {
+          "id": 230,
+          "type": 1,
+          "name": { "de": "Lauterbrunnen – Grütschalp" },
+          "status": 2,
+          "season": 0,
+          "sort": 6,
+          "info": "***Betriebszeiten / Fahrplan**\n[Grütschalp -> Winteregg](https://www.jungfrau.ch/de-ch/planen-buchen/fahrplan/?from=Grütschalp&to=Winteregg)\n[Winteregg -> Grütschalp](https://www.jungfrau.ch/de-ch/planen-buchen/fahrplan/?from=Winteregg&to=Grütschalp)",
+          "website": {}
+        },
+        {
+          "id": 232,
+          "type": 11,
+          "name": { "de": "Lauterbrunnen – Mürren" },
+          "status": 2,
+          "season": 0,
+          "sort": 5,
+          "website": {}
+        },
+        {
+          "id": 233,
+          "type": 11,
+          "name": { "de": "Grütschalp – Winteregg" },
+          "status": 2,
+          "season": 0,
+          "sort": 7,
+          "info": "**Betriebszeiten / Fahrplan**\n[Grütschalp -> Winteregg](https://www.jungfrau.ch/de-ch/planen-buchen/fahrplan/?from=Grütschalp&to=Winteregg)\n[Winteregg -> Grütschalp](https://www.jungfrau.ch/de-ch/planen-buchen/fahrplan/?from=Winteregg&to=Grütschalp)",
+          "website": {}
+        },
+        {
+          "id": 234,
+          "type": 11,
+          "name": { "de": "Winteregg – Mürren" },
+          "status": 2,
+          "season": 0,
+          "sort": 8,
+          "info": "**Betriebszeiten / Fahrplan**\n[Winteregg -> Mürren](https://www.jungfrau.ch/de-ch/planen-buchen/fahrplan/?from=Winteregg&to=Mürren)\n[Mürren -> Winteregg](https://www.jungfrau.ch/de-ch/planen-buchen/fahrplan/?from=Mürren&to=Winteregg)",
+          "website": {}
+        }
+      ],
+      "slopes": [
+        {
+          "id": 197,
+          "type": 9,
+          "label": "",
+          "name": { "de": "Saxeten ganze Strecke", "en": "" },
+          "status": 0,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 4000,
+          "website": {}
+        },
+        {
+          "id": 198,
+          "type": 9,
+          "label": "",
+          "name": { "de": "Saxeten obere Teilstrecke" },
+          "status": 0,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 2000,
+          "website": {}
+        },
+        {
+          "id": 199,
+          "type": 9,
+          "label": "",
+          "name": { "de": "Saxeten untere Teilsstrecke" },
+          "status": 0,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 2000,
+          "website": {}
+        }
+      ],
+      "trails": [
+        {
+          "id": 86,
+          "type": 2,
+          "label": "50",
+          "name": { "de": "Lauterbrunnen - Mürren" },
+          "status": 2,
+          "season": 1,
+          "sort": 0,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 87,
+          "type": 2,
+          "label": "51",
+          "name": { "de": "Lauterbrunnen - Alpweg - Winteregg - Mürren" },
+          "status": 2,
+          "season": 1,
+          "sort": 1,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 88,
+          "type": 2,
+          "label": "52",
+          "name": { "de": "Grütschalp - Winteregg - Mürren" },
+          "status": 2,
+          "season": 1,
+          "sort": 2,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 89,
+          "type": 2,
+          "label": "53",
+          "name": { "de": "Lauterbrunnen - Isenfluh - Saustal - Grütschalp" },
+          "status": 2,
+          "season": 1,
+          "sort": 3,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 90,
+          "type": 2,
+          "label": "54",
+          "name": { "de": "Zweilütschinen - Lauterbrunnen" },
+          "status": 2,
+          "season": 1,
+          "sort": 4,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 91,
+          "type": 2,
+          "label": "55",
+          "name": { "de": "Zweilütschinen - Burglauenen - Grindelwald" },
+          "status": 2,
+          "season": 1,
+          "sort": 5,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 92,
+          "type": 2,
+          "label": "56",
+          "name": { "de": "Wilderswil - Zweilütschinen" },
+          "status": 2,
+          "season": 1,
+          "sort": 6,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 93,
+          "type": 2,
+          "label": "57",
+          "name": { "de": "Wilderswil - Breitlauenen" },
+          "status": 2,
+          "season": 1,
+          "sort": 7,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 94,
+          "type": 2,
+          "label": "58",
+          "name": { "de": "Breitlauenen - Schynige Platte" },
+          "status": 1,
+          "season": 1,
+          "sort": 8,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 95,
+          "type": 2,
+          "label": "60",
+          "name": { "de": "Schynige Platte - Oberberghorn - Schynige Platte" },
+          "status": 1,
+          "season": 1,
+          "sort": 9,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 96,
+          "type": 2,
+          "label": "61",
+          "name": { "de": "Schynige Platte - Louchernhorn - Schynige Platte" },
+          "status": 1,
+          "season": 1,
+          "sort": 10,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 97,
+          "type": 2,
+          "label": "62",
+          "name": { "de": "Schynige Platte - Faulhorn - First" },
+          "status": 1,
+          "season": 1,
+          "sort": 11,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 98,
+          "type": 2,
+          "label": "63",
+          "name": { "de": "First - Faulhorn - Schynige Platte" },
+          "status": 1,
+          "season": 1,
+          "sort": 12,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 99,
+          "type": 2,
+          "label": "64",
+          "name": { "de": "Berghaus Männdlenen - Burglauenen" },
+          "status": 1,
+          "season": 1,
+          "sort": 13,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 100,
+          "type": 2,
+          "label": "70",
+          "name": { "de": "Interlaken Ost - Bönigen - Wilderswil" },
+          "status": 2,
+          "season": 1,
+          "sort": 14,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 101,
+          "type": 2,
+          "label": "71",
+          "name": { "de": "Interlaken Ost - West - Unspunnen - Wilderswil" },
+          "status": 2,
+          "season": 1,
+          "sort": 15,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 102,
+          "type": 2,
+          "label": "72",
+          "name": { "de": "Interlaken Ost - Harder Kulm" },
+          "status": 2,
+          "season": 1,
+          "sort": 16,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 103,
+          "type": 2,
+          "label": "73",
+          "name": { "de": "Interlaken - Goldswil - Bleiki - Harder Kulm" },
+          "status": 2,
+          "season": 1,
+          "sort": 17,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 104,
+          "type": 2,
+          "label": "74",
+          "name": {
+            "de": "Interlaken - Goldswil - Baumgartisegg - Harder Kulm"
+          },
+          "status": 2,
+          "season": 1,
+          "sort": 18,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 105,
+          "type": 2,
+          "label": "75",
+          "name": { "de": "Interlaken - Ringgenberg - Roteflue - Harder" },
+          "status": 2,
+          "season": 1,
+          "sort": 19,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 106,
+          "type": 2,
+          "label": "76",
+          "name": { "de": "Harder Kulm Rundweg" },
+          "status": 2,
+          "season": 1,
+          "sort": 20,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 390,
+          "type": 2,
+          "label": "200",
+          "name": { "de": "Jungfraujoch - Mönchsjoch" },
+          "status": 1,
+          "season": 1,
+          "sort": 21,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1325,
+          "type": 2,
+          "name": { "de": "Sommerwanderweg Mountain View Trail" },
+          "status": 0,
+          "season": 1,
+          "sort": 0,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1326,
+          "type": 1,
+          "name": { "de": "Schneeschuhtrail Mürren" },
+          "status": 0,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 0,
+          "website": {}
+        }
+      ],
+      "pois": [
+        {
+          "id": 41,
+          "type": 1,
+          "name": { "de": "Dorf Lauterbrunnen" },
+          "status": 2,
+          "season": 0,
+          "sort": 0,
+          "website": {}
+        },
+        {
+          "id": 42,
+          "type": 1,
+          "name": { "de": "Wilderswil - Saxeten" },
+          "status": 2,
+          "season": 0,
+          "sort": 0,
+          "website": {}
+        }
+      ],
+      "meteo": [
+        {
+          "location": "Interlaken",
+          "altitude": "568 m",
+          "weather": null,
+          "temperature": 10,
+          "windSpeed": 0,
+          "latestSnowfall": "2023-11-25",
+          "snowDepth": 0,
+          "freshSnow": 0,
+          "lastChange": "2026-03-31T03:02:29.0533333Z",
+          "avalanche": {
+            "level": 0,
+            "de": "keine Meldung",
+            "en": "no message"
+          },
+          "condition": {
+            "slope": {
+              "value": 800,
+              "de": "keine Meldung",
+              "en": "no message"
+            },
+            "snow": { "value": 900, "de": "keine Meldung", "en": "no message" }
+          },
+          "meteoProvider": null
+        },
+        {
+          "location": "Männlichen",
+          "altitude": "2230 m",
+          "weather": 4,
+          "temperature": -2,
+          "windSpeed": 0,
+          "latestSnowfall": "2026-03-31",
+          "snowDepth": 110,
+          "freshSnow": 20,
+          "lastChange": "2026-03-31T03:02:29.0533333Z",
+          "avalanche": { "level": 4, "de": "gross", "en": "high" },
+          "condition": {
+            "slope": { "value": 801, "de": "gut", "en": "good" },
+            "snow": { "value": 901, "de": "pulver", "en": "powder" }
+          },
+          "meteoProvider": null
+        }
+      ]
+    },
+    {
+      "tenantName": "Mürren-Schilthorn",
+      "numberOfLiftsSummer": 6,
+      "numberOfOpenLiftsSummer": 5,
+      "numberOfLiftsWinter": 15,
+      "numberOfOpenLiftsWinter": 10,
+      "numberOfSlopes": 27,
+      "numberOfOpenSlopes": 11,
+      "numberOfSnowparks": 4,
+      "numberOfOpenSnowparks": 2,
+      "numberOfTobogganings": 2,
+      "numberOfOpenTobogganings": 0,
+      "numberOfCrosscountry": 0,
+      "numberOfOpenCrosscountry": 0,
+      "numberOfHikesSummer": 2,
+      "numberOfOpenHikesSummer": 2,
+      "numberOfHikesWinter": 5,
+      "numberOfOpenHikesWinter": 3,
+      "numberOfSnowshoes": 0,
+      "numberOfOpenSnowshoes": 0,
+      "numberOfBikes": 0,
+      "numberOfOpenBikes": 0,
+      "numberOfPois": 1,
+      "numberOfOpenPois": 0,
+      "lifts": [
+        {
+          "id": 359,
+          "type": 5,
+          "name": { "de": "Kandahar" },
+          "status": 3,
+          "season": 2,
+          "sort": 8,
+          "info": "Betriebszeiten \nTäglich 08:30-16:15 ab 25.01.2026 16:15",
+          "firstRide": "08:30",
+          "lastRide": "16:15",
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 360,
+          "type": 5,
+          "name": { "de": "Maulerhubel" },
+          "status": 2,
+          "season": 2,
+          "sort": 9,
+          "info": "**Betriebszeiten**\n09:00 - 16:30 Uhr",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 361,
+          "type": 5,
+          "name": { "de": "Muttleren" },
+          "status": 3,
+          "season": 2,
+          "sort": 10,
+          "info": "Betriebszeiten \nAb 22.11.2025 täglich 09:00-15:45\nab 25.01.2026 bis 16:15",
+          "firstRide": "08:30",
+          "lastRide": "16:15",
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 362,
+          "type": 5,
+          "name": { "de": "Allmiboden" },
+          "status": 2,
+          "season": 2,
+          "sort": 7,
+          "info": "**Betriebszeiten**\n09:00 - 16:30 Uhr",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 363,
+          "type": 6,
+          "name": { "de": "Winteregg" },
+          "status": 2,
+          "season": 2,
+          "sort": 13,
+          "info": "**Betriebszeiten**\n09:00 - 16:30 Uhr",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 364,
+          "type": 6,
+          "name": { "de": "Riggli" },
+          "status": 3,
+          "season": 2,
+          "sort": 11,
+          "info": "Betriebszeiten \nAb 22.11.2025 täglich 09:00-15:45\nab 25.01.2026 bis 16:15",
+          "firstRide": "08:30",
+          "lastRide": "16:15",
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 365,
+          "type": 6,
+          "name": { "de": "Schiltgrat" },
+          "status": 2,
+          "season": 2,
+          "sort": 12,
+          "info": "**Betriebszeiten**\n09:00 - 16:30 Uhr",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 366,
+          "type": 1,
+          "name": { "de": "Stechelberg – Gimmelwald" },
+          "status": 2,
+          "season": 0,
+          "sort": 2,
+          "info": "**Betriebszeiten**\n05:53 - 23:57 Uhr",
+          "firstRide": "05:53",
+          "lastRide": "23:57",
+          "travelTimeMinutes": 5,
+          "throughputPersHour": 160,
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 367,
+          "type": 1,
+          "name": { "de": "Birg – Schilthorn" },
+          "status": 3,
+          "season": 0,
+          "sort": 5,
+          "website": {}
+        },
+        {
+          "id": 369,
+          "type": 1,
+          "name": { "de": "Gimmelwald – Mürren" },
+          "status": 2,
+          "season": 0,
+          "sort": 3,
+          "info": "**Betriebszeiten**\n05:59 - 00:04 Uhr",
+          "firstRide": "05:59",
+          "lastRide": "00:04",
+          "travelTimeMinutes": 5,
+          "throughputPersHour": 160,
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 370,
+          "type": 1,
+          "name": { "de": "Mürren – Birg" },
+          "status": 2,
+          "season": 0,
+          "sort": 4,
+          "info": "**Betriebszeiten**\n08:10 - 17:36 Uhr",
+          "firstRide": "08:10",
+          "lastRide": "17:36",
+          "travelTimeMinutes": 5,
+          "website": {}
+        },
+        {
+          "id": 371,
+          "type": 3,
+          "name": { "de": "Allmendhubel" },
+          "status": 2,
+          "season": 2,
+          "sort": 14,
+          "info": "**Betriebszeiten**\n09:00 - 16:30 Uhr",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 372,
+          "type": 3,
+          "name": { "de": "Gimmeln" },
+          "status": 1,
+          "season": 2,
+          "sort": 15,
+          "info": "**Betriebszeiten**\n09:00 - 16:30 Uhr",
+          "firstRide": "09:00",
+          "lastRide": "16:30",
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 373,
+          "type": 9,
+          "name": { "de": "Mürren – Allmendhubel" },
+          "status": 2,
+          "season": 0,
+          "sort": 6,
+          "info": "**Betriebszeiten**\n09:00 - 17:00 Uhr",
+          "firstRide": "09:00",
+          "lastRide": "17:00",
+          "travelTimeMinutes": 4,
+          "throughputPersHour": 200,
+          "website": { "de": "https://www.schilthorn.ch" }
+        },
+        {
+          "id": 573,
+          "type": 1,
+          "name": { "de": "Stechelberg – Mürren" },
+          "status": 2,
+          "season": 0,
+          "sort": 1,
+          "info": "**Betriebszeiten**\n08:01 - 17:51 Uhr",
+          "firstRide": "08:01",
+          "lastRide": "17:51",
+          "travelTimeMinutes": 4,
+          "throughputPersHour": 1500,
+          "website": { "de": "https://www.schilthorn.ch" }
+        }
+      ],
+      "slopes": [
+        {
+          "id": 580,
+          "type": 2,
+          "label": "1",
+          "name": { "de": "Winteregg - Oberberg" },
+          "status": 2,
+          "season": 2,
+          "sort": 7,
+          "lengthMeter": 1540,
+          "website": {}
+        },
+        {
+          "id": 581,
+          "type": 1,
+          "label": "2",
+          "name": { "de": "Dreistern" },
+          "status": 2,
+          "season": 2,
+          "sort": 8,
+          "lengthMeter": 2570,
+          "website": {}
+        },
+        {
+          "id": 582,
+          "type": 2,
+          "label": "3",
+          "name": { "de": "Lauterbrunnen" },
+          "status": 1,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 8990,
+          "website": {}
+        },
+        {
+          "id": 583,
+          "type": 1,
+          "label": "4",
+          "name": { "de": "Maulerhubel" },
+          "status": 2,
+          "season": 2,
+          "sort": 9,
+          "lengthMeter": 1670,
+          "website": {}
+        },
+        {
+          "id": 584,
+          "type": 2,
+          "label": "5",
+          "name": { "de": "Palace-Run" },
+          "status": 2,
+          "season": 2,
+          "sort": 1,
+          "lengthMeter": 2310,
+          "website": {}
+        },
+        {
+          "id": 585,
+          "type": 1,
+          "label": "6",
+          "name": { "de": "Bob-Run" },
+          "status": 2,
+          "season": 2,
+          "sort": 2,
+          "lengthMeter": 3210,
+          "website": {}
+        },
+        {
+          "id": 586,
+          "type": 1,
+          "label": "7",
+          "name": { "de": "Allmi" },
+          "status": 2,
+          "season": 2,
+          "sort": 10,
+          "lengthMeter": 1800,
+          "website": {}
+        },
+        {
+          "id": 587,
+          "type": 1,
+          "label": "8",
+          "name": { "de": "Riggli" },
+          "status": 3,
+          "season": 2,
+          "sort": 11,
+          "lengthMeter": 1610,
+          "website": {}
+        },
+        {
+          "id": 589,
+          "type": 3,
+          "label": "9",
+          "name": { "de": "Direttissima" },
+          "status": 3,
+          "season": 2,
+          "sort": 12,
+          "lengthMeter": 940,
+          "website": {}
+        },
+        {
+          "id": 590,
+          "type": 3,
+          "label": "10",
+          "name": { "de": "Schilthorn Abfahrt" },
+          "status": 3,
+          "season": 2,
+          "sort": 3,
+          "lengthMeter": 1930,
+          "website": {}
+        },
+        {
+          "id": 591,
+          "type": 1,
+          "label": "11",
+          "name": { "de": "Engetal" },
+          "status": 3,
+          "season": 2,
+          "sort": 4,
+          "lengthMeter": 3850,
+          "website": {}
+        },
+        {
+          "id": 592,
+          "type": 3,
+          "label": "12",
+          "name": { "de": "Bond" },
+          "status": 3,
+          "season": 2,
+          "sort": 13,
+          "lengthMeter": 510,
+          "website": {}
+        },
+        {
+          "id": 593,
+          "type": 2,
+          "label": "13",
+          "name": { "de": "Stellifluh" },
+          "status": 3,
+          "season": 2,
+          "sort": 14,
+          "lengthMeter": 260,
+          "website": {}
+        },
+        {
+          "id": 594,
+          "type": 3,
+          "label": "14",
+          "name": { "de": "Muttleren" },
+          "status": 3,
+          "season": 2,
+          "sort": 15,
+          "lengthMeter": 900,
+          "website": {}
+        },
+        {
+          "id": 595,
+          "type": 2,
+          "label": "15",
+          "name": { "de": "Bietenhorn" },
+          "status": 3,
+          "season": 2,
+          "sort": 16,
+          "lengthMeter": 1540,
+          "website": {}
+        },
+        {
+          "id": 597,
+          "type": 3,
+          "label": "16",
+          "name": { "de": "Kanonenrohr - Mürren" },
+          "status": 3,
+          "season": 2,
+          "sort": 5,
+          "lengthMeter": 1670,
+          "website": {}
+        },
+        {
+          "id": 598,
+          "type": 3,
+          "label": "17",
+          "name": { "de": "FIS" },
+          "status": 3,
+          "season": 2,
+          "sort": 17,
+          "lengthMeter": 1090,
+          "website": {}
+        },
+        {
+          "id": 599,
+          "type": 1,
+          "label": "20",
+          "name": { "de": "Hindenburg" },
+          "status": 2,
+          "season": 2,
+          "sort": 6,
+          "lengthMeter": 3850,
+          "website": {}
+        },
+        {
+          "id": 601,
+          "type": 2,
+          "label": "22",
+          "name": { "de": "Suppen / Rad" },
+          "status": 2,
+          "season": 2,
+          "sort": 19,
+          "lengthMeter": 1030,
+          "website": {}
+        },
+        {
+          "id": 602,
+          "type": 1,
+          "label": "23",
+          "name": { "de": "Gimmeln" },
+          "status": 2,
+          "season": 2,
+          "sort": 20,
+          "lengthMeter": 1670,
+          "website": {}
+        },
+        {
+          "id": 604,
+          "type": 2,
+          "label": "24",
+          "name": { "de": "Gimmeln" },
+          "status": 1,
+          "season": 2,
+          "sort": 21,
+          "lengthMeter": 2950,
+          "website": {}
+        },
+        {
+          "id": 605,
+          "type": 2,
+          "label": "25",
+          "name": { "de": "Finel" },
+          "status": 1,
+          "season": 2,
+          "sort": 22,
+          "lengthMeter": 1860,
+          "website": {}
+        },
+        {
+          "id": 606,
+          "type": 1,
+          "label": "26",
+          "name": { "de": "Wintertal" },
+          "status": 2,
+          "season": 2,
+          "sort": 23,
+          "lengthMeter": 1280,
+          "website": {}
+        },
+        {
+          "id": 609,
+          "type": 13,
+          "label": "27a",
+          "name": { "de": "Abfahrtsroute Gimmelwald" },
+          "status": 0,
+          "season": 2,
+          "sort": 26,
+          "lengthMeter": 1280,
+          "website": {}
+        },
+        {
+          "id": 615,
+          "type": 9,
+          "name": { "de": "Apollo" },
+          "status": 1,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 3100,
+          "website": {}
+        },
+        {
+          "id": 616,
+          "type": 9,
+          "name": { "de": "Bobrun" },
+          "status": 3,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 2000,
+          "website": {}
+        },
+        {
+          "id": 1113,
+          "type": 3,
+          "label": "21",
+          "name": { "de": "Kandahar" },
+          "status": 2,
+          "season": 2,
+          "sort": 18,
+          "lengthMeter": 1160,
+          "website": {}
+        },
+        {
+          "id": 1156,
+          "type": 13,
+          "label": "27",
+          "name": { "de": "Abfahrtsroute Schiltgrat - Gimmeln" },
+          "status": 1,
+          "season": 2,
+          "sort": 25,
+          "lengthMeter": 0,
+          "website": {}
+        },
+        {
+          "id": 1196,
+          "type": 1,
+          "label": "8a",
+          "name": { "de": "Riggli" },
+          "status": 3,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 0,
+          "website": {}
+        }
+      ],
+      "trails": [
+        {
+          "id": 413,
+          "type": 2,
+          "label": "40",
+          "name": { "de": "Mürren - Gimmeln" },
+          "status": 2,
+          "season": 2,
+          "sort": 0,
+          "lengthMeter": 1500,
+          "website": {}
+        },
+        {
+          "id": 414,
+          "type": 2,
+          "label": "41",
+          "name": { "de": "Gimmeln - Schiltgrat" },
+          "status": 1,
+          "season": 2,
+          "sort": 1,
+          "lengthMeter": 2500,
+          "website": {}
+        },
+        {
+          "id": 415,
+          "type": 2,
+          "label": "42",
+          "name": { "de": "Mürren - Sonnenberg" },
+          "status": 3,
+          "season": 2,
+          "sort": 2,
+          "lengthMeter": 1500,
+          "website": {}
+        },
+        {
+          "id": 417,
+          "type": 2,
+          "label": "44",
+          "name": { "de": "Mürren - Winteregg" },
+          "status": 2,
+          "season": 0,
+          "sort": 3,
+          "lengthMeter": 2500,
+          "website": {}
+        },
+        {
+          "id": 419,
+          "type": 2,
+          "label": "45",
+          "name": { "de": "Mürren - Gimmelwald" },
+          "status": 2,
+          "season": 0,
+          "sort": 4,
+          "lengthMeter": 1000,
+          "website": {}
+        }
+      ],
+      "pois": [
+        {
+          "id": 295,
+          "type": 25,
+          "name": { "de": "Snowtubing Winteregg" },
+          "status": 1,
+          "season": 2,
+          "sort": 0,
+          "website": {}
+        },
+        {
+          "id": 431,
+          "type": 68,
+          "name": { "de": "Skicross Maulerhubel" },
+          "status": 0,
+          "season": 2,
+          "sort": 0,
+          "website": {}
+        },
+        {
+          "id": 669,
+          "type": 9,
+          "name": { "de": "Snowpark Engetal" },
+          "status": 1,
+          "season": 2,
+          "sort": 0,
+          "website": {}
+        },
+        {
+          "id": 670,
+          "type": 9,
+          "name": { "de": "Snowpark Maulerhubel" },
+          "status": 2,
+          "season": 2,
+          "sort": 0,
+          "website": {}
+        },
+        {
+          "id": 671,
+          "type": 9,
+          "name": { "de": "Snowpark Winteregg" },
+          "status": 2,
+          "season": 2,
+          "sort": 0,
+          "website": {}
+        }
+      ],
+      "gastros": [
+        {
+          "id": 390,
+          "type": 2,
+          "name": { "de": "Winteregg" },
+          "contact": "",
+          "telNumber": "",
+          "website": { "de": "" },
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 391,
+          "type": 2,
+          "name": { "de": "Suppenalp" },
+          "contact": "",
+          "telNumber": "",
+          "website": { "de": "" },
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 392,
+          "type": 2,
+          "name": { "de": "Sonnenberg" },
+          "contact": "",
+          "telNumber": "",
+          "website": { "de": "" },
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 393,
+          "type": 2,
+          "name": { "de": "Schiltgrathüsi" },
+          "contact": "",
+          "telNumber": "",
+          "website": { "de": "" },
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 394,
+          "type": 2,
+          "name": { "de": "Schilthornhütte" },
+          "contact": "",
+          "telNumber": "",
+          "website": { "de": "" },
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 395,
+          "type": 2,
+          "name": { "de": "Schilthorn - Piz Gloria" },
+          "contact": "",
+          "telNumber": "",
+          "website": { "de": "" },
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 396,
+          "type": 2,
+          "name": { "de": "Gimmeln" },
+          "contact": "",
+          "telNumber": "",
+          "website": { "de": "" },
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 397,
+          "type": 2,
+          "name": { "de": "Birg Selfservice" },
+          "contact": "",
+          "telNumber": "",
+          "website": { "de": "" },
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        },
+        {
+          "id": 398,
+          "type": 2,
+          "name": { "de": "Allmendhubel" },
+          "contact": "",
+          "telNumber": "",
+          "website": { "de": "" },
+          "status": 2,
+          "season": 0,
+          "sort": 0
+        }
+      ],
+      "meteo": [
+        {
+          "location": "Schilthorn",
+          "altitude": "2971 m",
+          "weather": 13,
+          "temperature": -15,
+          "windSpeed": null,
+          "latestSnowfall": "2026-03-30",
+          "snowDepth": 353,
+          "freshSnow": 52,
+          "lastChange": "2026-03-31T05:40:20.8800000Z",
+          "avalanche": { "level": 3, "de": "erheblich", "en": "considerable" },
+          "condition": {
+            "slope": { "value": 801, "de": "gut", "en": "good" },
+            "snow": { "value": 901, "de": "pulver", "en": "powder" }
+          },
+          "meteoProvider": null
+        },
+        {
+          "location": "Mürren",
+          "altitude": "1634 m",
+          "weather": 13,
+          "temperature": -6,
+          "windSpeed": null,
+          "latestSnowfall": "2026-03-25",
+          "snowDepth": 70,
+          "freshSnow": 0,
+          "lastChange": "2026-03-31T05:40:20.8800000Z",
+          "avalanche": { "level": 3, "de": "erheblich", "en": "considerable" },
+          "condition": {
+            "slope": { "value": 801, "de": "gut", "en": "good" },
+            "snow": { "value": 901, "de": "pulver", "en": "powder" }
+          },
+          "meteoProvider": null
+        }
+      ]
+    }
+  ],
+  "liftTypes": [
+    { "id": 1, "type": "Pendelbahn" },
+    { "id": 2, "type": "Gondelbahn" },
+    { "id": 3, "type": "Skilift" },
+    { "id": 5, "type": "Sesselbahn 2er" },
+    { "id": 6, "type": "Sesselbahn 4er" },
+    { "id": 7, "type": "Sesselbahn 6er" },
+    { "id": 9, "type": "Standseilbahn" },
+    { "id": 10, "type": "Schienenbahn" },
+    { "id": 11, "type": "Zahnradbahn" },
+    { "id": 14, "type": "Förderband" },
+    { "id": 15, "type": "Kinderlift" }
+  ],
+  "slopeTypes": [
+    { "id": 1, "type": "Blaue Piste" },
+    { "id": 2, "type": "Rote Piste" },
+    { "id": 3, "type": "Schwarze Piste" },
+    { "id": 5, "type": "Langlauf klassisch" },
+    { "id": 6, "type": "Langlauf skating" },
+    { "id": 8, "type": "Talabfahrt" },
+    { "id": 9, "type": "Schlitteln" },
+    { "id": 13, "type": "Gelbe Freeride-Piste" }
+  ],
+  "trailTypes": [
+    { "id": 1, "type": "Schneeschuhwanderweg" },
+    { "id": 2, "type": "Wanderweg" },
+    { "id": 3, "type": "Klettersteig" }
+  ],
+  "poiTypes": [
+    { "id": 1, "type": "Bushaltestelle" },
+    { "id": 3, "type": "Avalanche Training Center" },
+    { "id": 9, "type": "Snowpark" },
+    { "id": 10, "type": "Diverses" },
+    { "id": 16, "type": "Trottivermietung" },
+    { "id": 25, "type": "Snowtube" },
+    { "id": 31, "type": "Gleitschirm Startplatz" },
+    { "id": 41, "type": "Kinderskiland" },
+    { "id": 46, "type": "Gokart" },
+    { "id": 48, "type": "Seilrutsche" },
+    { "id": 49, "type": "Halfpipe" },
+    { "id": 52, "type": "Rodeln" },
+    { "id": 68, "type": "Skicross" },
+    { "id": 73, "type": "Ski Vermietung" },
+    { "id": 76, "type": "Ski Spezial" }
+  ],
+  "gastroTypes": [
+    { "id": 1, "type": "Bar" },
+    { "id": 2, "type": "Restaurant" }
+  ],
+  "statusTypes": [
+    { "status": "Disabled", "value": 0 },
+    { "status": "Closed", "value": 1 },
+    { "status": "Open", "value": 2 },
+    { "status": "Preparation", "value": 3 },
+    { "status": "Free", "value": 7 },
+    { "status": "Full", "value": 8 }
+  ],
+  "seasonTypes": [
+    { "season": "SummerAndWinter", "value": 0 },
+    { "season": "Summer", "value": 1 },
+    { "season": "Winter", "value": 2 }
+  ],
+  "subStatusTypes": [
+    { "subStatus": "NoSubStatus", "value": 0 },
+    { "subStatus": "Revision", "value": 101 },
+    { "subStatus": "Storm", "value": 102 },
+    { "subStatus": "Malfunction", "value": 103 },
+    { "subStatus": "Circulation", "value": 201 },
+    { "subStatus": "Convoy", "value": 202 }
+  ]
+}
