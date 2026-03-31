@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Betriebsstatus Jungfrau Region</title>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/jungfrau-region/feed.rss">
+  <link rel="alternate" type="application/feed+json" title="JSON Feed" href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/jungfrau-region/feed.json">
+  <style>
+  :root {
+    --open:   #16a34a;
+    --closed: #dc2626;
+    --prep:   #d97706;
+    --free:   #2563eb;
+    --full:   #7c3aed;
+    --dis:    #6b7280;
+    --unk:    #9ca3af;
+    --bg:     #f8fafc;
+    --card:   #ffffff;
+    --border: #e2e8f0;
+    --text:   #1e293b;
+    --muted:  #64748b;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg);
+         color: var(--text); line-height: 1.5; }
+  header { background: #1e3a5f; color: #fff; padding: 1.5rem 1.25rem 1rem; }
+  header h1 { font-size: 1.5rem; font-weight: 700; }
+  header p  { font-size: .85rem; opacity: .75; margin-top: .25rem; }
+  .summary  { display: flex; flex-wrap: wrap; gap: .75rem;
+              padding: 1rem 1.25rem; background: #1e3a5f; border-top: 1px solid rgba(255,255,255,.15); }
+  .summary-badge { background: rgba(255,255,255,.12); border-radius: 999px;
+                   padding: .2rem .75rem; font-size: .8rem; color: #e2e8f0; }
+  .summary-badge strong { color: #fff; }
+  main { max-width: 900px; margin: 1.5rem auto; padding: 0 1rem; }
+  .section { background: var(--card); border: 1px solid var(--border);
+             border-radius: .75rem; margin-bottom: 1.25rem; overflow: hidden; }
+  .section-header { padding: .75rem 1rem; background: #f1f5f9;
+                    border-bottom: 1px solid var(--border);
+                    display: flex; align-items: center; gap: .5rem; }
+  .section-header h2 { font-size: 1rem; font-weight: 600; flex: 1; }
+  .section-count { font-size: .8rem; color: var(--muted); }
+  .item-list { list-style: none; }
+  .item-list li { display: flex; align-items: center; gap: .65rem;
+                  padding: .55rem 1rem; border-bottom: 1px solid var(--border); }
+  .item-list li:last-child { border-bottom: none; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .dot-open        { background: var(--open); }
+  .dot-closed      { background: var(--closed); }
+  .dot-preparation { background: var(--prep); }
+  .dot-free        { background: var(--free); }
+  .dot-full        { background: var(--full); }
+  .dot-disabled    { background: var(--dis); }
+  .dot-unknown     { background: var(--unk); }
+  .item-name  { flex: 1; font-size: .9rem; }
+  .item-state { font-size: .78rem; color: var(--muted); white-space: nowrap; }
+  .state-open        { color: var(--open); font-weight: 600; }
+  .state-closed      { color: var(--closed); }
+  .state-preparation { color: var(--prep); }
+  footer { text-align: center; padding: 2rem 1rem; font-size: .78rem; color: var(--muted); }
+  @media (max-width: 480px) {
+    header h1 { font-size: 1.2rem; }
+    .item-list li { padding: .5rem .75rem; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Betriebsstatus Jungfrau Region</h1>
+    <p>Zuletzt aktualisiert: 2026-03-31T09:57:42Z</p>
+    <div class="summary">
+        <span class="summary-badge"><strong>14/22</strong> Anlagen offen</span>
+        <span class="summary-badge"><strong>0/3</strong> Pisten offen</span>
+        <span class="summary-badge"><strong>15/24</strong> Trails offen</span>
+        
+    </div>
+  </header>
+  <main>
+    <section class="section">
+      <div class="section-header">
+        <h2>Anlagen / Lifte</h2>
+        <span class="section-count">14 / 22 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Adventure auf dem Gletscher</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Climb the Eiger</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Crystall-Restaurant</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Eispalast</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Gletscher-Plateau</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Gletscherrestaurant</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Husky-Fahrten</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Interlaken – Harder Kulm</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Interlaken Ost – Grindelwald</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Interlaken Ost – Lauterbrunnen</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Interlaken Ost – Zweilütschinen</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Selbstbedienung</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">SnowDisc-Run</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Sphinx-Terrassen</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Tirolienne</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Wilderswil – Schynige Platte</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Zweilütschinen – Grindelwald</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Zweilütschinen – Lauterbrunnen</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Lauterbrunnen – Grütschalp</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Lauterbrunnen – Mürren</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Grütschalp – Winteregg</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Winteregg – Mürren</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      </ul>
+    </section>
+    <section class="section">
+      <div class="section-header">
+        <h2>Pisten</h2>
+        <span class="section-count">0 / 3 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Saxeten ganze Strecke</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Saxeten obere Teilstrecke</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Saxeten untere Teilsstrecke</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      </ul>
+    </section>
+    <section class="section">
+      <div class="section-header">
+        <h2>Trails &amp; Wanderwege</h2>
+        <span class="section-count">15 / 24 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Lauterbrunnen - Mürren</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Lauterbrunnen - Alpweg - Winteregg - Mürren</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Grütschalp - Winteregg - Mürren</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Lauterbrunnen - Isenfluh - Saustal - Grütschalp</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Zweilütschinen - Lauterbrunnen</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Zweilütschinen - Burglauenen - Grindelwald</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Wilderswil - Zweilütschinen</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Wilderswil - Breitlauenen</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Breitlauenen - Schynige Platte</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schynige Platte - Oberberghorn - Schynige Platte</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schynige Platte - Louchernhorn - Schynige Platte</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schynige Platte - Faulhorn - First</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Faulhorn - Schynige Platte</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Berghaus Männdlenen - Burglauenen</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Interlaken Ost - Bönigen - Wilderswil</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Interlaken Ost - West - Unspunnen - Wilderswil</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Interlaken Ost - Harder Kulm</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Interlaken - Goldswil - Bleiki - Harder Kulm</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Interlaken - Goldswil - Baumgartisegg - Harder Kulm</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Interlaken - Ringgenberg - Roteflue - Harder</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Harder Kulm Rundweg</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Jungfraujoch - Mönchsjoch</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Sommerwanderweg Mountain View Trail</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Schneeschuhtrail Mürren</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p><a href="https://tsolenthaler.github.io/jrtag-betriebsstatus/">← Alle Regionen</a> &nbsp;|&nbsp;
+       <a href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/jungfrau-region/feed.rss">RSS</a> &nbsp;|&nbsp;
+       <a href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/jungfrau-region/feed.json">JSON</a></p>
+    <p style="margin-top:.5rem">Aktualisiert alle 5 Minuten. Daten: Siscontrol SISMedia.</p>
+  </footer>
+</body>
+</html>

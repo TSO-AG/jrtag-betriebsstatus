@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Betriebsstatus First</title>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/first/feed.rss">
+  <link rel="alternate" type="application/feed+json" title="JSON Feed" href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/first/feed.json">
+  <style>
+  :root {
+    --open:   #16a34a;
+    --closed: #dc2626;
+    --prep:   #d97706;
+    --free:   #2563eb;
+    --full:   #7c3aed;
+    --dis:    #6b7280;
+    --unk:    #9ca3af;
+    --bg:     #f8fafc;
+    --card:   #ffffff;
+    --border: #e2e8f0;
+    --text:   #1e293b;
+    --muted:  #64748b;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg);
+         color: var(--text); line-height: 1.5; }
+  header { background: #1e3a5f; color: #fff; padding: 1.5rem 1.25rem 1rem; }
+  header h1 { font-size: 1.5rem; font-weight: 700; }
+  header p  { font-size: .85rem; opacity: .75; margin-top: .25rem; }
+  .summary  { display: flex; flex-wrap: wrap; gap: .75rem;
+              padding: 1rem 1.25rem; background: #1e3a5f; border-top: 1px solid rgba(255,255,255,.15); }
+  .summary-badge { background: rgba(255,255,255,.12); border-radius: 999px;
+                   padding: .2rem .75rem; font-size: .8rem; color: #e2e8f0; }
+  .summary-badge strong { color: #fff; }
+  main { max-width: 900px; margin: 1.5rem auto; padding: 0 1rem; }
+  .section { background: var(--card); border: 1px solid var(--border);
+             border-radius: .75rem; margin-bottom: 1.25rem; overflow: hidden; }
+  .section-header { padding: .75rem 1rem; background: #f1f5f9;
+                    border-bottom: 1px solid var(--border);
+                    display: flex; align-items: center; gap: .5rem; }
+  .section-header h2 { font-size: 1rem; font-weight: 600; flex: 1; }
+  .section-count { font-size: .8rem; color: var(--muted); }
+  .item-list { list-style: none; }
+  .item-list li { display: flex; align-items: center; gap: .65rem;
+                  padding: .55rem 1rem; border-bottom: 1px solid var(--border); }
+  .item-list li:last-child { border-bottom: none; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .dot-open        { background: var(--open); }
+  .dot-closed      { background: var(--closed); }
+  .dot-preparation { background: var(--prep); }
+  .dot-free        { background: var(--free); }
+  .dot-full        { background: var(--full); }
+  .dot-disabled    { background: var(--dis); }
+  .dot-unknown     { background: var(--unk); }
+  .item-name  { flex: 1; font-size: .9rem; }
+  .item-state { font-size: .78rem; color: var(--muted); white-space: nowrap; }
+  .state-open        { color: var(--open); font-weight: 600; }
+  .state-closed      { color: var(--closed); }
+  .state-preparation { color: var(--prep); }
+  footer { text-align: center; padding: 2rem 1rem; font-size: .78rem; color: var(--muted); }
+  @media (max-width: 480px) {
+    header h1 { font-size: 1.2rem; }
+    .item-list li { padding: .5rem .75rem; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Betriebsstatus First</h1>
+    <p>Zuletzt aktualisiert: 2026-03-31T09:57:42Z</p>
+    <div class="summary">
+        <span class="summary-badge"><strong>3/11</strong> Anlagen offen</span>
+        <span class="summary-badge"><strong>11/40</strong> Pisten offen</span>
+        <span class="summary-badge"><strong>13/70</strong> Trails offen</span>
+        <span class="summary-badge"><strong>6/25</strong> Gastronomie offen</span>
+        
+    </div>
+  </header>
+  <main>
+    <section class="section">
+      <div class="section-header">
+        <h2>Anlagen / Lifte</h2>
+        <span class="section-count">3 / 11 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">bodmiARENA</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">bodmiLIFT</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Grindelwald – Bort</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Bärgelegg</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Grindel</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bort – Schreckfeld</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schreckfeld – First</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Hohwald</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Oberjoch</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Schilt</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Grindelwald – Pfingstegg</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      </ul>
+    </section>
+    <section class="section">
+      <div class="section-header">
+        <h2>Pisten</h2>
+        <span class="section-count">11 / 40 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Oberjoch blau</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Oberjoch rot</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Gemsberg</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Hambiel</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Innerbärgel</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Bärgelegg</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Gemsberg West</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Faxhubel West</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Bort - Chapf</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Bort - Mühlebach</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Stählisboden - Kirche</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Grindel</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Stepfi</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Berme</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Üsserbärgel</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Tirrli</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bort direkt</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schreckfeld - Egg</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Faxhubel Ost</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Distelboden</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Furggi</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Bodmi</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Skischulgelände Bodmi</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Grund Gletscherschlucht (Classic)</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Grund Gletscherschlucht (Skating)</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bussalp - Holzmatten (Bussalp Run)</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Bachalpsee</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bachalpsee - Faulhorn</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Faulhorn - Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Waldspitz - Bort</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Schreckfeld</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schreckfeld - Bort</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bussalp - Rasthysi - Lochsteinen (Family Run)</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bussalp - Grindelwald (City Run)</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bussalp - Weidli ( City Run )</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bort M`bach Grindelwald</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Mühlebach</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Oberjoch Steilhang</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Hohwald - Bärgelegg</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Berme</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      </ul>
+    </section>
+    <section class="section">
+      <div class="section-header">
+        <h2>Trails &amp; Wanderwege</h2>
+        <span class="section-count">13 / 70 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schneeschuhtrail - Alpweg</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schneeschuhtrail - Aspen</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schneeschuhtrail - Eiger</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schneeschuhtrail - Mühlebach</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schneeschuhtrail - Panorama</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schneeschuhtrail - Wetterhorn blau</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schneeschuhtrail - Wetterhorn rot</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Bachalpsee</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Waldspitz - Feld - Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schreckfeld - Grosse Scheidegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schreckfeld - Bort</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bort - Bussalp</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bort - Aellfluh - Grindelwald</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bort - Grindelwald</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bort - Unter Lauchbühl - Hotel Wetterhorn</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Schilt - Oberläger - Grosse Scheidegg (Murmeltierweg)</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Schwarzhorn - First</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Waldspitz - Bort</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bachalpsee - Faulhorn - Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Grindelwald - Unter Lauchbühl - Grosse Scheidegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Grindelwald - Abbachfall - Bussalp</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Bachalpsee - Hireleni - Feld - Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Bachalpsee - Waldspitz (Blumenweg)</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Bachalpsee - Hiendertellti - Grosse Scheidegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Faulhorn - Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Bachalpsee</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bachalpsee - Faulhorn</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Faulhorn - Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bort - Waldspitz</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Waldspitz</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bort - Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Schreckfeld</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schreckfeld - Bort</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bort - Rasthysi</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bussalp - Grindelwald</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bussalp - Lochsteinen</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bussalp - Weidli</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bort M`bach Grindelwald</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Grosse Scheidegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Schreckfeld</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Bachläger - Waldspitz (Gelber Brunnen)</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Pfingstegg - Halsegg - Hotel Wetterhorn</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Pfingstegg - Bäregg - Pfingstegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Pfingstegg - Milchbach - Oberer Gletscher</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bäregg - Schreckhornhütte SAC</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Pfingstegg - Bäregg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bort - Mühlebach (entlang Trottistrecke)</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Waldspitz - Bort</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Pfingstegg - Marmorbruch - Gletscherschlucht</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Unterer Lauchbühl - Glecksteinhütte</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Rundwanderweg Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">First - Bachalpsee - Waldspitz</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Klettersteig Schwarzhorn</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schneeschuhtrail – Lauchbühl</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Oberer Gletscher – Milchbach – Pfingstegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Pfingstegg – Bäregg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Grindelwald – Halten – Pfingstegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Grindelwald – Sulz – Pfingstegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Gletscherschlucht – Marmorbruch – Pfingstegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bäregg – Schreckhornhütte</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Grindelwald Grund - Trychleregg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bort – Grindelwald Klusi</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Unterer Lauchbühl – Glecksteinhütte</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Rundwanderweg Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bussalp – Burglauenen</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Männdlenen - Burglauenen</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Faulhorn – Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Grindelwald – Vogelpark</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bort – Grindelwald Klusi</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Klettersteig Ostegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      </ul>
+    </section>
+    <section class="section">
+      <div class="section-header">
+        <h2>Gastronomie</h2>
+        <span class="section-count">6 / 25 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Skibar Widderfeldhütte</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Alpweg Bar</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Bus Stop Après Ride Bar</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Rancher Bar</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Berghaus Männdlenen</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bort</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Brügg-Beizli</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bussalp</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Bärgelegghütte</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Faulhorn</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Toprestaurant</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Genepi</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Grosse Scheidegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Rasthysi</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Rasthysi (Sommer)</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schreckfeld</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schynige Platte</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Steintorbar</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Vogelpark</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Waldspitz</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Weidli Bar</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bäregg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Glecksteinhütte SAC</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Pfingstegg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schreckhornhütte SAC</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p><a href="https://tsolenthaler.github.io/jrtag-betriebsstatus/">← Alle Regionen</a> &nbsp;|&nbsp;
+       <a href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/first/feed.rss">RSS</a> &nbsp;|&nbsp;
+       <a href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/first/feed.json">JSON</a></p>
+    <p style="margin-top:.5rem">Aktualisiert alle 5 Minuten. Daten: Siscontrol SISMedia.</p>
+  </footer>
+</body>
+</html>

@@ -1,29 +1,98 @@
-# Betriebsstand
+# Betriebsstatus Jungfrau Region
 
-## Beschreibung
-Exportiere mir alle 'tenants' mit den Informatonen von lifts, slopes, trails und gastro als einzelne Feeds/Ausgaben.
-Diese sollen alle 5min abgerufen und aktulaisiert werden.
-Es soll mehere Ausgaben geben für "Formate" die unter ## Ausgabe / Funktion aufgelistet sind. 
-Diese Formate sollen unter /api/xy für JSON und RSS oder als HTML unter /operating-status/xy oder als einbindbares Javascript unter /js/xy für andere Webseiten vorhanden sein.
+Generiert automatisch alle 5 Minuten Betriebsstatus-Feeds für alle Tenants der Jungfrau Region aus der Siscontrol SISMedia API und veröffentlicht diese über GitHub Pages.
 
-## Daten Quelle
-https://export.siscontrol.ch/sismedia/json/B1463C13-F6D8-4270-8C0B-0CFF9E135E62
+## Datenquelle
+`https://export.siscontrol.ch/sismedia/json/B1463C13-F6D8-4270-8C0B-0CFF9E135E62`
 
-## Ausgaben / Funktionen
-* Ausgabe als JSON im folgenden Format wie in example/output/outputJSON.json
-```json
-{ "version": "https://jsonfeed.org/version/1", "title": "RSS Feed Kleine Scheidegg", "description": "Alle Stories für Kleine Scheidegg", "items": [ { "id": "123", "title": "Tschuggen Talabfahrt", "url": "https://demo.tourismusweb.site/preview.php/de/index/tschuggen-talabfahrt-123.html", "date_published": "2026-03-29T17:08:58+02:00", "_state": "offen", "_stateRaw": "open", "_tags": "Piste" } ] }
+Tenants: Kleine Scheidegg · First · Jungfrau Region · Mürren-Schilthorn
+
+## Ausgaben pro Tenant
+
+| Format | URL-Pfad | Beschreibung |
+|--------|----------|--------------|
+| Overview | `/` | Übersicht aller Tenants |
+| HTML | `/operating-status/{slug}/` | Status-Seite im Browser |
+| JSON Feed | `/api/{slug}/feed.json` | JSON Feed 1.0 |
+| RSS 2.0 | `/api/{slug}/feed.rss` | RSS-Feed |
+| JS Widget | `/js/{slug}/widget.js` | Einbindbares Widget |
+| Universal JS | `/js/widget.js` | Universeller Loader |
+
+**Beispiel Kleine Scheidegg (`kleine-scheidegg`):**
+- HTML: `/operating-status/kleine-scheidegg/`
+- JSON: `/api/kleine-scheidegg/feed.json`
+- RSS:  `/api/kleine-scheidegg/feed.rss`
+- JS:   `/js/kleine-scheidegg/widget.js`
+
+## Widget einbinden
+
+### Per-Tenant Widget (einfachste Methode)
+```html
+<div data-bss="kleine-scheidegg"></div>
+<script src="https://tsolenthaler.github.io/jrtag-betriebsstatus/js/kleine-scheidegg/widget.js" defer></script>
 ```
-* Ausgabe als RSS-Feed Version 2 im Format wie in example/output/example.rss
-* Ausgabe als HTML mit gleicher Darstellung wie bei https://demo.tourismusweb.site/de/entdecken/aktuelles/betriebszustaende.html?page_ot52048=2 unter Bergbahnen.
-* Ausgabe einbindbares Javascript auf fremden Webseiten mit Best Practices-Methoden für das einbinden von Javascript
 
-## Technisches mit vibecode
+### Universeller Loader (ein Script, mehrere Tenants)
+```html
+<div class="bss-widget" data-bss-tenant="kleine-scheidegg"
+     data-bss-base="https://tsolenthaler.github.io/jrtag-betriebsstatus"></div>
+<script src="https://tsolenthaler.github.io/jrtag-betriebsstatus/js/widget.js" defer></script>
+```
 
-* Github Pages mit Github Action
-* Alle 5min aktualisiert
+## Lokale Ausführung
 
-## Lösungen prüfen mit 
-* n8n
-* make
-* vibecode (github copilot)
+```bash
+python src/generator/generate.py \
+  --output docs \
+  --base-url "https://tsolenthaler.github.io/jrtag-betriebsstatus"
+```
+
+Mit lokalem Input (ohne API-Aufruf):
+```bash
+python src/generator/generate.py --input example/source/source.json --output docs
+```
+
+## GitHub Pages Setup
+
+1. Repository → Settings → Pages → Source: **GitHub Actions**
+2. Workflow `.github/workflows/generate.yml` läuft alle 5 Minuten automatisch
+3. Manueller Start: Actions → "Generate Betriebsstatus" → Run workflow
+
+## Projektstruktur
+
+```
+src/
+  generator/
+    generate.py          # Haupt-Generator (alle Formate)
+  command/
+    rss-generator.py     # Legacy CLI-Tool (RSS only)
+  n8n/
+    rss-generator-code-node.py
+    workflow/
+      generateJson.js
+      generateRSS.js
+docs/                    # Generierte Ausgabe (GitHub Pages)
+  index.html
+  api/{slug}/feed.json
+  api/{slug}/feed.rss
+  operating-status/{slug}/index.html
+  js/{slug}/widget.js
+  js/widget.js
+example/
+  source/                # Beispiel-Eingabedaten
+  output/                # Beispiel-Ausgaben
+.github/
+  workflows/
+    generate.yml         # GitHub Actions Workflow (alle 5min)
+```
+
+## Status-Werte
+
+| Code | Deutsch | Englisch | Farbe |
+|------|---------|----------|-------|
+| 0 | deaktiviert | disabled | grau |
+| 1 | geschlossen | closed | rot |
+| 2 | offen | open | grün |
+| 3 | in Vorbereitung | preparation | gelb |
+| 7 | frei | free | blau |
+| 8 | voll | full | lila |

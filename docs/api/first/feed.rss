@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Betriebsstatus First</title>
+    <link>https://tsolenthaler.github.io/jrtag-betriebsstatus/operating-status/first/</link>
+    <description>Betriebsstatus für First</description>
+    <lastBuildDate>2026-03-31T09:57:42Z</lastBuildDate>
+    <atom:link href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/first/feed.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>bodmiARENA</title>
+      <link>https://demo.tourismusweb.site/de/index/bodmiarena-126.html</link>
+      <guid isPermaLink="false">126</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>bodmiLIFT</title>
+      <link>https://demo.tourismusweb.site/de/index/bodmilift-127.html</link>
+      <guid isPermaLink="false">127</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald – Bort</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-bort-128.html</link>
+      <guid isPermaLink="false">128</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Bärgelegg</title>
+      <link>https://demo.tourismusweb.site/de/index/baergelegg-130.html</link>
+      <guid isPermaLink="false">130</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Grindel</title>
+      <link>https://demo.tourismusweb.site/de/index/grindel-131.html</link>
+      <guid isPermaLink="false">131</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Bort – Schreckfeld</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-schreckfeld-132.html</link>
+      <guid isPermaLink="false">132</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Schreckfeld – First</title>
+      <link>https://demo.tourismusweb.site/de/index/schreckfeld-first-134.html</link>
+      <guid isPermaLink="false">134</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Hohwald</title>
+      <link>https://demo.tourismusweb.site/de/index/hohwald-135.html</link>
+      <guid isPermaLink="false">135</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Oberjoch</title>
+      <link>https://demo.tourismusweb.site/de/index/oberjoch-136.html</link>
+      <guid isPermaLink="false">136</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Schilt</title>
+      <link>https://demo.tourismusweb.site/de/index/schilt-137.html</link>
+      <guid isPermaLink="false">137</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald – Pfingstegg</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-pfingstegg-163.html</link>
+      <guid isPermaLink="false">163</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Anlage</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Oberjoch blau</title>
+      <link>https://demo.tourismusweb.site/de/index/oberjoch-blau-144.html</link>
+      <guid isPermaLink="false">144</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Oberjoch rot</title>
+      <link>https://demo.tourismusweb.site/de/index/oberjoch-rot-145.html</link>
+      <guid isPermaLink="false">145</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Gemsberg</title>
+      <link>https://demo.tourismusweb.site/de/index/gemsberg-146.html</link>
+      <guid isPermaLink="false">146</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Hambiel</title>
+      <link>https://demo.tourismusweb.site/de/index/hambiel-147.html</link>
+      <guid isPermaLink="false">147</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Innerbärgel</title>
+      <link>https://demo.tourismusweb.site/de/index/innerbaergel-148.html</link>
+      <guid isPermaLink="false">148</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bärgelegg</title>
+      <link>https://demo.tourismusweb.site/de/index/baergelegg-149.html</link>
+      <guid isPermaLink="false">149</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Gemsberg West</title>
+      <link>https://demo.tourismusweb.site/de/index/gemsberg-west-150.html</link>
+      <guid isPermaLink="false">150</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Faxhubel West</title>
+      <link>https://demo.tourismusweb.site/de/index/faxhubel-west-151.html</link>
+      <guid isPermaLink="false">151</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bort - Chapf</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-chapf-152.html</link>
+      <guid isPermaLink="false">152</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bort - Mühlebach</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-muehlebach-153.html</link>
+      <guid isPermaLink="false">153</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Stählisboden - Kirche</title>
+      <link>https://demo.tourismusweb.site/de/index/staehlisboden-kirche-154.html</link>
+      <guid isPermaLink="false">154</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Grindel</title>
+      <link>https://demo.tourismusweb.site/de/index/grindel-155.html</link>
+      <guid isPermaLink="false">155</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Stepfi</title>
+      <link>https://demo.tourismusweb.site/de/index/stepfi-156.html</link>
+      <guid isPermaLink="false">156</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Berme</title>
+      <link>https://demo.tourismusweb.site/de/index/berme-157.html</link>
+      <guid isPermaLink="false">157</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Üsserbärgel</title>
+      <link>https://demo.tourismusweb.site/de/index/uesserbaergel-158.html</link>
+      <guid isPermaLink="false">158</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Tirrli</title>
+      <link>https://demo.tourismusweb.site/de/index/tirrli-159.html</link>
+      <guid isPermaLink="false">159</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bort direkt</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-direkt-160.html</link>
+      <guid isPermaLink="false">160</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Schreckfeld - Egg</title>
+      <link>https://demo.tourismusweb.site/de/index/schreckfeld-egg-161.html</link>
+      <guid isPermaLink="false">161</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Faxhubel Ost</title>
+      <link>https://demo.tourismusweb.site/de/index/faxhubel-ost-162.html</link>
+      <guid isPermaLink="false">162</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Distelboden</title>
+      <link>https://demo.tourismusweb.site/de/index/distelboden-163.html</link>
+      <guid isPermaLink="false">163</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Furggi</title>
+      <link>https://demo.tourismusweb.site/de/index/furggi-164.html</link>
+      <guid isPermaLink="false">164</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bodmi</title>
+      <link>https://demo.tourismusweb.site/de/index/bodmi-165.html</link>
+      <guid isPermaLink="false">165</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Skischulgelände Bodmi</title>
+      <link>https://demo.tourismusweb.site/de/index/skischulgelaende-bodmi-166.html</link>
+      <guid isPermaLink="false">166</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Grund Gletscherschlucht (Classic)</title>
+      <link>https://demo.tourismusweb.site/de/index/grund-gletscherschlucht-classic-180.html</link>
+      <guid isPermaLink="false">180</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Grund Gletscherschlucht (Skating)</title>
+      <link>https://demo.tourismusweb.site/de/index/grund-gletscherschlucht-skating-182.html</link>
+      <guid isPermaLink="false">182</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bussalp - Holzmatten (Bussalp Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/bussalp-holzmatten-bussalp-run-184.html</link>
+      <guid isPermaLink="false">184</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>First - Bachalpsee</title>
+      <link>https://demo.tourismusweb.site/de/index/first-bachalpsee-185.html</link>
+      <guid isPermaLink="false">185</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bachalpsee - Faulhorn</title>
+      <link>https://demo.tourismusweb.site/de/index/bachalpsee-faulhorn-186.html</link>
+      <guid isPermaLink="false">186</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Faulhorn - Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/faulhorn-bussalp-187.html</link>
+      <guid isPermaLink="false">187</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>First - Waldspitz - Bort</title>
+      <link>https://demo.tourismusweb.site/de/index/first-waldspitz-bort-188.html</link>
+      <guid isPermaLink="false">188</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>First - Schreckfeld</title>
+      <link>https://demo.tourismusweb.site/de/index/first-schreckfeld-189.html</link>
+      <guid isPermaLink="false">189</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Schreckfeld - Bort</title>
+      <link>https://demo.tourismusweb.site/de/index/schreckfeld-bort-190.html</link>
+      <guid isPermaLink="false">190</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bussalp - Rasthysi - Lochsteinen (Family Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/bussalp-rasthysi-lochsteinen-family-run-191.html</link>
+      <guid isPermaLink="false">191</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bussalp - Grindelwald (City Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/bussalp-grindelwald-city-run-193.html</link>
+      <guid isPermaLink="false">193</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bussalp - Weidli ( City Run )</title>
+      <link>https://demo.tourismusweb.site/de/index/bussalp-weidli-city-run-194.html</link>
+      <guid isPermaLink="false">194</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bort M`bach Grindelwald</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-mbach-grindelwald-196.html</link>
+      <guid isPermaLink="false">196</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Mühlebach</title>
+      <link>https://demo.tourismusweb.site/de/index/muehlebach-334.html</link>
+      <guid isPermaLink="false">334</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Oberjoch Steilhang</title>
+      <link>https://demo.tourismusweb.site/de/index/oberjoch-steilhang-944.html</link>
+      <guid isPermaLink="false">944</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Hohwald - Bärgelegg</title>
+      <link>https://demo.tourismusweb.site/de/index/hohwald-baergelegg-945.html</link>
+      <guid isPermaLink="false">945</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Berme</title>
+      <link>https://demo.tourismusweb.site/de/index/berme-1168.html</link>
+      <guid isPermaLink="false">1168</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Schneeschuhtrail - Alpweg</title>
+      <link>https://demo.tourismusweb.site/de/index/schneeschuhtrail-alpweg-42.html</link>
+      <guid isPermaLink="false">42</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schneeschuhtrail - Aspen</title>
+      <link>https://demo.tourismusweb.site/de/index/schneeschuhtrail-aspen-43.html</link>
+      <guid isPermaLink="false">43</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schneeschuhtrail - Eiger</title>
+      <link>https://demo.tourismusweb.site/de/index/schneeschuhtrail-eiger-44.html</link>
+      <guid isPermaLink="false">44</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schneeschuhtrail - Mühlebach</title>
+      <link>https://demo.tourismusweb.site/de/index/schneeschuhtrail-muehlebach-45.html</link>
+      <guid isPermaLink="false">45</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schneeschuhtrail - Panorama</title>
+      <link>https://demo.tourismusweb.site/de/index/schneeschuhtrail-panorama-46.html</link>
+      <guid isPermaLink="false">46</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schneeschuhtrail - Wetterhorn blau</title>
+      <link>https://demo.tourismusweb.site/de/index/schneeschuhtrail-wetterhorn-blau-47.html</link>
+      <guid isPermaLink="false">47</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schneeschuhtrail - Wetterhorn rot</title>
+      <link>https://demo.tourismusweb.site/de/index/schneeschuhtrail-wetterhorn-rot-48.html</link>
+      <guid isPermaLink="false">48</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Bachalpsee</title>
+      <link>https://demo.tourismusweb.site/de/index/first-bachalpsee-49.html</link>
+      <guid isPermaLink="false">49</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Waldspitz - Feld - Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/waldspitz-feld-bussalp-50.html</link>
+      <guid isPermaLink="false">50</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schreckfeld - Grosse Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/schreckfeld-grosse-scheidegg-51.html</link>
+      <guid isPermaLink="false">51</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schreckfeld - Bort</title>
+      <link>https://demo.tourismusweb.site/de/index/schreckfeld-bort-52.html</link>
+      <guid isPermaLink="false">52</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort - Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-bussalp-53.html</link>
+      <guid isPermaLink="false">53</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort - Aellfluh - Grindelwald</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-aellfluh-grindelwald-54.html</link>
+      <guid isPermaLink="false">54</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort - Grindelwald</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-grindelwald-55.html</link>
+      <guid isPermaLink="false">55</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort - Unter Lauchbühl - Hotel Wetterhorn</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-unter-lauchbuehl-hotel-wetterhorn-56.html</link>
+      <guid isPermaLink="false">56</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Schilt - Oberläger - Grosse Scheidegg (Murmeltierweg)</title>
+      <link>https://demo.tourismusweb.site/de/index/first-schilt-oberlaeger-grosse-scheidegg-murmeltierweg-57.html</link>
+      <guid isPermaLink="false">57</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Schwarzhorn - First</title>
+      <link>https://demo.tourismusweb.site/de/index/first-schwarzhorn-first-58.html</link>
+      <guid isPermaLink="false">58</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Waldspitz - Bort</title>
+      <link>https://demo.tourismusweb.site/de/index/waldspitz-bort-59.html</link>
+      <guid isPermaLink="false">59</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bachalpsee - Faulhorn - Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/bachalpsee-faulhorn-bussalp-60.html</link>
+      <guid isPermaLink="false">60</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald - Unter Lauchbühl - Grosse Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-unter-lauchbuehl-grosse-scheidegg-61.html</link>
+      <guid isPermaLink="false">61</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald - Abbachfall - Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-abbachfall-bussalp-62.html</link>
+      <guid isPermaLink="false">62</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Bachalpsee - Hireleni - Feld - Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/first-bachalpsee-hireleni-feld-bussalp-63.html</link>
+      <guid isPermaLink="false">63</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Bachalpsee - Waldspitz (Blumenweg)</title>
+      <link>https://demo.tourismusweb.site/de/index/first-bachalpsee-waldspitz-blumenweg-64.html</link>
+      <guid isPermaLink="false">64</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Bachalpsee - Hiendertellti - Grosse Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/first-bachalpsee-hiendertellti-grosse-scheidegg-65.html</link>
+      <guid isPermaLink="false">65</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Faulhorn - Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/faulhorn-bussalp-66.html</link>
+      <guid isPermaLink="false">66</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Bachalpsee</title>
+      <link>https://demo.tourismusweb.site/de/index/first-bachalpsee-67.html</link>
+      <guid isPermaLink="false">67</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bachalpsee - Faulhorn</title>
+      <link>https://demo.tourismusweb.site/de/index/bachalpsee-faulhorn-68.html</link>
+      <guid isPermaLink="false">68</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Faulhorn - Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/first-faulhorn-bussalp-69.html</link>
+      <guid isPermaLink="false">69</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort - Waldspitz</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-waldspitz-70.html</link>
+      <guid isPermaLink="false">70</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Waldspitz</title>
+      <link>https://demo.tourismusweb.site/de/index/first-waldspitz-71.html</link>
+      <guid isPermaLink="false">71</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort - Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-bussalp-72.html</link>
+      <guid isPermaLink="false">72</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Schreckfeld</title>
+      <link>https://demo.tourismusweb.site/de/index/first-schreckfeld-73.html</link>
+      <guid isPermaLink="false">73</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schreckfeld - Bort</title>
+      <link>https://demo.tourismusweb.site/de/index/schreckfeld-bort-74.html</link>
+      <guid isPermaLink="false">74</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort - Rasthysi</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-rasthysi-75.html</link>
+      <guid isPermaLink="false">75</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bussalp - Grindelwald</title>
+      <link>https://demo.tourismusweb.site/de/index/bussalp-grindelwald-76.html</link>
+      <guid isPermaLink="false">76</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bussalp - Lochsteinen</title>
+      <link>https://demo.tourismusweb.site/de/index/bussalp-lochsteinen-77.html</link>
+      <guid isPermaLink="false">77</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bussalp - Weidli</title>
+      <link>https://demo.tourismusweb.site/de/index/bussalp-weidli-78.html</link>
+      <guid isPermaLink="false">78</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort M`bach Grindelwald</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-mbach-grindelwald-79.html</link>
+      <guid isPermaLink="false">79</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Grosse Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/first-grosse-scheidegg-80.html</link>
+      <guid isPermaLink="false">80</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Schreckfeld</title>
+      <link>https://demo.tourismusweb.site/de/index/first-schreckfeld-81.html</link>
+      <guid isPermaLink="false">81</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Bachläger - Waldspitz (Gelber Brunnen)</title>
+      <link>https://demo.tourismusweb.site/de/index/first-bachlaeger-waldspitz-gelber-brunnen-82.html</link>
+      <guid isPermaLink="false">82</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Pfingstegg - Halsegg - Hotel Wetterhorn</title>
+      <link>https://demo.tourismusweb.site/de/index/pfingstegg-halsegg-hotel-wetterhorn-84.html</link>
+      <guid isPermaLink="false">84</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Pfingstegg - Bäregg - Pfingstegg</title>
+      <link>https://demo.tourismusweb.site/de/index/pfingstegg-baeregg-pfingstegg-85.html</link>
+      <guid isPermaLink="false">85</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Pfingstegg - Milchbach - Oberer Gletscher</title>
+      <link>https://demo.tourismusweb.site/de/index/pfingstegg-milchbach-oberer-gletscher-112.html</link>
+      <guid isPermaLink="false">112</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bäregg - Schreckhornhütte SAC</title>
+      <link>https://demo.tourismusweb.site/de/index/baeregg-schreckhornhuette-sac-113.html</link>
+      <guid isPermaLink="false">113</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Pfingstegg - Bäregg</title>
+      <link>https://demo.tourismusweb.site/de/index/pfingstegg-baeregg-114.html</link>
+      <guid isPermaLink="false">114</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort - Mühlebach (entlang Trottistrecke)</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-muehlebach-entlang-trottistrecke-115.html</link>
+      <guid isPermaLink="false">115</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Waldspitz - Bort</title>
+      <link>https://demo.tourismusweb.site/de/index/waldspitz-bort-116.html</link>
+      <guid isPermaLink="false">116</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Pfingstegg - Marmorbruch - Gletscherschlucht</title>
+      <link>https://demo.tourismusweb.site/de/index/pfingstegg-marmorbruch-gletscherschlucht-117.html</link>
+      <guid isPermaLink="false">117</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Unterer Lauchbühl - Glecksteinhütte</title>
+      <link>https://demo.tourismusweb.site/de/index/unterer-lauchbuehl-glecksteinhuette-118.html</link>
+      <guid isPermaLink="false">118</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Rundwanderweg Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/rundwanderweg-bussalp-779.html</link>
+      <guid isPermaLink="false">779</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>First - Bachalpsee - Waldspitz</title>
+      <link>https://demo.tourismusweb.site/de/index/first-bachalpsee-waldspitz-789.html</link>
+      <guid isPermaLink="false">789</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Klettersteig Schwarzhorn</title>
+      <link>https://demo.tourismusweb.site/de/index/klettersteig-schwarzhorn-790.html</link>
+      <guid isPermaLink="false">790</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schneeschuhtrail – Lauchbühl</title>
+      <link>https://demo.tourismusweb.site/de/index/schneeschuhtrail-lauchbuehl-1117.html</link>
+      <guid isPermaLink="false">1117</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Oberer Gletscher – Milchbach – Pfingstegg</title>
+      <link>https://demo.tourismusweb.site/de/index/oberer-gletscher-milchbach-pfingstegg-1280.html</link>
+      <guid isPermaLink="false">1280</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Pfingstegg – Bäregg</title>
+      <link>https://demo.tourismusweb.site/de/index/pfingstegg-baeregg-1281.html</link>
+      <guid isPermaLink="false">1281</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald – Halten – Pfingstegg</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-halten-pfingstegg-1282.html</link>
+      <guid isPermaLink="false">1282</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald – Sulz – Pfingstegg</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-sulz-pfingstegg-1283.html</link>
+      <guid isPermaLink="false">1283</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Gletscherschlucht – Marmorbruch – Pfingstegg</title>
+      <link>https://demo.tourismusweb.site/de/index/gletscherschlucht-marmorbruch-pfingstegg-1284.html</link>
+      <guid isPermaLink="false">1284</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bäregg – Schreckhornhütte</title>
+      <link>https://demo.tourismusweb.site/de/index/baeregg-schreckhornhuette-1285.html</link>
+      <guid isPermaLink="false">1285</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald Grund - Trychleregg</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-grund-trychleregg-1286.html</link>
+      <guid isPermaLink="false">1286</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort – Grindelwald Klusi</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-grindelwald-klusi-1287.html</link>
+      <guid isPermaLink="false">1287</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Unterer Lauchbühl – Glecksteinhütte</title>
+      <link>https://demo.tourismusweb.site/de/index/unterer-lauchbuehl-glecksteinhuette-1288.html</link>
+      <guid isPermaLink="false">1288</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Rundwanderweg Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/rundwanderweg-bussalp-1289.html</link>
+      <guid isPermaLink="false">1289</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bussalp – Burglauenen</title>
+      <link>https://demo.tourismusweb.site/de/index/bussalp-burglauenen-1290.html</link>
+      <guid isPermaLink="false">1290</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Männdlenen - Burglauenen</title>
+      <link>https://demo.tourismusweb.site/de/index/maenndlenen-burglauenen-1291.html</link>
+      <guid isPermaLink="false">1291</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Faulhorn – Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/faulhorn-bussalp-1292.html</link>
+      <guid isPermaLink="false">1292</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald – Vogelpark</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-vogelpark-1293.html</link>
+      <guid isPermaLink="false">1293</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Bort – Grindelwald Klusi</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-grindelwald-klusi-1294.html</link>
+      <guid isPermaLink="false">1294</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Klettersteig Ostegg</title>
+      <link>https://demo.tourismusweb.site/de/index/klettersteig-ostegg-1295.html</link>
+      <guid isPermaLink="false">1295</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Skibar Widderfeldhütte</title>
+      <link>https://demo.tourismusweb.site/de/index/skibar-widderfeldhuette-43.html</link>
+      <guid isPermaLink="false">43</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Alpweg Bar</title>
+      <link>https://demo.tourismusweb.site/de/index/alpweg-bar-44.html</link>
+      <guid isPermaLink="false">44</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Bus Stop Après Ride Bar</title>
+      <link>https://demo.tourismusweb.site/de/index/bus-stop-après-ride-bar-45.html</link>
+      <guid isPermaLink="false">45</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Rancher Bar</title>
+      <link>https://demo.tourismusweb.site/de/index/rancher-bar-46.html</link>
+      <guid isPermaLink="false">46</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Berghaus Männdlenen</title>
+      <link>https://demo.tourismusweb.site/de/index/berghaus-maenndlenen-47.html</link>
+      <guid isPermaLink="false">47</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Bort</title>
+      <link>https://demo.tourismusweb.site/de/index/bort-48.html</link>
+      <guid isPermaLink="false">48</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Brügg-Beizli</title>
+      <link>https://demo.tourismusweb.site/de/index/bruegg-beizli-49.html</link>
+      <guid isPermaLink="false">49</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Bussalp</title>
+      <link>https://demo.tourismusweb.site/de/index/bussalp-50.html</link>
+      <guid isPermaLink="false">50</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Bärgelegghütte</title>
+      <link>https://demo.tourismusweb.site/de/index/baergelegghuette-51.html</link>
+      <guid isPermaLink="false">51</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Faulhorn</title>
+      <link>https://demo.tourismusweb.site/de/index/faulhorn-52.html</link>
+      <guid isPermaLink="false">52</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Toprestaurant</title>
+      <link>https://demo.tourismusweb.site/de/index/toprestaurant-53.html</link>
+      <guid isPermaLink="false">53</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Genepi</title>
+      <link>https://demo.tourismusweb.site/de/index/genepi-54.html</link>
+      <guid isPermaLink="false">54</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Grosse Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/grosse-scheidegg-55.html</link>
+      <guid isPermaLink="false">55</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Rasthysi</title>
+      <link>https://demo.tourismusweb.site/de/index/rasthysi-56.html</link>
+      <guid isPermaLink="false">56</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Rasthysi (Sommer)</title>
+      <link>https://demo.tourismusweb.site/de/index/rasthysi-sommer-57.html</link>
+      <guid isPermaLink="false">57</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Schreckfeld</title>
+      <link>https://demo.tourismusweb.site/de/index/schreckfeld-58.html</link>
+      <guid isPermaLink="false">58</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Schynige Platte</title>
+      <link>https://demo.tourismusweb.site/de/index/schynige-platte-59.html</link>
+      <guid isPermaLink="false">59</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Steintorbar</title>
+      <link>https://demo.tourismusweb.site/de/index/steintorbar-60.html</link>
+      <guid isPermaLink="false">60</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Vogelpark</title>
+      <link>https://demo.tourismusweb.site/de/index/vogelpark-61.html</link>
+      <guid isPermaLink="false">61</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Waldspitz</title>
+      <link>https://demo.tourismusweb.site/de/index/waldspitz-62.html</link>
+      <guid isPermaLink="false">62</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Weidli Bar</title>
+      <link>https://demo.tourismusweb.site/de/index/weidli-bar-63.html</link>
+      <guid isPermaLink="false">63</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Bäregg</title>
+      <link>https://demo.tourismusweb.site/de/index/baeregg-66.html</link>
+      <guid isPermaLink="false">66</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Glecksteinhütte SAC</title>
+      <link>https://demo.tourismusweb.site/de/index/glecksteinhuette-sac-67.html</link>
+      <guid isPermaLink="false">67</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Pfingstegg</title>
+      <link>https://demo.tourismusweb.site/de/index/pfingstegg-71.html</link>
+      <guid isPermaLink="false">71</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Schreckhornhütte SAC</title>
+      <link>https://demo.tourismusweb.site/de/index/schreckhornhuette-sac-72.html</link>
+      <guid isPermaLink="false">72</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>First</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+  </channel>
+</rss>

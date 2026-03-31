@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Betriebsstatus Mürren-Schilthorn</title>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/muerren-schilthorn/feed.rss">
+  <link rel="alternate" type="application/feed+json" title="JSON Feed" href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/muerren-schilthorn/feed.json">
+  <style>
+  :root {
+    --open:   #16a34a;
+    --closed: #dc2626;
+    --prep:   #d97706;
+    --free:   #2563eb;
+    --full:   #7c3aed;
+    --dis:    #6b7280;
+    --unk:    #9ca3af;
+    --bg:     #f8fafc;
+    --card:   #ffffff;
+    --border: #e2e8f0;
+    --text:   #1e293b;
+    --muted:  #64748b;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg);
+         color: var(--text); line-height: 1.5; }
+  header { background: #1e3a5f; color: #fff; padding: 1.5rem 1.25rem 1rem; }
+  header h1 { font-size: 1.5rem; font-weight: 700; }
+  header p  { font-size: .85rem; opacity: .75; margin-top: .25rem; }
+  .summary  { display: flex; flex-wrap: wrap; gap: .75rem;
+              padding: 1rem 1.25rem; background: #1e3a5f; border-top: 1px solid rgba(255,255,255,.15); }
+  .summary-badge { background: rgba(255,255,255,.12); border-radius: 999px;
+                   padding: .2rem .75rem; font-size: .8rem; color: #e2e8f0; }
+  .summary-badge strong { color: #fff; }
+  main { max-width: 900px; margin: 1.5rem auto; padding: 0 1rem; }
+  .section { background: var(--card); border: 1px solid var(--border);
+             border-radius: .75rem; margin-bottom: 1.25rem; overflow: hidden; }
+  .section-header { padding: .75rem 1rem; background: #f1f5f9;
+                    border-bottom: 1px solid var(--border);
+                    display: flex; align-items: center; gap: .5rem; }
+  .section-header h2 { font-size: 1rem; font-weight: 600; flex: 1; }
+  .section-count { font-size: .8rem; color: var(--muted); }
+  .item-list { list-style: none; }
+  .item-list li { display: flex; align-items: center; gap: .65rem;
+                  padding: .55rem 1rem; border-bottom: 1px solid var(--border); }
+  .item-list li:last-child { border-bottom: none; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .dot-open        { background: var(--open); }
+  .dot-closed      { background: var(--closed); }
+  .dot-preparation { background: var(--prep); }
+  .dot-free        { background: var(--free); }
+  .dot-full        { background: var(--full); }
+  .dot-disabled    { background: var(--dis); }
+  .dot-unknown     { background: var(--unk); }
+  .item-name  { flex: 1; font-size: .9rem; }
+  .item-state { font-size: .78rem; color: var(--muted); white-space: nowrap; }
+  .state-open        { color: var(--open); font-weight: 600; }
+  .state-closed      { color: var(--closed); }
+  .state-preparation { color: var(--prep); }
+  footer { text-align: center; padding: 2rem 1rem; font-size: .78rem; color: var(--muted); }
+  @media (max-width: 480px) {
+    header h1 { font-size: 1.2rem; }
+    .item-list li { padding: .5rem .75rem; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Betriebsstatus Mürren-Schilthorn</h1>
+    <p>Zuletzt aktualisiert: 2026-03-31T09:57:42Z</p>
+    <div class="summary">
+        <span class="summary-badge"><strong>8/15</strong> Anlagen offen</span>
+        <span class="summary-badge"><strong>8/29</strong> Pisten offen</span>
+        <span class="summary-badge"><strong>4/5</strong> Trails offen</span>
+        <span class="summary-badge"><strong>9/9</strong> Gastronomie offen</span>
+        
+    </div>
+  </header>
+  <main>
+    <section class="section">
+      <div class="section-header">
+        <h2>Anlagen / Lifte</h2>
+        <span class="section-count">8 / 15 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Kandahar</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Maulerhubel</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Muttleren</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Allmiboden</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Winteregg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Riggli</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schiltgrat</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Stechelberg – Gimmelwald</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Birg – Schilthorn</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Gimmelwald – Mürren</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Mürren – Birg</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Allmendhubel</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Gimmeln</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Mürren – Allmendhubel</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Stechelberg – Mürren</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      </ul>
+    </section>
+    <section class="section">
+      <div class="section-header">
+        <h2>Pisten</h2>
+        <span class="section-count">8 / 29 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Winteregg - Oberberg</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Dreistern</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Lauterbrunnen</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Maulerhubel</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Palace-Run</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bob-Run</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Allmi</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Riggli</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Direttissima</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Schilthorn Abfahrt</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Engetal</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bond</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Stellifluh</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Muttleren</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Bietenhorn</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Kanonenrohr - Mürren</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">FIS</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Hindenburg</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Suppen / Rad</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Gimmeln</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Gimmeln</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Finel</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Wintertal</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-disabled"></span>
+        <span class="item-name">Abfahrtsroute Gimmelwald</span>
+        <span class="item-state state-disabled">deaktiviert</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Apollo</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Bobrun</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Kandahar</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Abfahrtsroute Schiltgrat - Gimmeln</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Riggli</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      </ul>
+    </section>
+    <section class="section">
+      <div class="section-header">
+        <h2>Trails &amp; Wanderwege</h2>
+        <span class="section-count">4 / 5 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Mürren - Gimmeln</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-closed"></span>
+        <span class="item-name">Gimmeln - Schiltgrat</span>
+        <span class="item-state state-closed">geschlossen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Mürren - Sonnenberg</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Mürren - Winteregg</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Mürren - Gimmelwald</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      </ul>
+    </section>
+    <section class="section">
+      <div class="section-header">
+        <h2>Gastronomie</h2>
+        <span class="section-count">9 / 9 offen</span>
+      </div>
+      <ul class="item-list">
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Winteregg</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Suppenalp</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Sonnenberg</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schiltgrathüsi</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schilthornhütte</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Schilthorn - Piz Gloria</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Gimmeln</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Birg Selfservice</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      <li>
+        <span class="dot dot-open"></span>
+        <span class="item-name">Allmendhubel</span>
+        <span class="item-state state-open">offen</span>
+      </li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p><a href="https://tsolenthaler.github.io/jrtag-betriebsstatus/">← Alle Regionen</a> &nbsp;|&nbsp;
+       <a href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/muerren-schilthorn/feed.rss">RSS</a> &nbsp;|&nbsp;
+       <a href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/muerren-schilthorn/feed.json">JSON</a></p>
+    <p style="margin-top:.5rem">Aktualisiert alle 5 Minuten. Daten: Siscontrol SISMedia.</p>
+  </footer>
+</body>
+</html>

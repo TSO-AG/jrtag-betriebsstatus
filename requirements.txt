@@ -1,0 +1,3 @@
+# No external dependencies required beyond Python stdlib.
+# requests is listed here as an optional alternative; the generator uses urllib instead.
+# If you add Jinja2 templates or other features, add their packages below.

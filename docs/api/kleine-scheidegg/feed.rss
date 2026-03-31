@@ -1,0 +1,2011 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Betriebsstatus Kleine Scheidegg</title>
+    <link>https://tsolenthaler.github.io/jrtag-betriebsstatus/operating-status/kleine-scheidegg/</link>
+    <description>Betriebsstatus für Kleine Scheidegg</description>
+    <lastBuildDate>2026-03-31T09:57:42Z</lastBuildDate>
+    <atom:link href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/kleine-scheidegg/feed.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Allmend – Wengernalp</title>
+      <link>https://demo.tourismusweb.site/de/index/allmend-wengernalp-94.html</link>
+      <guid isPermaLink="false">94</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Alpiglen – Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/alpiglen-kleine-scheidegg-95.html</link>
+      <guid isPermaLink="false">95</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Arven</title>
+      <link>https://demo.tourismusweb.site/de/index/arven-96.html</link>
+      <guid isPermaLink="false">96</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Brandegg – Alpiglen</title>
+      <link>https://demo.tourismusweb.site/de/index/brandegg-alpiglen-97.html</link>
+      <guid isPermaLink="false">97</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Bumps</title>
+      <link>https://demo.tourismusweb.site/de/index/bumps-98.html</link>
+      <guid isPermaLink="false">98</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Eigergletscher – Jungfraujoch</title>
+      <link>https://demo.tourismusweb.site/de/index/eigergletscher-jungfraujoch-99.html</link>
+      <guid isPermaLink="false">99</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Eigernordwand</title>
+      <link>https://demo.tourismusweb.site/de/index/eigernordwand-100.html</link>
+      <guid isPermaLink="false">100</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Figeller</title>
+      <link>https://demo.tourismusweb.site/de/index/figeller-102.html</link>
+      <guid isPermaLink="false">102</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald – Grund</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-grund-103.html</link>
+      <guid isPermaLink="false">103</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald – Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-kleine-scheidegg-104.html</link>
+      <guid isPermaLink="false">104</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald Grund – Holenstein</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-grund-holenstein-105.html</link>
+      <guid isPermaLink="false">105</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald Grund – Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-grund-maennlichen-106.html</link>
+      <guid isPermaLink="false">106</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Grund – Brandegg</title>
+      <link>https://demo.tourismusweb.site/de/index/grund-brandegg-107.html</link>
+      <guid isPermaLink="false">107</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Gummi</title>
+      <link>https://demo.tourismusweb.site/de/index/gummi-108.html</link>
+      <guid isPermaLink="false">108</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Holenstein – Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/holenstein-maennlichen-109.html</link>
+      <guid isPermaLink="false">109</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Honegg</title>
+      <link>https://demo.tourismusweb.site/de/index/honegg-110.html</link>
+      <guid isPermaLink="false">110</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Innerwengen</title>
+      <link>https://demo.tourismusweb.site/de/index/innerwengen-111.html</link>
+      <guid isPermaLink="false">111</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg – Eigergletscher</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-eigergletscher-112.html</link>
+      <guid isPermaLink="false">112</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg – Jungfraujoch</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-jungfraujoch-113.html</link>
+      <guid isPermaLink="false">113</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Lauberhorn</title>
+      <link>https://demo.tourismusweb.site/de/index/lauberhorn-114.html</link>
+      <guid isPermaLink="false">114</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Lauterbrunnen – Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/lauterbrunnen-kleine-scheidegg-115.html</link>
+      <guid isPermaLink="false">115</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Lauterbrunnen – Wengen</title>
+      <link>https://demo.tourismusweb.site/de/index/lauterbrunnen-wengen-116.html</link>
+      <guid isPermaLink="false">116</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Läger</title>
+      <link>https://demo.tourismusweb.site/de/index/laeger-117.html</link>
+      <guid isPermaLink="false">117</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-118.html</link>
+      <guid isPermaLink="false">118</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-119.html</link>
+      <guid isPermaLink="false">119</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Tschuggen</title>
+      <link>https://demo.tourismusweb.site/de/index/tschuggen-120.html</link>
+      <guid isPermaLink="false">120</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Wengen – Allmend</title>
+      <link>https://demo.tourismusweb.site/de/index/wengen-allmend-121.html</link>
+      <guid isPermaLink="false">121</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Wengen – Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/wengen-maennlichen-122.html</link>
+      <guid isPermaLink="false">122</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Wengernalp – Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/wengernalp-kleine-scheidegg-123.html</link>
+      <guid isPermaLink="false">123</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Wengiboden</title>
+      <link>https://demo.tourismusweb.site/de/index/wengiboden-124.html</link>
+      <guid isPermaLink="false">124</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Wixi</title>
+      <link>https://demo.tourismusweb.site/de/index/wixi-125.html</link>
+      <guid isPermaLink="false">125</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Eiger Express</title>
+      <link>https://demo.tourismusweb.site/de/index/eiger-express-165.html</link>
+      <guid isPermaLink="false">165</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Anlage</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>lifts</sourceType>
+    </item>
+
+    <item>
+      <title>Gratbort</title>
+      <link>https://demo.tourismusweb.site/de/index/gratbort-90.html</link>
+      <guid isPermaLink="false">90</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Grathula</title>
+      <link>https://demo.tourismusweb.site/de/index/grathula-91.html</link>
+      <guid isPermaLink="false">91</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Bärhaag</title>
+      <link>https://demo.tourismusweb.site/de/index/baerhaag-92.html</link>
+      <guid isPermaLink="false">92</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Loogler</title>
+      <link>https://demo.tourismusweb.site/de/index/loogler-93.html</link>
+      <guid isPermaLink="false">93</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Rohr</title>
+      <link>https://demo.tourismusweb.site/de/index/rohr-94.html</link>
+      <guid isPermaLink="false">94</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Honegg - Seeli</title>
+      <link>https://demo.tourismusweb.site/de/index/honegg-seeli-95.html</link>
+      <guid isPermaLink="false">95</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Inberg</title>
+      <link>https://demo.tourismusweb.site/de/index/inberg-96.html</link>
+      <guid isPermaLink="false">96</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Gummi Nord</title>
+      <link>https://demo.tourismusweb.site/de/index/gummi-nord-97.html</link>
+      <guid isPermaLink="false">97</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen -&gt; Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-scheidegg-98.html</link>
+      <guid isPermaLink="false">98</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Wasserwendi Slow-Slope</title>
+      <link>https://demo.tourismusweb.site/de/index/wasserwendi-slow-slope-99.html</link>
+      <guid isPermaLink="false">99</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Arven - Skilift Tschuggen</title>
+      <link>https://demo.tourismusweb.site/de/index/arven-skilift-tschuggen-100.html</link>
+      <guid isPermaLink="false">100</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg - Arven</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-arven-101.html</link>
+      <guid isPermaLink="false">101</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg - Grindelwald Grund</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-grindelwald-grund-102.html</link>
+      <guid isPermaLink="false">102</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Scheidegg -&gt; Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/scheidegg-maennlichen-103.html</link>
+      <guid isPermaLink="false">103</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Tschuggen - Aspen Talabfahrt</title>
+      <link>https://demo.tourismusweb.site/de/index/tschuggen-aspen-talabfahrt-104.html</link>
+      <guid isPermaLink="false">104</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Arven - Brandegg</title>
+      <link>https://demo.tourismusweb.site/de/index/arven-brandegg-105.html</link>
+      <guid isPermaLink="false">105</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Brandegg - Grindelwald Grund</title>
+      <link>https://demo.tourismusweb.site/de/index/brandegg-grindelwald-grund-106.html</link>
+      <guid isPermaLink="false">106</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg - Arven</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-arven-107.html</link>
+      <guid isPermaLink="false">107</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Aspen - Grindelwald Grund</title>
+      <link>https://demo.tourismusweb.site/de/index/aspen-grindelwald-grund-108.html</link>
+      <guid isPermaLink="false">108</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Brandegg - Aspen</title>
+      <link>https://demo.tourismusweb.site/de/index/brandegg-aspen-109.html</link>
+      <guid isPermaLink="false">109</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Schattwald</title>
+      <link>https://demo.tourismusweb.site/de/index/schattwald-110.html</link>
+      <guid isPermaLink="false">110</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Phenix</title>
+      <link>https://demo.tourismusweb.site/de/index/phenix-111.html</link>
+      <guid isPermaLink="false">111</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Punchball</title>
+      <link>https://demo.tourismusweb.site/de/index/punchball-112.html</link>
+      <guid isPermaLink="false">112</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Oh - God</title>
+      <link>https://demo.tourismusweb.site/de/index/oh-god-113.html</link>
+      <guid isPermaLink="false">113</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Holenstein - Grindelwald Grund</title>
+      <link>https://demo.tourismusweb.site/de/index/holenstein-grindelwald-grund-114.html</link>
+      <guid isPermaLink="false">114</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-115.html</link>
+      <guid isPermaLink="false">115</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen Holenstein (Eggboden)</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-holenstein-eggboden-116.html</link>
+      <guid isPermaLink="false">116</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichenlift Talst. - Holenstein</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichenlift-talst-holenstein-117.html</link>
+      <guid isPermaLink="false">117</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Schwarzen</title>
+      <link>https://demo.tourismusweb.site/de/index/schwarzen-118.html</link>
+      <guid isPermaLink="false">118</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Black - Rock</title>
+      <link>https://demo.tourismusweb.site/de/index/black-rock-119.html</link>
+      <guid isPermaLink="false">119</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Mittelegg</title>
+      <link>https://demo.tourismusweb.site/de/index/mittelegg-120.html</link>
+      <guid isPermaLink="false">120</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Moos</title>
+      <link>https://demo.tourismusweb.site/de/index/moos-121.html</link>
+      <guid isPermaLink="false">121</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Allmend - Wengen Dorf</title>
+      <link>https://demo.tourismusweb.site/de/index/allmend-wengen-dorf-122.html</link>
+      <guid isPermaLink="false">122</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg - Wengernalp</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-wengernalp-123.html</link>
+      <guid isPermaLink="false">123</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Wengernalp - Allmend</title>
+      <link>https://demo.tourismusweb.site/de/index/wengernalp-allmend-124.html</link>
+      <guid isPermaLink="false">124</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Wengernalp - Wixi</title>
+      <link>https://demo.tourismusweb.site/de/index/wengernalp-wixi-125.html</link>
+      <guid isPermaLink="false">125</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Eggboden</title>
+      <link>https://demo.tourismusweb.site/de/index/eggboden-126.html</link>
+      <guid isPermaLink="false">126</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Stöckipiste</title>
+      <link>https://demo.tourismusweb.site/de/index/stoeckipiste-127.html</link>
+      <guid isPermaLink="false">127</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Einfahrtspiste</title>
+      <link>https://demo.tourismusweb.site/de/index/einfahrtspiste-128.html</link>
+      <guid isPermaLink="false">128</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Lauberhorn</title>
+      <link>https://demo.tourismusweb.site/de/index/lauberhorn-129.html</link>
+      <guid isPermaLink="false">129</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Standard Innerwengen</title>
+      <link>https://demo.tourismusweb.site/de/index/standard-innerwengen-130.html</link>
+      <guid isPermaLink="false">130</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Engi</title>
+      <link>https://demo.tourismusweb.site/de/index/engi-131.html</link>
+      <guid isPermaLink="false">131</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Hanneggbrücke - Innerwengen</title>
+      <link>https://demo.tourismusweb.site/de/index/hanneggbruecke-innerwengen-132.html</link>
+      <guid isPermaLink="false">132</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Lauberhorn-Start - Hanneggbrücke</title>
+      <link>https://demo.tourismusweb.site/de/index/lauberhorn-start-hanneggbruecke-133.html</link>
+      <guid isPermaLink="false">133</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Huussengg</title>
+      <link>https://demo.tourismusweb.site/de/index/huussengg-134.html</link>
+      <guid isPermaLink="false">134</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Lauberhorn Weltcup Slalom</title>
+      <link>https://demo.tourismusweb.site/de/index/lauberhorn-weltcup-slalom-135.html</link>
+      <guid isPermaLink="false">135</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Distelboden</title>
+      <link>https://demo.tourismusweb.site/de/index/distelboden-136.html</link>
+      <guid isPermaLink="false">136</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Läger</title>
+      <link>https://demo.tourismusweb.site/de/index/laeger-137.html</link>
+      <guid isPermaLink="false">137</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Sattelegg</title>
+      <link>https://demo.tourismusweb.site/de/index/sattelegg-138.html</link>
+      <guid isPermaLink="false">138</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Gummi Süd</title>
+      <link>https://demo.tourismusweb.site/de/index/gummi-sued-139.html</link>
+      <guid isPermaLink="false">139</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Skiliftpisten A Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/skiliftpisten-a-kleine-scheidegg-140.html</link>
+      <guid isPermaLink="false">140</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Skiliftpisten B Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/skiliftpisten-b-kleine-scheidegg-141.html</link>
+      <guid isPermaLink="false">141</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Skiliftpisten Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/skiliftpisten-maennlichen-142.html</link>
+      <guid isPermaLink="false">142</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Skischulgelände Wengen</title>
+      <link>https://demo.tourismusweb.site/de/index/skischulgelaende-wengen-143.html</link>
+      <guid isPermaLink="false">143</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen Gipfel</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-gipfel-167.html</link>
+      <guid isPermaLink="false">167</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Easy Männlichen - Holenstein</title>
+      <link>https://demo.tourismusweb.site/de/index/easy-maennlichen-holenstein-168.html</link>
+      <guid isPermaLink="false">168</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Ritas Speedway</title>
+      <link>https://demo.tourismusweb.site/de/index/ritas-speedway-169.html</link>
+      <guid isPermaLink="false">169</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Alpiglen - Brandegg (Eiger Run Night)</title>
+      <link>https://demo.tourismusweb.site/de/index/alpiglen-brandegg-eiger-run-night-170.html</link>
+      <guid isPermaLink="false">170</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Brandegg - Grindelwald Grund (Eiger Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/brandegg-grindelwald-grund-eiger-run-171.html</link>
+      <guid isPermaLink="false">171</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg - Alpiglen (Eiger Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-alpiglen-eiger-run-172.html</link>
+      <guid isPermaLink="false">172</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Fallboden (Pelzmantel)</title>
+      <link>https://demo.tourismusweb.site/de/index/fallboden-pelzmantel-173.html</link>
+      <guid isPermaLink="false">173</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Allmend - Wengen Dorf (Fox Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/allmend-wengen-dorf-fox-run-174.html</link>
+      <guid isPermaLink="false">174</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg - Wengernalp (Fox Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-wengernalp-fox-run-175.html</link>
+      <guid isPermaLink="false">175</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Wengernalp - Allmend (Fox Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/wengernalp-allmend-fox-run-176.html</link>
+      <guid isPermaLink="false">176</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Holenstein - Grindelwald Grund</title>
+      <link>https://demo.tourismusweb.site/de/index/holenstein-grindelwald-grund-177.html</link>
+      <guid isPermaLink="false">177</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Scheidegg - Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/scheidegg-maennlichen-178.html</link>
+      <guid isPermaLink="false">178</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Scheidegg - Salzegg</title>
+      <link>https://demo.tourismusweb.site/de/index/scheidegg-salzegg-179.html</link>
+      <guid isPermaLink="false">179</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Eigergletscher - Kleine Scheidegg (Jungfrau Eiger Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/eigergletscher-kleine-scheidegg-jungfrau-eiger-run-205.html</link>
+      <guid isPermaLink="false">205</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Alpiglen - Brandegg (Eiger Run - schwer/difficult)</title>
+      <link>https://demo.tourismusweb.site/de/index/alpiglen-brandegg-eiger-run-schwer-difficult-206.html</link>
+      <guid isPermaLink="false">206</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Gummi Süd</title>
+      <link>https://demo.tourismusweb.site/de/index/gummi-sued-297.html</link>
+      <guid isPermaLink="false">297</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Eigergletscher - Kleine Scheidegg (Jungfrau Eiger Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/eigergletscher-kleine-scheidegg-jungfrau-eiger-run-299.html</link>
+      <guid isPermaLink="false">299</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Eggboden</title>
+      <link>https://demo.tourismusweb.site/de/index/eggboden-300.html</link>
+      <guid isPermaLink="false">300</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Ritas Speedway</title>
+      <link>https://demo.tourismusweb.site/de/index/ritas-speedway-301.html</link>
+      <guid isPermaLink="false">301</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Wengernalp - Allmend</title>
+      <link>https://demo.tourismusweb.site/de/index/wengernalp-allmend-302.html</link>
+      <guid isPermaLink="false">302</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Wengernalp - Allmend</title>
+      <link>https://demo.tourismusweb.site/de/index/wengernalp-allmend-303.html</link>
+      <guid isPermaLink="false">303</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Schwarzen</title>
+      <link>https://demo.tourismusweb.site/de/index/schwarzen-728.html</link>
+      <guid isPermaLink="false">728</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Alpiglen - Brandegg (Eiger Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/alpiglen-brandegg-eiger-run-929.html</link>
+      <guid isPermaLink="false">929</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg - Wixi</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-wixi-1211.html</link>
+      <guid isPermaLink="false">1211</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Piste</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>slopes</sourceType>
+    </item>
+
+    <item>
+      <title>Klettersteig Rotstock</title>
+      <link>https://demo.tourismusweb.site/de/index/klettersteig-rotstock-7.html</link>
+      <guid isPermaLink="false">7</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald - Gletscherschlucht - Boneren - Alpiglen</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-gletscherschlucht-boneren-alpiglen-8.html</link>
+      <guid isPermaLink="false">8</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Wengernalp - Biglenalp - Locherflue - Kl. Scheidegg (Marathon -Trail)</title>
+      <link>https://demo.tourismusweb.site/de/index/wengernalp-biglenalp-locherflue-kl-scheidegg-marathon-trail-9.html</link>
+      <guid isPermaLink="false">9</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Holenstein - Bustiglen - Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/holenstein-bustiglen-kleine-scheidegg-11.html</link>
+      <guid isPermaLink="false">11</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Holenstein - Brandegg</title>
+      <link>https://demo.tourismusweb.site/de/index/holenstein-brandegg-12.html</link>
+      <guid isPermaLink="false">12</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen - Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-kleine-scheidegg-13.html</link>
+      <guid isPermaLink="false">13</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Alpiglen – Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/alpiglen-kleine-scheidegg-14.html</link>
+      <guid isPermaLink="false">14</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Alpiglen - Bustiglen - Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/alpiglen-bustiglen-maennlichen-15.html</link>
+      <guid isPermaLink="false">15</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Eiger Trail (Alpiglen - Eigergletscher)</title>
+      <link>https://demo.tourismusweb.site/de/index/eiger-trail-alpiglen-eigergletscher-16.html</link>
+      <guid isPermaLink="false">16</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Jungfrau Eiger Walk (Eigergletscher - Kleine Scheidegg)</title>
+      <link>https://demo.tourismusweb.site/de/index/jungfrau-eiger-walk-eigergletscher-kleine-scheidegg-18.html</link>
+      <guid isPermaLink="false">18</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Wengernalp - Biglenalp - Eigergletscher</title>
+      <link>https://demo.tourismusweb.site/de/index/wengernalp-biglenalp-eigergletscher-19.html</link>
+      <guid isPermaLink="false">19</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Wengernalp - Biglenalp - Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/wengernalp-biglenalp-kleine-scheidegg-20.html</link>
+      <guid isPermaLink="false">20</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Lauberhorn Trail (Kleine Scheidegg - Wengen)</title>
+      <link>https://demo.tourismusweb.site/de/index/lauberhorn-trail-kleine-scheidegg-wengen-21.html</link>
+      <guid isPermaLink="false">21</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Wengen - Wengernalp - Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/wengen-wengernalp-kleine-scheidegg-22.html</link>
+      <guid isPermaLink="false">22</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Wengen - Staldenfluh - Mettlenalp - Wengernalp</title>
+      <link>https://demo.tourismusweb.site/de/index/wengen-staldenfluh-mettlenalp-wengernalp-23.html</link>
+      <guid isPermaLink="false">23</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Wengen - Mettlenalp - Biglenalp - Wengernalp</title>
+      <link>https://demo.tourismusweb.site/de/index/wengen-mettlenalp-biglenalp-wengernalp-24.html</link>
+      <guid isPermaLink="false">24</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Wengen - Leiterhorn - Spätenalp - Burglauenen</title>
+      <link>https://demo.tourismusweb.site/de/index/wengen-leiterhorn-spaetenalp-burglauenen-25.html</link>
+      <guid isPermaLink="false">25</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Wengen - Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/wengen-maennlichen-26.html</link>
+      <guid isPermaLink="false">26</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Wengen - In Gassen - Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/wengen-in-gassen-maennlichen-27.html</link>
+      <guid isPermaLink="false">27</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Royal Walk (Männlichen - Männlichengipfel)</title>
+      <link>https://demo.tourismusweb.site/de/index/royal-walk-maennlichen-maennlichengipfel-28.html</link>
+      <guid isPermaLink="false">28</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Lauterbrunnen - Wengen</title>
+      <link>https://demo.tourismusweb.site/de/index/lauterbrunnen-wengen-29.html</link>
+      <guid isPermaLink="false">29</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Lauterbrunnen - Wengwald - Wengen</title>
+      <link>https://demo.tourismusweb.site/de/index/lauterbrunnen-wengwald-wengen-30.html</link>
+      <guid isPermaLink="false">30</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Royal Walk Männlichen Gipfel</title>
+      <link>https://demo.tourismusweb.site/de/index/royal-walk-maennlichen-gipfel-31.html</link>
+      <guid isPermaLink="false">31</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Easy Männlichen - Holenstein</title>
+      <link>https://demo.tourismusweb.site/de/index/easy-maennlichen-holenstein-32.html</link>
+      <guid isPermaLink="false">32</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg - Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-maennlichen-33.html</link>
+      <guid isPermaLink="false">33</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen - Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-kleine-scheidegg-34.html</link>
+      <guid isPermaLink="false">34</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Alpiglen - Brandegg (Eiger Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/alpiglen-brandegg-eiger-run-35.html</link>
+      <guid isPermaLink="false">35</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Brandegg - Grindelwald Grund (Eiger Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/brandegg-grindelwald-grund-eiger-run-36.html</link>
+      <guid isPermaLink="false">36</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg - Alpiglen (Eiger Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-alpiglen-eiger-run-37.html</link>
+      <guid isPermaLink="false">37</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Fallboden (Pelzmantel)</title>
+      <link>https://demo.tourismusweb.site/de/index/fallboden-pelzmantel-38.html</link>
+      <guid isPermaLink="false">38</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Allmend - Wengen Dorf (Fox Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/allmend-wengen-dorf-fox-run-39.html</link>
+      <guid isPermaLink="false">39</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Kleine Scheidegg - Wengernalp (Fox Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/kleine-scheidegg-wengernalp-fox-run-40.html</link>
+      <guid isPermaLink="false">40</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Wengernalp - Allmend (Fox Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/wengernalp-allmend-fox-run-41.html</link>
+      <guid isPermaLink="false">41</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Jungfrau Eiger Run</title>
+      <link>https://demo.tourismusweb.site/de/index/jungfrau-eiger-run-119.html</link>
+      <guid isPermaLink="false">119</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Alpiglen - Brandegg (Eiger Run - schwer/difficult)</title>
+      <link>https://demo.tourismusweb.site/de/index/alpiglen-brandegg-eiger-run-schwer-difficult-120.html</link>
+      <guid isPermaLink="false">120</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Holenstein - Grindelwald Grund</title>
+      <link>https://demo.tourismusweb.site/de/index/holenstein-grindelwald-grund-130.html</link>
+      <guid isPermaLink="false">130</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Eigergletscher - Kleine Scheidegg (Jungfrau Eiger Run)</title>
+      <link>https://demo.tourismusweb.site/de/index/eigergletscher-kleine-scheidegg-jungfrau-eiger-run-138.html</link>
+      <guid isPermaLink="false">138</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen - Holenstein</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-holenstein-357.html</link>
+      <guid isPermaLink="false">357</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Holenstein - Grindelwald</title>
+      <link>https://demo.tourismusweb.site/de/index/holenstein-grindelwald-358.html</link>
+      <guid isPermaLink="false">358</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Brandegg – Alpiglen</title>
+      <link>https://demo.tourismusweb.site/de/index/brandegg-alpiglen-1269.html</link>
+      <guid isPermaLink="false">1269</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwald – Brandegg</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwald-brandegg-1270.html</link>
+      <guid isPermaLink="false">1270</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Schneeschuhtrail Holenstein-Brandegg</title>
+      <link>https://demo.tourismusweb.site/de/index/schneeschuhtrail-holenstein-brandegg-1327.html</link>
+      <guid isPermaLink="false">1327</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Trail</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>trails</sourceType>
+    </item>
+
+    <item>
+      <title>Allmend</title>
+      <link>https://demo.tourismusweb.site/de/index/allmend-13.html</link>
+      <guid isPermaLink="false">13</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Alpiglen</title>
+      <link>https://demo.tourismusweb.site/de/index/alpiglen-14.html</link>
+      <guid isPermaLink="false">14</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Buschdiglen-Bar</title>
+      <link>https://demo.tourismusweb.site/de/index/buschdiglen-bar-15.html</link>
+      <guid isPermaLink="false">15</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Bahnhofbuffett Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/bahnhofbuffett-kleine-scheidegg-16.html</link>
+      <guid isPermaLink="false">16</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Banket Restaurant Eiger - Jungfraujoch</title>
+      <link>https://demo.tourismusweb.site/de/index/banket-restaurant-eiger-jungfraujoch-17.html</link>
+      <guid isPermaLink="false">17</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Bellevue Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/bellevue-kleine-scheidegg-18.html</link>
+      <guid isPermaLink="false">18</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Brandegg</title>
+      <link>https://demo.tourismusweb.site/de/index/brandegg-19.html</link>
+      <guid isPermaLink="false">19</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Eigergletscher</title>
+      <link>https://demo.tourismusweb.site/de/index/eigergletscher-20.html</link>
+      <guid isPermaLink="false">20</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Eigernordwand</title>
+      <link>https://demo.tourismusweb.site/de/index/eigernordwand-21.html</link>
+      <guid isPermaLink="false">21</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Grindelwaldblick</title>
+      <link>https://demo.tourismusweb.site/de/index/grindelwaldblick-22.html</link>
+      <guid isPermaLink="false">22</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Holzerbar</title>
+      <link>https://demo.tourismusweb.site/de/index/holzerbar-23.html</link>
+      <guid isPermaLink="false">23</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Hotel Bodenwald</title>
+      <link>https://demo.tourismusweb.site/de/index/hotel-bodenwald-24.html</link>
+      <guid isPermaLink="false">24</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Jungfraujoch  - Top of Europe</title>
+      <link>https://demo.tourismusweb.site/de/index/jungfraujoch-top-of-europe-25.html</link>
+      <guid isPermaLink="false">25</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Kaffeebar - Jungfraujoch</title>
+      <link>https://demo.tourismusweb.site/de/index/kaffeebar-jungfraujoch-26.html</link>
+      <guid isPermaLink="false">26</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-27.html</link>
+      <guid isPermaLink="false">27</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Männlichen-Bar</title>
+      <link>https://demo.tourismusweb.site/de/index/maennlichen-bar-28.html</link>
+      <guid isPermaLink="false">28</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Mönchsjochhütte</title>
+      <link>https://demo.tourismusweb.site/de/index/moenchsjochhuette-29.html</link>
+      <guid isPermaLink="false">29</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Proseccobar Sphinx - Jungfraujoch</title>
+      <link>https://demo.tourismusweb.site/de/index/proseccobar-sphinx-jungfraujoch-30.html</link>
+      <guid isPermaLink="false">30</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Quicki-Bar</title>
+      <link>https://demo.tourismusweb.site/de/index/quicki-bar-31.html</link>
+      <guid isPermaLink="false">31</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Restaurant Aletsch - Jungfraujoch</title>
+      <link>https://demo.tourismusweb.site/de/index/restaurant-aletsch-jungfraujoch-32.html</link>
+      <guid isPermaLink="false">32</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Restaurant Bollywood - Jungfraujoch</title>
+      <link>https://demo.tourismusweb.site/de/index/restaurant-bollywood-jungfraujoch-33.html</link>
+      <guid isPermaLink="false">33</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Schigrill &amp; Bar Gysibielen</title>
+      <link>https://demo.tourismusweb.site/de/index/schigrill-bar-gysibielen-34.html</link>
+      <guid isPermaLink="false">34</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Schneebar Läger</title>
+      <link>https://demo.tourismusweb.site/de/index/schneebar-laeger-35.html</link>
+      <guid isPermaLink="false">35</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>The Wall Bar</title>
+      <link>https://demo.tourismusweb.site/de/index/the-wall-bar-36.html</link>
+      <guid isPermaLink="false">36</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Spycherbar Männlichen</title>
+      <link>https://demo.tourismusweb.site/de/index/spycherbar-maennlichen-37.html</link>
+      <guid isPermaLink="false">37</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Startbar Lauberhorn</title>
+      <link>https://demo.tourismusweb.site/de/index/startbar-lauberhorn-38.html</link>
+      <guid isPermaLink="false">38</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Food &amp; Bar Hütte Kleine Scheidegg</title>
+      <link>https://demo.tourismusweb.site/de/index/food-bar-huette-kleine-scheidegg-39.html</link>
+      <guid isPermaLink="false">39</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>disabled</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Vorsaas Stube</title>
+      <link>https://demo.tourismusweb.site/de/index/vorsaas-stube-40.html</link>
+      <guid isPermaLink="false">40</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Wengeneralp</title>
+      <link>https://demo.tourismusweb.site/de/index/wengeneralp-41.html</link>
+      <guid isPermaLink="false">41</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>open</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+
+    <item>
+      <title>Wöschbar</title>
+      <link>https://demo.tourismusweb.site/de/index/woeschbar-42.html</link>
+      <guid isPermaLink="false">42</guid>
+      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <status>closed</status>
+      <tag>Gastro</tag>
+      <sourceTenant>Kleine Scheidegg</sourceTenant>
+      <sourceType>gastros</sourceType>
+    </item>
+  </channel>
+</rss>
