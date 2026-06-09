@@ -13,6 +13,13 @@ function getName(nameObj) {
   return nameObj.de || nameObj.en || '';
 }
 
+function getItemTitle(entry) {
+  const label = String(entry.label || '').trim();
+  const name = getName(entry.name).trim();
+  if (label && name) return `${label} ${name}`;
+  return name || label;
+}
+
 function createSlug(title) {
   if (!title) return '';
   return title
@@ -48,7 +55,7 @@ function mapStateRaw(statusCode) {
 }
 
 function createFeedItem(entry, tag, sourceType) {
-  const title = getName(entry.name);
+  const title = getItemTitle(entry);
   const slug = createSlug(title);
   const id = String(entry.id || '');
 

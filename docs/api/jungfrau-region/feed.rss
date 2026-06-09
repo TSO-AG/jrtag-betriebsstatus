@@ -4,13 +4,13 @@
     <title>Betriebsstatus Jungfrau Region</title>
     <link>https://tsolenthaler.github.io/jrtag-betriebsstatus/operating-status/jungfrau-region/</link>
     <description>Betriebsstatus für Jungfrau Region</description>
-    <lastBuildDate>2026-03-31T09:57:42Z</lastBuildDate>
+    <lastBuildDate>2026-06-09T04:53:07Z</lastBuildDate>
     <atom:link href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/jungfrau-region/feed.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>Adventure auf dem Gletscher</title>
       <link>https://demo.tourismusweb.site/de/index/adventure-auf-dem-gletscher-140.html</link>
       <guid isPermaLink="false">140</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>closed</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -21,7 +21,7 @@
       <title>Climb the Eiger</title>
       <link>https://demo.tourismusweb.site/de/index/climb-the-eiger-142.html</link>
       <guid isPermaLink="false">142</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>closed</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -32,7 +32,7 @@
       <title>Crystall-Restaurant</title>
       <link>https://demo.tourismusweb.site/de/index/crystall-restaurant-143.html</link>
       <guid isPermaLink="false">143</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -43,7 +43,7 @@
       <title>Eispalast</title>
       <link>https://demo.tourismusweb.site/de/index/eispalast-144.html</link>
       <guid isPermaLink="false">144</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -54,7 +54,7 @@
       <title>Gletscher-Plateau</title>
       <link>https://demo.tourismusweb.site/de/index/gletscher-plateau-145.html</link>
       <guid isPermaLink="false">145</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -65,7 +65,7 @@
       <title>Gletscherrestaurant</title>
       <link>https://demo.tourismusweb.site/de/index/gletscherrestaurant-146.html</link>
       <guid isPermaLink="false">146</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -76,7 +76,7 @@
       <title>Husky-Fahrten</title>
       <link>https://demo.tourismusweb.site/de/index/husky-fahrten-147.html</link>
       <guid isPermaLink="false">147</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>closed</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -87,8 +87,8 @@
       <title>Interlaken – Harder Kulm</title>
       <link>https://demo.tourismusweb.site/de/index/interlaken-harder-kulm-148.html</link>
       <guid isPermaLink="false">148</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>disabled</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -98,7 +98,7 @@
       <title>Interlaken Ost – Grindelwald</title>
       <link>https://demo.tourismusweb.site/de/index/interlaken-ost-grindelwald-149.html</link>
       <guid isPermaLink="false">149</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -109,7 +109,7 @@
       <title>Interlaken Ost – Lauterbrunnen</title>
       <link>https://demo.tourismusweb.site/de/index/interlaken-ost-lauterbrunnen-150.html</link>
       <guid isPermaLink="false">150</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -120,7 +120,7 @@
       <title>Interlaken Ost – Zweilütschinen</title>
       <link>https://demo.tourismusweb.site/de/index/interlaken-ost-zweiluetschinen-151.html</link>
       <guid isPermaLink="false">151</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -131,7 +131,7 @@
       <title>Selbstbedienung</title>
       <link>https://demo.tourismusweb.site/de/index/selbstbedienung-153.html</link>
       <guid isPermaLink="false">153</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -142,7 +142,7 @@
       <title>SnowDisc-Run</title>
       <link>https://demo.tourismusweb.site/de/index/snowdisc-run-154.html</link>
       <guid isPermaLink="false">154</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>closed</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -153,7 +153,7 @@
       <title>Sphinx-Terrassen</title>
       <link>https://demo.tourismusweb.site/de/index/sphinx-terrassen-155.html</link>
       <guid isPermaLink="false">155</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -164,7 +164,7 @@
       <title>Tirolienne</title>
       <link>https://demo.tourismusweb.site/de/index/tirolienne-156.html</link>
       <guid isPermaLink="false">156</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>closed</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -175,7 +175,7 @@
       <title>Wilderswil – Schynige Platte</title>
       <link>https://demo.tourismusweb.site/de/index/wilderswil-schynige-platte-157.html</link>
       <guid isPermaLink="false">157</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -186,7 +186,7 @@
       <title>Zweilütschinen – Grindelwald</title>
       <link>https://demo.tourismusweb.site/de/index/zweiluetschinen-grindelwald-159.html</link>
       <guid isPermaLink="false">159</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -197,7 +197,7 @@
       <title>Zweilütschinen – Lauterbrunnen</title>
       <link>https://demo.tourismusweb.site/de/index/zweiluetschinen-lauterbrunnen-160.html</link>
       <guid isPermaLink="false">160</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -208,8 +208,8 @@
       <title>Lauterbrunnen – Grütschalp</title>
       <link>https://demo.tourismusweb.site/de/index/lauterbrunnen-gruetschalp-230.html</link>
       <guid isPermaLink="false">230</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -219,8 +219,8 @@
       <title>Lauterbrunnen – Mürren</title>
       <link>https://demo.tourismusweb.site/de/index/lauterbrunnen-muerren-232.html</link>
       <guid isPermaLink="false">232</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -230,7 +230,7 @@
       <title>Grütschalp – Winteregg</title>
       <link>https://demo.tourismusweb.site/de/index/gruetschalp-winteregg-233.html</link>
       <guid isPermaLink="false">233</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
@@ -241,308 +241,11 @@
       <title>Winteregg – Mürren</title>
       <link>https://demo.tourismusweb.site/de/index/winteregg-muerren-234.html</link>
       <guid isPermaLink="false">234</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Jungfrau Region</sourceTenant>
       <sourceType>lifts</sourceType>
-    </item>
-
-    <item>
-      <title>Saxeten ganze Strecke</title>
-      <link>https://demo.tourismusweb.site/de/index/saxeten-ganze-strecke-197.html</link>
-      <guid isPermaLink="false">197</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>disabled</status>
-      <tag>Piste</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Saxeten obere Teilstrecke</title>
-      <link>https://demo.tourismusweb.site/de/index/saxeten-obere-teilstrecke-198.html</link>
-      <guid isPermaLink="false">198</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>disabled</status>
-      <tag>Piste</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Saxeten untere Teilsstrecke</title>
-      <link>https://demo.tourismusweb.site/de/index/saxeten-untere-teilsstrecke-199.html</link>
-      <guid isPermaLink="false">199</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>disabled</status>
-      <tag>Piste</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Lauterbrunnen - Mürren</title>
-      <link>https://demo.tourismusweb.site/de/index/lauterbrunnen-muerren-86.html</link>
-      <guid isPermaLink="false">86</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Lauterbrunnen - Alpweg - Winteregg - Mürren</title>
-      <link>https://demo.tourismusweb.site/de/index/lauterbrunnen-alpweg-winteregg-muerren-87.html</link>
-      <guid isPermaLink="false">87</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Grütschalp - Winteregg - Mürren</title>
-      <link>https://demo.tourismusweb.site/de/index/gruetschalp-winteregg-muerren-88.html</link>
-      <guid isPermaLink="false">88</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Lauterbrunnen - Isenfluh - Saustal - Grütschalp</title>
-      <link>https://demo.tourismusweb.site/de/index/lauterbrunnen-isenfluh-saustal-gruetschalp-89.html</link>
-      <guid isPermaLink="false">89</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Zweilütschinen - Lauterbrunnen</title>
-      <link>https://demo.tourismusweb.site/de/index/zweiluetschinen-lauterbrunnen-90.html</link>
-      <guid isPermaLink="false">90</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Zweilütschinen - Burglauenen - Grindelwald</title>
-      <link>https://demo.tourismusweb.site/de/index/zweiluetschinen-burglauenen-grindelwald-91.html</link>
-      <guid isPermaLink="false">91</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Wilderswil - Zweilütschinen</title>
-      <link>https://demo.tourismusweb.site/de/index/wilderswil-zweiluetschinen-92.html</link>
-      <guid isPermaLink="false">92</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Wilderswil - Breitlauenen</title>
-      <link>https://demo.tourismusweb.site/de/index/wilderswil-breitlauenen-93.html</link>
-      <guid isPermaLink="false">93</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Breitlauenen - Schynige Platte</title>
-      <link>https://demo.tourismusweb.site/de/index/breitlauenen-schynige-platte-94.html</link>
-      <guid isPermaLink="false">94</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Schynige Platte - Oberberghorn - Schynige Platte</title>
-      <link>https://demo.tourismusweb.site/de/index/schynige-platte-oberberghorn-schynige-platte-95.html</link>
-      <guid isPermaLink="false">95</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Schynige Platte - Louchernhorn - Schynige Platte</title>
-      <link>https://demo.tourismusweb.site/de/index/schynige-platte-louchernhorn-schynige-platte-96.html</link>
-      <guid isPermaLink="false">96</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Schynige Platte - Faulhorn - First</title>
-      <link>https://demo.tourismusweb.site/de/index/schynige-platte-faulhorn-first-97.html</link>
-      <guid isPermaLink="false">97</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>First - Faulhorn - Schynige Platte</title>
-      <link>https://demo.tourismusweb.site/de/index/first-faulhorn-schynige-platte-98.html</link>
-      <guid isPermaLink="false">98</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Berghaus Männdlenen - Burglauenen</title>
-      <link>https://demo.tourismusweb.site/de/index/berghaus-maenndlenen-burglauenen-99.html</link>
-      <guid isPermaLink="false">99</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Interlaken Ost - Bönigen - Wilderswil</title>
-      <link>https://demo.tourismusweb.site/de/index/interlaken-ost-boenigen-wilderswil-100.html</link>
-      <guid isPermaLink="false">100</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Interlaken Ost - West - Unspunnen - Wilderswil</title>
-      <link>https://demo.tourismusweb.site/de/index/interlaken-ost-west-unspunnen-wilderswil-101.html</link>
-      <guid isPermaLink="false">101</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Interlaken Ost - Harder Kulm</title>
-      <link>https://demo.tourismusweb.site/de/index/interlaken-ost-harder-kulm-102.html</link>
-      <guid isPermaLink="false">102</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Interlaken - Goldswil - Bleiki - Harder Kulm</title>
-      <link>https://demo.tourismusweb.site/de/index/interlaken-goldswil-bleiki-harder-kulm-103.html</link>
-      <guid isPermaLink="false">103</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Interlaken - Goldswil - Baumgartisegg - Harder Kulm</title>
-      <link>https://demo.tourismusweb.site/de/index/interlaken-goldswil-baumgartisegg-harder-kulm-104.html</link>
-      <guid isPermaLink="false">104</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Interlaken - Ringgenberg - Roteflue - Harder</title>
-      <link>https://demo.tourismusweb.site/de/index/interlaken-ringgenberg-roteflue-harder-105.html</link>
-      <guid isPermaLink="false">105</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Harder Kulm Rundweg</title>
-      <link>https://demo.tourismusweb.site/de/index/harder-kulm-rundweg-106.html</link>
-      <guid isPermaLink="false">106</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Jungfraujoch - Mönchsjoch</title>
-      <link>https://demo.tourismusweb.site/de/index/jungfraujoch-moenchsjoch-390.html</link>
-      <guid isPermaLink="false">390</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Sommerwanderweg Mountain View Trail</title>
-      <link>https://demo.tourismusweb.site/de/index/sommerwanderweg-mountain-view-trail-1325.html</link>
-      <guid isPermaLink="false">1325</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>disabled</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Schneeschuhtrail Mürren</title>
-      <link>https://demo.tourismusweb.site/de/index/schneeschuhtrail-muerren-1326.html</link>
-      <guid isPermaLink="false">1326</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>disabled</status>
-      <tag>Trail</tag>
-      <sourceTenant>Jungfrau Region</sourceTenant>
-      <sourceType>trails</sourceType>
     </item>
   </channel>
 </rss>

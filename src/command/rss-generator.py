@@ -50,8 +50,16 @@ def create_slug(text: str) -> str:
     return slug
 
 
+def get_item_title(item: Dict[str, Any]) -> str:
+    label = str(item.get("label") or "").strip()
+    name = get_name(item.get("name")).strip()
+    if label and name:
+        return f"{label} {name}"
+    return name or label
+
+
 def to_rss_item_xml(item: Dict[str, Any], tenant_name: str, pub_date: str) -> str:
-    title = get_name(item.get("name"))
+    title = get_item_title(item)
     slug = create_slug(title)
     item_id = item.get("id", "")
     status = map_status(item.get("status"))

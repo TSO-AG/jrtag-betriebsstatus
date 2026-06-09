@@ -11,6 +11,13 @@ function getName(nameObj) {
   return nameObj.de || nameObj.en || '';
 }
 
+function getItemTitle(entry) {
+  const label = String(entry.label || '').trim();
+  const name = getName(entry.name).trim();
+  if (label && name) return `${label} ${name}`;
+  return name || label;
+}
+
 function mapStatus(statusCode) {
   switch(statusCode) {
     case 0: return 'closed';
@@ -38,7 +45,7 @@ function buildRssItems(entries, tag, sourceType) {
   return entries.map(entry => {
     const status = mapStatus(entry.status);
     const pubDate = entry.updated || new Date().toISOString();
-    const title = getName(entry.name);
+    const title = getItemTitle(entry);
     const slug = createSlug(title);
 
     return `    <item>

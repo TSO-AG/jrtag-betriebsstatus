@@ -72,6 +72,17 @@ CATEGORY_LABELS: dict[str, str] = {
     "gastros": "Gastronomie",
 }
 
+TENANT_ALIASES: dict[str, dict[str, str]] = {
+  "Kleine Scheidegg / Männlichen": {
+    "name": "Kleine Scheidegg",
+    "slug": "kleine-scheidegg",
+  },
+  "Grindelwald-First": {
+    "name": "First",
+    "slug": "first",
+  },
+}
+
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -93,6 +104,22 @@ def get_name(name_obj: Any) -> str:
     if isinstance(name_obj, dict):
         return str(name_obj.get("de") or name_obj.get("en") or "")
     return str(name_obj) if name_obj else ""
+
+
+def get_item_title(entry: dict[str, Any]) -> str:
+  label = str(entry.get("label") or "").strip()
+  name = get_name(entry.get("name")).strip()
+  if label and name:
+    return f"{label} {name}"
+  return name or label
+
+
+def get_tenant_meta(tenant: dict[str, Any]) -> tuple[str, str]:
+  tenant_name = str(tenant.get("tenantName") or "")
+  alias = TENANT_ALIASES.get(tenant_name)
+  if alias:
+    return alias["name"], alias["slug"]
+  return tenant_name, create_slug(tenant_name)
 
 
 def create_slug(text: str) -> str:
@@ -150,15 +177,14 @@ def build_json_feed(
     base_url: str,
     site_link: str,
 ) -> dict:
-    tenant_name = tenant.get("tenantName", "")
-    slug = create_slug(tenant_name)
+    tenant_name, slug = get_tenant_meta(tenant)
     items = []
 
     for key, tag in CATEGORIES:
         for entry in tenant.get(key, []):
             if not isinstance(entry, dict):
                 continue
-            title = get_name(entry.get("name"))
+            title = get_item_title(entry)
             item_id = str(entry.get("id", ""))
             item_slug = create_slug(title)
             status = entry.get("status", 1)
@@ -194,31 +220,30 @@ def build_rss_feed(
     base_url: str,
     site_link: str,
 ) -> str:
-    tenant_name = tenant.get("tenantName", "")
-    slug = create_slug(tenant_name)
-    items_xml: list[str] = []
+  tenant_name, slug = get_tenant_meta(tenant)
+  items_xml: list[str] = []
 
-    for key, tag in CATEGORIES:
-        for entry in tenant.get(key, []):
-            if not isinstance(entry, dict):
-                continue
-            title = get_name(entry.get("name"))
-            item_id = str(entry.get("id", ""))
-            item_slug = create_slug(title)
-            status = entry.get("status", 1)
-            link = f"{site_link}/de/index/{item_slug}-{item_id}.html"
-            items_xml.append(
-                "    <item>\n"
-                f"      <title>{xe(title)}</title>\n"
-                f"      <link>{xe(link)}</link>\n"
-                f'      <guid isPermaLink="false">{xe(item_id)}</guid>\n'
-                f"      <pubDate>{xe(pub_date)}</pubDate>\n"
-                f"      <status>{xe(map_status_en(status))}</status>\n"
-                f"      <tag>{xe(tag)}</tag>\n"
-                f"      <sourceTenant>{xe(tenant_name)}</sourceTenant>\n"
-                f"      <sourceType>{xe(key)}</sourceType>\n"
-                "    </item>"
-            )
+  for key, tag in CATEGORIES:
+    for entry in tenant.get(key, []):
+      if not isinstance(entry, dict):
+        continue
+      title = get_item_title(entry)
+      item_id = str(entry.get("id", ""))
+      item_slug = create_slug(title)
+      status = entry.get("status", 1)
+      link = f"{site_link}/de/index/{item_slug}-{item_id}.html"
+      items_xml.append(
+        "    <item>\n"
+        f"      <title>{xe(title)}</title>\n"
+        f"      <link>{xe(link)}</link>\n"
+        f'      <guid isPermaLink="false">{xe(item_id)}</guid>\n'
+        f"      <pubDate>{xe(pub_date)}</pubDate>\n"
+        f"      <status>{xe(map_status_en(status))}</status>\n"
+        f"      <tag>{xe(tag)}</tag>\n"
+        f"      <sourceTenant>{xe(tenant_name)}</sourceTenant>\n"
+        f"      <sourceType>{xe(key)}</sourceType>\n"
+        "    </item>"
+      )
 
     items_block = "\n\n".join(items_xml)
     status_url = f"{base_url}/operating-status/{slug}/"
@@ -309,8 +334,8 @@ def _count_open(entries: list) -> tuple[int, int]:
 
 
 def build_html_page(tenant: dict, pub_date: str, base_url: str) -> str:
-    tenant_name = h(tenant.get("tenantName", ""))
-    slug = create_slug(tenant.get("tenantName", ""))
+    tenant_name_raw, slug = get_tenant_meta(tenant)
+    tenant_name = h(tenant_name_raw)
 
     # Summary badges
     badges_html = ""
@@ -337,7 +362,7 @@ def build_html_page(tenant: dict, pub_date: str, base_url: str) -> str:
         open_, total = _count_open(entries)
         items_html = ""
         for entry in entries:
-            name = h(get_name(entry.get("name")))
+            name = h(get_item_title(entry))
             status = entry.get("status", 1)
             css = map_status_css(status)
             state_de = h(map_status_de(status))
@@ -537,8 +562,7 @@ _WIDGET_JS_TEMPLATE = (
 
 
 def build_widget_js(tenant: dict, base_url: str) -> str:
-    tenant_name = tenant.get("tenantName", "")
-    slug = create_slug(tenant_name)
+    tenant_name, slug = get_tenant_meta(tenant)
     slug_css = slug.replace("-", "_")
     return (
         _WIDGET_JS_TEMPLATE
@@ -707,8 +731,8 @@ def build_universal_widget_js(base_url: str) -> str:
 def build_index_html(tenants: list[dict], pub_date: str, base_url: str) -> str:
     cards = ""
     for tenant in tenants:
-        tenant_name = h(tenant.get("tenantName", ""))
-        slug = create_slug(tenant.get("tenantName", ""))
+        tenant_name_raw, slug = get_tenant_meta(tenant)
+        tenant_name = h(tenant_name_raw)
         open_lifts, total_lifts = _count_open(tenant.get("lifts", []))
         open_slopes, total_slopes = _count_open(tenant.get("slopes", []))
         status_url = h(f"{base_url}/operating-status/{slug}/")
@@ -822,9 +846,9 @@ def main() -> None:
     write_file(out / "js" / "widget.js", build_universal_widget_js(base_url))
 
     for tenant in tenants:
-        tenant_name = tenant.get("tenantName", "")
-        slug = create_slug(tenant_name)
-        print(f"  Generating: {tenant_name} ({slug})")
+        source_tenant_name = tenant.get("tenantName", "")
+        tenant_name, slug = get_tenant_meta(tenant)
+        print(f"  Generating: {tenant_name} ({slug}) from {source_tenant_name}")
 
         # JSON Feed
         feed_json = build_json_feed(tenant, pub_date, base_url, site_link)

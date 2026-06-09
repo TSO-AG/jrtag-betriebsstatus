@@ -4,14 +4,14 @@
     <title>Betriebsstatus Mürren-Schilthorn</title>
     <link>https://tsolenthaler.github.io/jrtag-betriebsstatus/operating-status/muerren-schilthorn/</link>
     <description>Betriebsstatus für Mürren-Schilthorn</description>
-    <lastBuildDate>2026-03-31T09:57:42Z</lastBuildDate>
+    <lastBuildDate>2026-06-09T04:53:07Z</lastBuildDate>
     <atom:link href="https://tsolenthaler.github.io/jrtag-betriebsstatus/api/muerren-schilthorn/feed.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>Kandahar</title>
       <link>https://demo.tourismusweb.site/de/index/kandahar-359.html</link>
       <guid isPermaLink="false">359</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -21,8 +21,8 @@
       <title>Maulerhubel</title>
       <link>https://demo.tourismusweb.site/de/index/maulerhubel-360.html</link>
       <guid isPermaLink="false">360</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -32,8 +32,8 @@
       <title>Muttleren</title>
       <link>https://demo.tourismusweb.site/de/index/muttleren-361.html</link>
       <guid isPermaLink="false">361</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -43,8 +43,8 @@
       <title>Allmiboden</title>
       <link>https://demo.tourismusweb.site/de/index/allmiboden-362.html</link>
       <guid isPermaLink="false">362</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -54,8 +54,8 @@
       <title>Winteregg</title>
       <link>https://demo.tourismusweb.site/de/index/winteregg-363.html</link>
       <guid isPermaLink="false">363</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -65,8 +65,8 @@
       <title>Riggli</title>
       <link>https://demo.tourismusweb.site/de/index/riggli-364.html</link>
       <guid isPermaLink="false">364</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -76,8 +76,8 @@
       <title>Schiltgrat</title>
       <link>https://demo.tourismusweb.site/de/index/schiltgrat-365.html</link>
       <guid isPermaLink="false">365</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -87,7 +87,7 @@
       <title>Stechelberg – Gimmelwald</title>
       <link>https://demo.tourismusweb.site/de/index/stechelberg-gimmelwald-366.html</link>
       <guid isPermaLink="false">366</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
@@ -98,7 +98,7 @@
       <title>Birg – Schilthorn</title>
       <link>https://demo.tourismusweb.site/de/index/birg-schilthorn-367.html</link>
       <guid isPermaLink="false">367</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
@@ -109,7 +109,7 @@
       <title>Gimmelwald – Mürren</title>
       <link>https://demo.tourismusweb.site/de/index/gimmelwald-muerren-369.html</link>
       <guid isPermaLink="false">369</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
@@ -120,7 +120,7 @@
       <title>Mürren – Birg</title>
       <link>https://demo.tourismusweb.site/de/index/muerren-birg-370.html</link>
       <guid isPermaLink="false">370</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
@@ -131,8 +131,8 @@
       <title>Allmendhubel</title>
       <link>https://demo.tourismusweb.site/de/index/allmendhubel-371.html</link>
       <guid isPermaLink="false">371</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -142,8 +142,8 @@
       <title>Gimmeln</title>
       <link>https://demo.tourismusweb.site/de/index/gimmeln-372.html</link>
       <guid isPermaLink="false">372</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
+      <status>disabled</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
       <sourceType>lifts</sourceType>
@@ -153,7 +153,7 @@
       <title>Mürren – Allmendhubel</title>
       <link>https://demo.tourismusweb.site/de/index/muerren-allmendhubel-373.html</link>
       <guid isPermaLink="false">373</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
@@ -164,484 +164,11 @@
       <title>Stechelberg – Mürren</title>
       <link>https://demo.tourismusweb.site/de/index/stechelberg-muerren-573.html</link>
       <guid isPermaLink="false">573</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
+      <pubDate>2026-06-09T04:53:07Z</pubDate>
       <status>open</status>
       <tag>Anlage</tag>
       <sourceTenant>Mürren-Schilthorn</sourceTenant>
       <sourceType>lifts</sourceType>
-    </item>
-
-    <item>
-      <title>Winteregg - Oberberg</title>
-      <link>https://demo.tourismusweb.site/de/index/winteregg-oberberg-580.html</link>
-      <guid isPermaLink="false">580</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Dreistern</title>
-      <link>https://demo.tourismusweb.site/de/index/dreistern-581.html</link>
-      <guid isPermaLink="false">581</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Lauterbrunnen</title>
-      <link>https://demo.tourismusweb.site/de/index/lauterbrunnen-582.html</link>
-      <guid isPermaLink="false">582</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Maulerhubel</title>
-      <link>https://demo.tourismusweb.site/de/index/maulerhubel-583.html</link>
-      <guid isPermaLink="false">583</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Palace-Run</title>
-      <link>https://demo.tourismusweb.site/de/index/palace-run-584.html</link>
-      <guid isPermaLink="false">584</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Bob-Run</title>
-      <link>https://demo.tourismusweb.site/de/index/bob-run-585.html</link>
-      <guid isPermaLink="false">585</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Allmi</title>
-      <link>https://demo.tourismusweb.site/de/index/allmi-586.html</link>
-      <guid isPermaLink="false">586</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Riggli</title>
-      <link>https://demo.tourismusweb.site/de/index/riggli-587.html</link>
-      <guid isPermaLink="false">587</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Direttissima</title>
-      <link>https://demo.tourismusweb.site/de/index/direttissima-589.html</link>
-      <guid isPermaLink="false">589</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Schilthorn Abfahrt</title>
-      <link>https://demo.tourismusweb.site/de/index/schilthorn-abfahrt-590.html</link>
-      <guid isPermaLink="false">590</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Engetal</title>
-      <link>https://demo.tourismusweb.site/de/index/engetal-591.html</link>
-      <guid isPermaLink="false">591</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Bond</title>
-      <link>https://demo.tourismusweb.site/de/index/bond-592.html</link>
-      <guid isPermaLink="false">592</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Stellifluh</title>
-      <link>https://demo.tourismusweb.site/de/index/stellifluh-593.html</link>
-      <guid isPermaLink="false">593</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Muttleren</title>
-      <link>https://demo.tourismusweb.site/de/index/muttleren-594.html</link>
-      <guid isPermaLink="false">594</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Bietenhorn</title>
-      <link>https://demo.tourismusweb.site/de/index/bietenhorn-595.html</link>
-      <guid isPermaLink="false">595</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Kanonenrohr - Mürren</title>
-      <link>https://demo.tourismusweb.site/de/index/kanonenrohr-muerren-597.html</link>
-      <guid isPermaLink="false">597</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>FIS</title>
-      <link>https://demo.tourismusweb.site/de/index/fis-598.html</link>
-      <guid isPermaLink="false">598</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Hindenburg</title>
-      <link>https://demo.tourismusweb.site/de/index/hindenburg-599.html</link>
-      <guid isPermaLink="false">599</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Suppen / Rad</title>
-      <link>https://demo.tourismusweb.site/de/index/suppen-rad-601.html</link>
-      <guid isPermaLink="false">601</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Gimmeln</title>
-      <link>https://demo.tourismusweb.site/de/index/gimmeln-602.html</link>
-      <guid isPermaLink="false">602</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Gimmeln</title>
-      <link>https://demo.tourismusweb.site/de/index/gimmeln-604.html</link>
-      <guid isPermaLink="false">604</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Finel</title>
-      <link>https://demo.tourismusweb.site/de/index/finel-605.html</link>
-      <guid isPermaLink="false">605</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Wintertal</title>
-      <link>https://demo.tourismusweb.site/de/index/wintertal-606.html</link>
-      <guid isPermaLink="false">606</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Abfahrtsroute Gimmelwald</title>
-      <link>https://demo.tourismusweb.site/de/index/abfahrtsroute-gimmelwald-609.html</link>
-      <guid isPermaLink="false">609</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>disabled</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Apollo</title>
-      <link>https://demo.tourismusweb.site/de/index/apollo-615.html</link>
-      <guid isPermaLink="false">615</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Bobrun</title>
-      <link>https://demo.tourismusweb.site/de/index/bobrun-616.html</link>
-      <guid isPermaLink="false">616</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Kandahar</title>
-      <link>https://demo.tourismusweb.site/de/index/kandahar-1113.html</link>
-      <guid isPermaLink="false">1113</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Abfahrtsroute Schiltgrat - Gimmeln</title>
-      <link>https://demo.tourismusweb.site/de/index/abfahrtsroute-schiltgrat-gimmeln-1156.html</link>
-      <guid isPermaLink="false">1156</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Riggli</title>
-      <link>https://demo.tourismusweb.site/de/index/riggli-1196.html</link>
-      <guid isPermaLink="false">1196</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Piste</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>slopes</sourceType>
-    </item>
-
-    <item>
-      <title>Mürren - Gimmeln</title>
-      <link>https://demo.tourismusweb.site/de/index/muerren-gimmeln-413.html</link>
-      <guid isPermaLink="false">413</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Gimmeln - Schiltgrat</title>
-      <link>https://demo.tourismusweb.site/de/index/gimmeln-schiltgrat-414.html</link>
-      <guid isPermaLink="false">414</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>closed</status>
-      <tag>Trail</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Mürren - Sonnenberg</title>
-      <link>https://demo.tourismusweb.site/de/index/muerren-sonnenberg-415.html</link>
-      <guid isPermaLink="false">415</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Mürren - Winteregg</title>
-      <link>https://demo.tourismusweb.site/de/index/muerren-winteregg-417.html</link>
-      <guid isPermaLink="false">417</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Mürren - Gimmelwald</title>
-      <link>https://demo.tourismusweb.site/de/index/muerren-gimmelwald-419.html</link>
-      <guid isPermaLink="false">419</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Trail</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>trails</sourceType>
-    </item>
-
-    <item>
-      <title>Winteregg</title>
-      <link>https://demo.tourismusweb.site/de/index/winteregg-390.html</link>
-      <guid isPermaLink="false">390</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Gastro</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>gastros</sourceType>
-    </item>
-
-    <item>
-      <title>Suppenalp</title>
-      <link>https://demo.tourismusweb.site/de/index/suppenalp-391.html</link>
-      <guid isPermaLink="false">391</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Gastro</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>gastros</sourceType>
-    </item>
-
-    <item>
-      <title>Sonnenberg</title>
-      <link>https://demo.tourismusweb.site/de/index/sonnenberg-392.html</link>
-      <guid isPermaLink="false">392</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Gastro</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>gastros</sourceType>
-    </item>
-
-    <item>
-      <title>Schiltgrathüsi</title>
-      <link>https://demo.tourismusweb.site/de/index/schiltgrathuesi-393.html</link>
-      <guid isPermaLink="false">393</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Gastro</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>gastros</sourceType>
-    </item>
-
-    <item>
-      <title>Schilthornhütte</title>
-      <link>https://demo.tourismusweb.site/de/index/schilthornhuette-394.html</link>
-      <guid isPermaLink="false">394</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Gastro</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>gastros</sourceType>
-    </item>
-
-    <item>
-      <title>Schilthorn - Piz Gloria</title>
-      <link>https://demo.tourismusweb.site/de/index/schilthorn-piz-gloria-395.html</link>
-      <guid isPermaLink="false">395</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Gastro</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>gastros</sourceType>
-    </item>
-
-    <item>
-      <title>Gimmeln</title>
-      <link>https://demo.tourismusweb.site/de/index/gimmeln-396.html</link>
-      <guid isPermaLink="false">396</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Gastro</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>gastros</sourceType>
-    </item>
-
-    <item>
-      <title>Birg Selfservice</title>
-      <link>https://demo.tourismusweb.site/de/index/birg-selfservice-397.html</link>
-      <guid isPermaLink="false">397</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Gastro</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>gastros</sourceType>
-    </item>
-
-    <item>
-      <title>Allmendhubel</title>
-      <link>https://demo.tourismusweb.site/de/index/allmendhubel-398.html</link>
-      <guid isPermaLink="false">398</guid>
-      <pubDate>2026-03-31T09:57:42Z</pubDate>
-      <status>open</status>
-      <tag>Gastro</tag>
-      <sourceTenant>Mürren-Schilthorn</sourceTenant>
-      <sourceType>gastros</sourceType>
     </item>
   </channel>
 </rss>
