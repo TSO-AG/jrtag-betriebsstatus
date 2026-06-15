@@ -28,9 +28,9 @@
     s.textContent = [
       '.bss-widget{font-family:system-ui,sans-serif;max-width:480px;border:1px solid #e2e8f0;',
       'border-radius:.5rem;overflow:hidden;background:#fff;font-size:.875rem;}',
-      '.bss-hdr{background:#1e3a5f;color:#fff;padding:.6rem .9rem;}',
+      '.bss-hdr{background:#ffffff;color:#1e293b;padding:.6rem .9rem;border-bottom:1px solid #e2e8f0;}',
       '.bss-hdr h3{margin:0;font-size:1rem;font-weight:600;}',
-      '.bss-hdr p{margin:.15rem 0 0;font-size:.72rem;opacity:.7;}',
+      '.bss-hdr p{margin:.15rem 0 0;font-size:.72rem;color:#64748b;opacity:1;}',
       '.bss-sec{border-top:1px solid #e2e8f0;}',
       '.bss-sec summary{margin:0;padding:.4rem .8rem;background:#f1f5f9;',
       'font-size:.78rem;font-weight:600;color:#475569;cursor:pointer;list-style:none;}',
